@@ -6582,7 +6582,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             'name': 'Experience Gem',
                             'description': 'Increases experience.',
                             'tips': '',
-                            'texture': '_items',
+                            'texture': 'items',
                             'frameName': 'GemBlue.png',
                             'pickedupAmount': 0x0,
                             'rarity': 0x0,
@@ -6596,7 +6596,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             'description': 'Adds 1 to your gold coins total.',
                             'tips': '',
                             'frameName': 'CoinGold.png',
-                            'texture': '_items',
+                            'texture': 'items',
                             'pickedupAmount': 0x0,
                             'rarity': 0x32,
                             'unlocksAt': 0x0,
@@ -6608,7 +6608,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             'name': 'Coin Bag',
                             'description': 'Adds 10 to your gold coins total.',
                             'tips': '',
-                            'texture': '_items',
+                            'texture': 'items',
                             'frameName': 'MoneyBagRed.png',
                             'pickedupAmount': 0x0,
                             'rarity': 0xa,
@@ -6620,7 +6620,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             'name': 'Big Coin Bag',
                             'description': 'Adds 25 to your gold coins total.',
                             'tips': '',
-                            'texture': '_items',
+                            'texture': 'items',
                             'frameName': 'MoneyBagGreen.png',
                             'pickedupAmount': 0x0,
                             'rarity': 0x0,
@@ -6632,7 +6632,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             'name': 'Rich Coin Bag',
                             'description': 'Adds 100 to your gold coins total.',
                             'tips': 'Drop rate affected by Luck.',
-                            'texture': '_items',
+                            'texture': 'items',
                             'frameName': 'MoneyBagColor.png',
                             'pickedupAmount': 0x0,
                             'rarity': 0x1,
@@ -6644,7 +6644,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             'name': 'Rosary',
                             'description': 'Destroys all enemies in sight.',
                             'tips': 'Drop rate affected by Luck.',
-                            'texture': '_items',
+                            'texture': 'items',
                             'frameName': 'Rosary1.png',
                             'pickedupAmount': 0x0,
                             'rarity': 0x1,
@@ -6656,7 +6656,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             'name': 'Nduja Fritta',
                             'description': 'Temporarily emits cones of flames. Affected by player stats.',
                             'tips': 'Drop rate affected by Luck.',
-                            'texture': '_items',
+                            'texture': 'items',
                             'frameName': 'Nft1.png',
                             'pickedupAmount': 0x0,
                             'rarity': 0x1,
@@ -6668,7 +6668,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             'name': 'Orologion',
                             'description': 'Freezes all enemies in time for 10 seconds.',
                             'tips': 'Drop rate affected by Luck.',
-                            'texture': '_items',
+                            'texture': 'items',
                             'frameName': 'PocketWatch1.png',
                             'pickedupAmount': 0x0,
                             'rarity': 0x2,
@@ -6680,7 +6680,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             'name': 'Vacuum',
                             'description': 'Gathers all experience gems left on the ground.',
                             'tips': 'Drop rate affected by Luck.',
-                            'texture': '_items',
+                            'texture': 'items',
                             'frameName': 'Vacuum1.png',
                             'pickedupAmount': 0x0,
                             'rarity': 0x2,
@@ -6692,7 +6692,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             'name': 'Floor Chicken',
                             'description': 'Restores 30 health points.',
                             'tips': 'Drop rate affected by Luck.',
-                            'texture': '_items',
+                            'texture': 'items',
                             'frameName': 'Roast.png',
                             'pickedupAmount': 0x0,
                             'rarity': 0xc,
@@ -6704,7 +6704,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             'name': 'Little Heart',
                             'description': 'Pick up to recover 1 HP.',
                             'tips': '',
-                            'texture': '_items',
+                            'texture': 'items',
                             'frameName': 'HeartMini.png',
                             'pickedupAmount': 0x0,
                             'rarity': 0x0,
@@ -6717,7 +6717,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             'name': 'Little Clover',
                             'description': 'Pick up to get 10% luckier.',
                             'tips': '',
-                            'texture': '_items',
+                            'texture': 'items',
                             'frameName': 'Clover2.png',
                             'pickedupAmount': 0x0,
                             'rarity': 0.5,
@@ -6729,7 +6729,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             'name': 'Treasure Chest',
                             'description': 'Awards coins and power ups. Dropped by strong enemies.',
                             'tips': 'Quality affected by Luck.',
-                            'texture': '_items',
+                            'texture': 'items',
                             'frameName': 'BoxOpen.png',
                             'pickedupAmount': 0x0,
                             'rarity': 0x0,
@@ -6741,7 +6741,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             'name': 'Weapon',
                             'description': 'NA',
                             'tips': '',
-                            'texture': '_items',
+                            'texture': 'items',
                             'frameName': '',
                             'pickedupAmount': 0x0,
                             'rarity': 0x0,
@@ -6754,7 +6754,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             'name': '',
                             'description': '1',
                             'tips': '',
-                            'texture': '_items',
+                            'texture': 'items',
                             'frameName': 'BoxOpen.png',
                             'pickedupAmount': 0x0,
                             'rarity': 0x0,
@@ -6767,7 +6767,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             'name': '',
                             'description': '2',
                             'tips': '',
-                            'texture': '_items',
+                            'texture': 'items',
                             'frameName': 'BoxOpen2.png',
                             'pickedupAmount': 0x0,
                             'rarity': 0x0,
@@ -6780,7 +6780,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             'name': '',
                             'description': '3',
                             'tips': '',
-                            'texture': '_items',
+                            'texture': 'items',
                             'frameName': 'BoxOpen3.png',
                             'pickedupAmount': 0x0,
                             'rarity': 0x0,
@@ -6793,7 +6793,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             'name': '',
                             'description': '',
                             'tips': '',
-                            'texture': '_items',
+                            'texture': 'items',
                             'frameName': 'Brazier1.png',
                             'pickedupAmount': 0x0,
                             'rarity': 0x0,
@@ -6806,7 +6806,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             'name': '',
                             'description': '',
                             'tips': '',
-                            'texture': '_items',
+                            'texture': 'items',
                             'frameName': '',
                             'pickedupAmount': 0x0,
                             'rarity': 0x0,
@@ -6821,7 +6821,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             'description': 'Permanently enables the map in the pause menu.',
                             'tips': '',
                             'achievementTips': ' pause menu map.',
-                            'texture': '_items',
+                            'texture': 'items',
                             'frameName': 'Map.png',
                             'pickedupAmount': 0x0,
                             'rarity': 0x0,
@@ -6836,7 +6836,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             'description': 'Permanently allows to speed up time in Stage Selection.',
                             'tips': '',
                             'achievementTips': ' Hurry mode.',
-                            'texture': '_items',
+                            'texture': 'items',
                             'frameName': 'Tear.png',
                             'pickedupAmount': 0x0,
                             'rarity': 0x0,
@@ -6851,7 +6851,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             'description': 'Enables the unlocking and activation of Arcanas.',
                             'tips': '',
                             'achievementTips': ' Arcanas.',
-                            'texture': '_items',
+                            'texture': 'items',
                             'frameName': 'Tarots.png',
                             'pickedupAmount': 0x0,
                             'rarity': 0x0,
@@ -6866,7 +6866,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             'description': '',
                             'tips': '',
                             'achievementTips': '',
-                            'texture': '_items',
+                            'texture': 'items',
                             'frameName': 'QuestionMark.png',
                             'pickedupAmount': 0x0,
                             'rarity': 0x0,
@@ -6879,7 +6879,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                     class _0x3d56bc extends Phaser['Physics'][_object(0x23c)][_object(0x7be)]{
                         constructor(_0x299a64, _0x34f5f1, _0x254296, _0x4d9820) {
                             const _0x57faf5 = _object;
-                            super(_0x299a64['scene'], _0x34f5f1, _0x254296, '_items'),
+                            super(_0x299a64['scene'], _0x34f5f1, _0x254296, 'items'),
                             this[_0x57faf5(0x1cd)] = 0xfa,
                             this[_0x57faf5(0xab0)] = 0xa,
                             this['frameName'] = 'GemRed.png',
@@ -6962,7 +6962,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                         }
                         ['SetSeen_item'](_0x961517) {
                             const _0x33943b = _object;
-                            void 0x0 === _0x212546[_0x33943b(0x229)]['PlayerOptions']['Collected_items'][_0x33943b(0x469)](_0xe236a6 => _0xe236a6 === _0x961517) && (_0xd1bb64[_0x961517]['seen'] = !0x0, _0x212546[_0x33943b(0x229)][_0x33943b(0x7e6)]['Collected_items'][_0x33943b(0x35c)](_0x961517), _0x212546['Core']['PlayerOptions']['SaveCollection']());
+                            void 0x0 === _0x212546[_0x33943b(0x229)]['PlayerOptions']['Collecteditems'][_0x33943b(0x469)](_0xe236a6 => _0xe236a6 === _0x961517) && (_0xd1bb64[_0x961517]['seen'] = !0x0, _0x212546[_0x33943b(0x229)][_0x33943b(0x7e6)]['Collecteditems'][_0x33943b(0x35c)](_0x961517), _0x212546['Core']['PlayerOptions']['SaveCollection']());
                         }
                         [_object(0xa58)](_0xed3322) {
                             const _0x129c5f = _object;
@@ -7074,7 +7074,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             super(_0x31f7b8, _0x3fcd62, _0xf2ec49, _0x593622[_0x370355(0x1fc)]),
                             _0x212546[_0x370355(0x229)][_0x370355(0x1ff)][_0x370355(0x5e2)]['existing'](this),
                             this['setScale'](_0x29d26a['PixelScale']);
-                            const _0x41511e = this['anims']['generateFrameNames']('_items', {
+                            const _0x41511e = this['anims']['generateFrameNames']('items', {
                                 'start': 0x1,
                                 'end': 0x3,
                                 'zeroPad': 0x0,
@@ -7116,7 +7116,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             super(_0x2bf9bd, _0x310d0f, _0x11b86f, _0x593622[_0x4def3b(0x331)]),
                             _0x212546[_0x4def3b(0x229)]['scene']['add'][_0x4def3b(0x2b1)](this),
                             this[_0x4def3b(0x935)](_0x29d26a[_0x4def3b(0x482)]);
-                            const _0x1f8756 = this['anims'][_0x4def3b(0x274)]('_items', {
+                            const _0x1f8756 = this['anims'][_0x4def3b(0x274)]('items', {
                                 'start': 0x1,
                                 'end': 0x3,
                                 'zeroPad': 0x0,
@@ -7154,7 +7154,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             super(_0x5b4ddf, _0xb3be29, _0x18177b, _0x593622['OROLOGION']),
                             _0x212546['Core']['scene']['add']['existing'](this),
                             this['setScale'](_0x29d26a['PixelScale']);
-                            const _0x44391a = this[_0x3f9bd6(0x422)]['generateFrameNames']('_items', {
+                            const _0x44391a = this[_0x3f9bd6(0x422)]['generateFrameNames']('items', {
                                 'start': 0x1,
                                 'end': 0x3,
                                 'zeroPad': 0x0,
@@ -7395,7 +7395,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'name': 'Whip',
                                 'description': 'Attacks horizontally, passes through enemies.',
                                 'tips': 'Ignores: speed, duration.',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'Whip.png',
                                 'evoSynergy': [_item['MAXHEALTH']],
                                 'evoInto': _item[_object(0x6f3)],
@@ -7437,7 +7437,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'name': 'Bloody Tear',
                                 'description': 'Evolved Whip. Can deal critical damage and absorb HP.',
                                 'tips': 'Requires: Hollow Heart',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'Whip2.png',
                                 'isEvolution': !0x0,
                                 'evolvesFrom': [_item[_object(0x64d)]],
@@ -7463,7 +7463,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'name': 'Magic Wand',
                                 'description': 'Fires at the nearest enemy.',
                                 'tips': 'Ignores: duration.',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'WandHoly.png',
                                 'evoSynergy': [_item['COOLDOWN']],
                                 'evoInto': _item[_object(0x910)],
@@ -7500,7 +7500,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'name': 'Holy Wand',
                                 'description': 'Evolved Magic Wand. Fires with no delay.',
                                 'tips': 'Requires: Empty Tome.',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'WandHoly2.png',
                                 'isEvolution': !0x0,
                                 'evolvesFrom': [_item[_object(0x77e)]],
@@ -7523,7 +7523,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'name': 'Knife',
                                 'description': 'Fires quickly in the faced direction.',
                                 'tips': 'Ignores: duration.',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'Knife.png',
                                 'evoSynergy': [_item[_object(0x977)]],
                                 'evoInto': _item[_object(0x62d)],
@@ -7568,7 +7568,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'name': 'Thousand Edge',
                                 'description': 'Evolved Knife. Fires with no delay.',
                                 'tips': 'Requires: Bracer.',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'Knife2.png',
                                 'isEvolution': !0x0,
                                 'volume': 0.2,
@@ -7594,7 +7594,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'name': 'Axe',
                                 'description': 'High damage, high Area scaling.',
                                 'tips': 'Ignores: duration.',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'Axe.png',
                                 'evoSynergy': [_item[_object(0x24e)]],
                                 'evoInto': _item['SCYTHE'],
@@ -7635,7 +7635,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'name': 'Death Spiral',
                                 'description': 'Evolved Axe. Passes through enemies.',
                                 'tips': 'Requires: Candelabrador.',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'Scythe.png',
                                 'isEvolution': !0x0,
                                 'evolvesFrom': [_item['AXE']],
@@ -7660,7 +7660,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'name': 'Cross',
                                 'description': 'Aims at nearest enemy, has boomerang effect.',
                                 'tips': 'Ignores: duration.',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'Cross.png',
                                 'evoSynergy': [_item[_object(0x8e7)]],
                                 'evoInto': _item[_object(0x915)],
@@ -7700,7 +7700,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'name': 'Heaven Sword',
                                 'description': 'Evolved Cross. Can deal critical damage.',
                                 'tips': 'Requires: Clover.',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'HeavenSword.png',
                                 'isEvolution': !0x0,
                                 'evolvesFrom': [_item[_object(0x7e0)]],
@@ -7727,7 +7727,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'name': 'King Bible',
                                 'description': 'Orbits around the _character.',
                                 'tips': 'Best with: speed, duration, area.',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'HolyBook.png',
                                 'evoSynergy': [_item['DURATION']],
                                 'evoInto': _item[_object(0x645)],
@@ -7771,7 +7771,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'name': 'Unholy Vespers',
                                 'description': 'Evolved King Bible. Never ends.',
                                 'tips': 'Requires: Spellbinder.',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'UnholyBook.png',
                                 'isEvolution': !0x0,
                                 'evolvesFrom': [_item[_object(0x1ba)]],
@@ -7798,7 +7798,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'name': 'Fire Wand',
                                 'description': 'Fires at a random enemy, deals heavy damage.',
                                 'tips': 'Ignores: duration.',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'WandFire.png',
                                 'evoSynergy': [_item[_object(0x8f3)]],
                                 'evoInto': _item[_object(0x9bc)],
@@ -7839,7 +7839,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'name': 'Hellfire',
                                 'description': 'Evolved Fire Wand. Passes through enemies.',
                                 'tips': 'Requires: Spinach.',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'Hellfire.png',
                                 'hitVFX': _0x31694d[_object(0x5d1)],
                                 'poolLimit': 0xa,
@@ -7863,7 +7863,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'name': 'Garlic',
                                 'description': 'Damages nearby enemies. Reduces resistance to knockback and freeze.',
                                 'tips': 'Ignores: amount, duration, speed.',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'Garlic.png',
                                 'evoSynergy': [_item[_object(0x1c6)]],
                                 'evoInto': _item[_object(0x7b6)],
@@ -7908,7 +7908,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'name': 'Soul Eater',
                                 'description': 'Evolved Garlic. Steals hearts. Power increases when recovering HP.',
                                 'tips': 'Requires: Pummarola.',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'OrbOrange.png',
                                 'isEvolution': !0x0,
                                 'isUnlocked': !0x1,
@@ -7933,7 +7933,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'name': 'Santa Water',
                                 'description': 'Generates damaging zones.',
                                 'tips': 'Ignores: speed.',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'HolyWater.png',
                                 'evoSynergy': [_item[_object(0x80c)]],
                                 'evoInto': _item[_object(0xa92)],
@@ -7980,7 +7980,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'name': 'La Borra',
                                 'description': 'Evolved Santa Water. Damaging zones follow you and grow when they move.',
                                 'tips': 'Requires: Attractorb.',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'Water2.png',
                                 'isEvolution': !0x0,
                                 'evolvesFrom': [_item['HOLYWATER']],
@@ -8008,7 +8008,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'name': 'Runetracer',
                                 'description': 'Passes through enemies, bounces around.',
                                 'tips': 'Best with: speed, duration.',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'Diamond2.png',
                                 'evoSynergy': [_item['ARMOR']],
                                 'evoInto': _item[_object(0xb78)],
@@ -8051,7 +8051,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'name': 'NO FUTURE',
                                 'description': 'Evolved Runetracer. Explodes when bouncing and in retaliation.',
                                 'tips': 'Requires: Armor',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'Carnage.png',
                                 'isEvolution': !0x0,
                                 'evolvesFrom': [_item[_object(0xaa7)]],
@@ -8078,7 +8078,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'name': 'Lightning Ring',
                                 'description': 'Strikes at random enemies.',
                                 'tips': 'Ignores: speed, duration.',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'LighningRing.png',
                                 'evoSynergy': [_item[_object(0x108)]],
                                 'evoInto': _item[_object(0x4bf)],
@@ -8118,7 +8118,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'name': 'Thunder Loop',
                                 'description': 'Evolved Lightning Ring. Projectiles strike twice.',
                                 'tips': 'Requires: Duplicator.',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'Thunderloop.png',
                                 'evolvesFrom': [_item['LIGHTNING']],
                                 'requires': [_item[_object(0x108)]],
@@ -8141,7 +8141,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'name': 'Pentagram',
                                 'description': 'Erases everything in sight.',
                                 'tips': 'Best with: cooldown and luck only.',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'Pentagram.png',
                                 'evoSynergy': [_item['GROWTH']],
                                 'evoInto': _item[_object(0x939)],
@@ -8161,17 +8161,17 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'interval': -0x2710
                             }, {
                                 'chance': 0.15,
-                                'desc': '25% chance to not erase _items.'
+                                'desc': '25% chance to not erase items.'
                             }, {
                                 'interval': -0x2710
                             }, {
                                 'chance': 0.2,
-                                'desc': '45% chance to not erase _items.'
+                                'desc': '45% chance to not erase items.'
                             }, {
                                 'interval': -0x1388
                             }, {
                                 'chance': 0.2,
-                                'desc': '65% chance to not erase _items.'
+                                'desc': '65% chance to not erase items.'
                             }, {
                                 'interval': -0x1388,
                                 'addEvolvedWeapon': _item[_object(0x939)]
@@ -8183,7 +8183,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'name': 'Gorgeous Moon',
                                 'description': 'Evolved Pentagram. Generates extra gems and gathers all of them.',
                                 'tips': 'Requires: Crown.',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'Pentagram2.png',
                                 'isUnlocked': !0x0,
                                 'isEvolution': !0x0,
@@ -8207,7 +8207,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'name': 'Phiera Der Tuphello',
                                 'description': 'Fires quickly in four fixed directions.',
                                 'tips': 'Ignores: duration.',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'Guns.png',
                                 'evoSynergy': [_item[_object(0x7ce)], _item[_object(0x10e)]],
                                 'evoInto': _item['GUNS3'],
@@ -8248,7 +8248,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'name': 'Eight The Sparrow',
                                 'description': 'Fires quickly in four fixed directions.',
                                 'tips': 'Ignores: duration.',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'Guns2.png',
                                 'evoSynergy': [_item['REVIVAL'], _item[_object(0x58d)]],
                                 'evoInto': _item['GUNS3'],
@@ -8290,7 +8290,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'name': 'Phieraggi',
                                 'description': 'Union of Phiera Der Tuphello and Eight The Sparrow. Scales with Revivals.',
                                 'tips': 'Requires: Tiragisú',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'Guns3.png',
                                 'isEvolution': !0x0,
                                 'evolvesFrom': [_item['GUNS'], _item[_object(0x10e)]],
@@ -8321,7 +8321,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'name': 'Song Of Mana',
                                 'description': 'Attacks vertically, passes through enemies.',
                                 'tips': 'Ignores: amount, speed.',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'Song.png',
                                 'evoSynergy': [_item[_object(0x7bd)]],
                                 'evoInto': _item[_object(0xb22)],
@@ -8367,7 +8367,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'name': 'Mannajja',
                                 'description': 'Evolved Song of Mana. Might slow enemies down.',
                                 'tips': 'Requires: Skull O\'Maniac',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'Song2.png',
                                 'evolvesFrom': [_item[_object(0x20d)]],
                                 'requires': [_item['CURSE']],
@@ -8393,7 +8393,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'name': 'Gatti Amari',
                                 'description': 'Summons capricious projectiles. Might interact with pickups.',
                                 'tips': 'Best with: luck, floor chicken.',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'Cat.png',
                                 'hitVFX': _0x31694d['DARK'],
                                 'isUnlocked': !0x1,
@@ -8432,7 +8432,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'name': 'Clock Lancet',
                                 'description': 'Chance to freeze enemies in time.',
                                 'tips': 'Ignores: power, speed, amount, area.',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'Lancet.png',
                                 'hitVFX': _0x31694d[_object(0xb08)],
                                 'isUnlocked': !0x1,
@@ -8467,7 +8467,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'name': 'Laurel',
                                 'description': 'Shields from damage when active.',
                                 'tips': 'Best with: cooldown only.',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'Laurel.png',
                                 'isUnlocked': !0x0,
                                 'poolLimit': 0x5,
@@ -8504,7 +8504,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'name': 'Peachone',
                                 'description': 'Bombards in a circling zone.',
                                 'tips': 'Best with: cooldown, duration.',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'Silf1.png',
                                 'hitVFX': _0x31694d[_object(0x8c5)],
                                 'isUnlocked': !0x1,
@@ -8548,7 +8548,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'name': 'Ebony Wings',
                                 'description': 'Bombards in a circling zone.',
                                 'tips': 'Best with: cooldown, duration.',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'Silf2.png',
                                 'hitVFX': _0x31694d[_object(0x389)],
                                 'isUnlocked': !0x1,
@@ -8593,7 +8593,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'name': 'Vandalier',
                                 'description': 'Union of Ebony Wings and Peachone.',
                                 'tips': '',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'Silf3.png',
                                 'isEvolution': !0x0,
                                 'evolvesFrom': [_item[_object(0x31a)], _item['SILF2']],
@@ -8634,7 +8634,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'name': 'Bone',
                                 'description': 'Throws a bouncing projectile.',
                                 'tips': 'Best with: duration, speed.',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'Bone.png',
                                 'isUnlocked': !0x1,
                                 'poolLimit': 0x19,
@@ -8673,7 +8673,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'name': 'Cherry Bomb',
                                 'description': 'Throws a bouncing projectile. Explodes, sometimes.',
                                 'tips': 'Best with: luck.',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'Cherry.png',
                                 'isUnlocked': !0x1,
                                 'poolLimit': 0x19,
@@ -8714,7 +8714,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'name': 'Carréllo',
                                 'description': 'Throws a bouncing projectile. Number of bounces affected by Amount.',
                                 'tips': 'Ignores: duration.',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'CartWheel.png',
                                 'hidden': !0x1,
                                 'isUnlocked': !0x1,
@@ -8752,7 +8752,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'name': 'Celestial Dusting',
                                 'description': 'Throws a bouncing projectile. Cooldown reduces when moving.',
                                 'tips': 'Best with: moveSpeed.',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'flower.png',
                                 'isUnlocked': !0x1,
                                 'hitVFX': _0x31694d[_object(0x5a7)],
@@ -8789,7 +8789,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'name': '',
                                 'description': '',
                                 'tips': '',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'Nft1.png',
                                 'hidden': !0x0,
                                 'isUnlocked': !0x1,
@@ -8812,7 +8812,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'name': '',
                                 'description': '',
                                 'tips': '',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'CartWheel.png',
                                 'hidden': !0x0,
                                 'isUnlocked': !0x1,
@@ -8834,7 +8834,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'name': '',
                                 'description': '',
                                 'tips': '',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'Nft1.png',
                                 'hidden': !0x0,
                                 'isUnlocked': !0x1,
@@ -8857,7 +8857,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'name': '',
                                 'description': '',
                                 'tips': '',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'Nft1.png',
                                 'hidden': !0x0,
                                 'isUnlocked': !0x1,
@@ -8879,7 +8879,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'bulletType': _item['MIGHT'],
                                 'name': 'Spinach',
                                 'description': 'Raises inflicted damage by 10%.',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'Leaf.png',
                                 'evoSynergy': [_item['FIREBALL']],
                                 'evoInto': _item[_object(0x9bc)],
@@ -8902,7 +8902,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'bulletType': _item[_object(0x24f)],
                                 'name': 'Armor',
                                 'description': 'Reduces incoming damage by 1.',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'ArmorIron.png',
                                 'evoSynergy': [_item['DIAMOND']],
                                 'evoInto': _item[_object(0xb78)],
@@ -8925,7 +8925,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'bulletType': _item[_object(0x760)],
                                 'name': 'Hollow Heart',
                                 'description': 'Augments max health by 20%.',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'HeartBlack.png',
                                 'evoSynergy': [_item[_object(0x64d)]],
                                 'evoInto': _item[_object(0x6f3)],
@@ -8949,7 +8949,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'bulletType': _item[_object(0x1c6)],
                                 'name': 'Pummarola',
                                 'description': '_character recovers 0.2 HP per second.',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'HeartRuby.png',
                                 'evoSynergy': [_item[_object(0x87d)]],
                                 'evoInto': _item[_object(0x7b6)],
@@ -8972,7 +8972,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'bulletType': _item['COOLDOWN'],
                                 'name': 'Empty Tome',
                                 'description': 'Reduces weapons cooldown by 8%.',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'Book2.png',
                                 'evoSynergy': [_item[_object(0x77e)]],
                                 'evoInto': _item['HOLY_MISSILE'],
@@ -8995,7 +8995,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'bulletType': _item[_object(0x24e)],
                                 'name': 'Candelabrador',
                                 'description': 'Augments area of attacks by 10%.',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'Candelabra.png',
                                 'evoSynergy': [_item[_object(0x3b5)]],
                                 'evoInto': _item[_object(0xb24)],
@@ -9018,7 +9018,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'bulletType': _item[_object(0x977)],
                                 'name': 'Bracer',
                                 'description': 'Increases projectiles speed by 10%.',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'Gauntlet.png',
                                 'evoSynergy': [_item['KNIFE']],
                                 'evoInto': _item[_object(0x62d)],
@@ -9041,7 +9041,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'bulletType': _item[_object(0x5d4)],
                                 'name': 'Spellbinder',
                                 'description': 'Increases duration of weapon effects by 10%.',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'EmblemEye.png',
                                 'evoSynergy': [_item[_object(0x1ba)]],
                                 'evoInto': _item[_object(0x645)],
@@ -9064,7 +9064,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'bulletType': _item[_object(0x108)],
                                 'name': 'Duplicator',
                                 'description': 'Weapons fire more projectiles.',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'Ring.png',
                                 'evoSynergy': [_item['LIGHTNING']],
                                 'evoInto': _item[_object(0x4bf)],
@@ -9081,7 +9081,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'bulletType': _item['MOVESPEED'],
                                 'name': 'Wings',
                                 'description': '_character moves 10% faster.',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'Wing.png',
                                 'isUnlocked': !0x1,
                                 'rarity': 0x32,
@@ -9101,8 +9101,8 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'level': 0x1,
                                 'bulletType': _item['MAGNET'],
                                 'name': 'Attractorb',
-                                'description': '_character pickups _items from further away.',
-                                'texture': '_items',
+                                'description': '_character pickups items from further away.',
+                                'texture': 'items',
                                 'frameName': 'OrbGlow.png',
                                 'evoSynergy': [_item[_object(0x228)]],
                                 'evoInto': _item[_object(0xa92)],
@@ -9125,7 +9125,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'bulletType': _item['LUCK'],
                                 'name': 'Clover',
                                 'description': '_character gets 10% luckier.',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'Clover.png',
                                 'evoSynergy': [_item['CROSS']],
                                 'evoInto': _item['HEAVENSWORD'],
@@ -9148,7 +9148,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'bulletType': _item['GROWTH'],
                                 'name': 'Crown',
                                 'description': '_character gains 8% more experience.',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'Crown.png',
                                 'evoSynergy': [_item['PENTAGRAM']],
                                 'evoInto': _item[_object(0x939)],
@@ -9171,7 +9171,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'bulletType': _item[_object(0x158)],
                                 'name': 'Stone Mask',
                                 'description': '_character earns 10% more coins.',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'Mask.png',
                                 'isUnlocked': !0x1,
                                 'rarity': 0x46,
@@ -9193,7 +9193,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'bulletType': _item[_object(0x7bd)],
                                 'name': 'Skull O\'Maniac',
                                 'description': 'Increases enemy speed, health, quantity, and frequency by 10%.',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'Curse.png',
                                 'evoSynergy': [_item['SONG']],
                                 'evoInto': _item[_object(0xb22)],
@@ -9217,7 +9217,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'bulletType': _item[_object(0x7ce)],
                                 'name': 'Tiragisú',
                                 'description': 'Revives once with 50% health.',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'Tiramisu.png',
                                 'evoSynergy': [_item['GUNS'], _item[_object(0x10e)]],
                                 'evoInto': _item['GUNS3'],
@@ -11011,7 +11011,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             _0x212546[_0xbe4bf5(0x229)][_0xbe4bf5(0x1ff)]['add'][_0xbe4bf5(0x2b1)](this),
                             this['setScale'](_0x29d26a[_0xbe4bf5(0x482)]),
                             this[_0xbe4bf5(0xb8e)] = !0x0,
-                            this[_0xbe4bf5(0xaf1)] = new Phaser['GameObjects']['Sprite'](_0x212546[_0xbe4bf5(0x229)][_0xbe4bf5(0x1ff)], _0x4264a2, _0xc147e8, '_items', 'ShadowSpot.png'),
+                            this[_0xbe4bf5(0xaf1)] = new Phaser['GameObjects']['Sprite'](_0x212546[_0xbe4bf5(0x229)][_0xbe4bf5(0x1ff)], _0x4264a2, _0xc147e8, 'items', 'ShadowSpot.png'),
                             this['glow'] = new Phaser[(_0xbe4bf5(0x13b))]['Sprite'](_0x212546[_0xbe4bf5(0x229)][_0xbe4bf5(0x1ff)], _0x4264a2, _0xc147e8, 'vfx', 'round.png'),
                             this[_0xbe4bf5(0x8cc)] = this['scene']['add'][_0xbe4bf5(0xb32)](_0x4264a2, _0xc147e8, 'UI', 'arrow_01.png'),
                             this[_0xbe4bf5(0x8cc)][_0xbe4bf5(0x8dd)](0x270e),
@@ -11139,7 +11139,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             super(_0x101934, _0x13d024, _0x935ffd, _0x593622[_0x49fae8(0xb13)]),
                             _0x212546[_0x49fae8(0x229)][_0x49fae8(0x1ff)]['add']['existing'](this),
                             this[_0x49fae8(0x935)](_0x29d26a[_0x49fae8(0x482)]);
-                            const _0x29ca51 = this[_0x49fae8(0x422)][_0x49fae8(0x274)]('_items', {
+                            const _0x29ca51 = this[_0x49fae8(0x422)][_0x49fae8(0x274)]('items', {
                                 'start': 0x1,
                                 'end': 0x4,
                                 'zeroPad': 0x0,
@@ -11218,7 +11218,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             _0x212546[_0x527b52(0x229)][_0x527b52(0x1ff)]['add'][_0x527b52(0x2b1)](this),
                             this[_0x527b52(0x935)](_0x29d26a[_0x527b52(0x482)]),
                             this['isStationary'] = !0x0,
-                            this[_0x527b52(0xaf1)] = new Phaser[(_0x527b52(0x13b))][(_0x527b52(0x7be))](_0x212546[_0x527b52(0x229)][_0x527b52(0x1ff)], _0x3125cd, _0x2cb64b, '_items', 'ShadowSpot.png'),
+                            this[_0x527b52(0xaf1)] = new Phaser[(_0x527b52(0x13b))][(_0x527b52(0x7be))](_0x212546[_0x527b52(0x229)][_0x527b52(0x1ff)], _0x3125cd, _0x2cb64b, 'items', 'ShadowSpot.png'),
                             this['glow'] = new Phaser[(_0x527b52(0x13b))][(_0x527b52(0x7be))](_0x212546[_0x527b52(0x229)]['scene'], _0x3125cd, _0x2cb64b, 'vfx', 'round.png'),
                             this[_0x527b52(0x8cc)] = this['scene'][_0x527b52(0x5e2)]['sprite'](_0x3125cd, _0x2cb64b, 'UI', 'arrow_01.png'),
                             this['Cursor'][_0x527b52(0x8dd)](0x270f),
@@ -11359,7 +11359,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'repeat': -0x1
                             }),
                             this[_0x2c4f95(0x8cc)][_0x2c4f95(0x70b)]('idle'),
-                            this['Lid'] = this[_0x2c4f95(0x1ff)]['add'][_0x2c4f95(0xb32)](this['x'], this['y'], '_items', 'CoffinLid.png')['setVisible'](!0x1),
+                            this['Lid'] = this[_0x2c4f95(0x1ff)]['add'][_0x2c4f95(0xb32)](this['x'], this['y'], 'items', 'CoffinLid.png')['setVisible'](!0x1),
                             this['CharSprite'] = this[_0x2c4f95(0x1ff)][_0x2c4f95(0x5e2)]['sprite'](this['x'], this['y'], 'characters')[_0x2c4f95(0x5fb)](!0x1),
                             this[_0x2c4f95(0x9e1)][_0x2c4f95(0x935)](0x0),
                             this['CharSprite']['setTintFill'](0x0),
@@ -12083,7 +12083,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'bulletType': _0x41cc9a[_object(0x8f3)],
                                 'name': 'Might',
                                 'description': 'Raises inflicted damage by 5% per rank (max +25%).',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'Leaf.png',
                                 'isPowerUp': !0x0,
                                 'price': 0xc8,
@@ -12104,7 +12104,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'bulletType': _0x41cc9a[_object(0x24f)],
                                 'name': 'Armor',
                                 'description': 'Reduces incoming damage by 1 per rank (max -3)',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'ArmorIron.png',
                                 'isPowerUp': !0x0,
                                 'price': 0x258,
@@ -12121,7 +12121,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'bulletType': _0x41cc9a[_object(0x760)],
                                 'name': 'Max Health',
                                 'description': 'Augments max health by 20% per rank (max +60%)',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'HeartBlack.png',
                                 'isPowerUp': !0x0,
                                 'price': 0xc8,
@@ -12139,7 +12139,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'bulletType': _0x41cc9a[_object(0x1c6)],
                                 'name': 'Recovery',
                                 'description': 'Recovers 0.1 HP per rank (max 0.5) per second.',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'HeartRuby.png',
                                 'isPowerUp': !0x0,
                                 'price': 0xc8,
@@ -12160,7 +12160,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'bulletType': _0x41cc9a['COOLDOWN'],
                                 'name': 'Cooldown',
                                 'description': 'Uses weapons 2.5% faster per rank (max 5%).',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'Book2.png',
                                 'isPowerUp': !0x0,
                                 'price': 0x384,
@@ -12175,7 +12175,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'bulletType': _0x41cc9a['AREA'],
                                 'name': 'Area',
                                 'description': 'Augments area of attacks by 5% per rank (max +10%).',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'Candelabra.png',
                                 'isPowerUp': !0x0,
                                 'price': 0x12c,
@@ -12190,7 +12190,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'bulletType': _0x41cc9a[_object(0x977)],
                                 'name': 'Speed',
                                 'description': 'Projectiles move 10% faster per rank (max 20%).',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'Gauntlet.png',
                                 'isPowerUp': !0x0,
                                 'price': 0x12c,
@@ -12205,7 +12205,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'bulletType': _0x41cc9a['DURATION'],
                                 'name': 'Duration',
                                 'description': 'Effects from weapons last 15% longer per rank (max +30%).',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'EmblemEye.png',
                                 'isPowerUp': !0x0,
                                 'price': 0x12c,
@@ -12220,7 +12220,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'bulletType': _0x41cc9a[_object(0x108)],
                                 'name': 'Amount',
                                 'description': 'Fires 1 more projectile (all weapons).',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'Ring.png',
                                 'isPowerUp': !0x0,
                                 'price': 0x1388,
@@ -12233,7 +12233,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'bulletType': _0x41cc9a[_object(0x254)],
                                 'name': 'MoveSpeed',
                                 'description': '_character moves 5% faster per rank (max 10%).',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'Wing.png',
                                 'isPowerUp': !0x0,
                                 'price': 0x12c,
@@ -12247,8 +12247,8 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'level': 0x0,
                                 'bulletType': _0x41cc9a[_object(0x80c)],
                                 'name': 'Magnet',
-                                'description': '_items pickup range +25% per rank (max +50%).',
-                                'texture': '_items',
+                                'description': 'items pickup range +25% per rank (max +50%).',
+                                'texture': 'items',
                                 'frameName': 'OrbGlow.png',
                                 'isPowerUp': !0x0,
                                 'price': 0x12c,
@@ -12263,7 +12263,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'bulletType': _0x41cc9a['LUCK'],
                                 'name': 'Luck',
                                 'description': 'Chance to get lucky goes up by 10% per rank (max +30%).',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'Clover.png',
                                 'isPowerUp': !0x0,
                                 'price': 0x258,
@@ -12280,7 +12280,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'bulletType': _0x41cc9a[_object(0x7e3)],
                                 'name': 'Growth',
                                 'description': 'Gains 3% more experience per rank (max 15%).',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'Crown.png',
                                 'isPowerUp': !0x0,
                                 'price': 0x384,
@@ -12302,7 +12302,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'bulletType': _0x41cc9a[_object(0x158)],
                                 'name': 'Greed',
                                 'description': 'Gains 10% more coins per rank (max +50%).',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'Mask.png',
                                 'isPowerUp': !0x0,
                                 'price': 0xc8,
@@ -12324,7 +12324,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'bulletType': _0x41cc9a[_object(0x7bd)],
                                 'name': 'Curse',
                                 'description': 'Increases enemy speed, health, quantity, and frequency by 10% per rank (max +50%).',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'Curse.png',
                                 'isPowerUp': !0x0,
                                 'price': 0x682,
@@ -12346,7 +12346,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'bulletType': _0x41cc9a[_object(0x7ce)],
                                 'name': 'Revival',
                                 'description': 'Revives once with 50% health.',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'Tiramisu.png',
                                 'isPowerUp': !0x0,
                                 'price': 0x2710,
@@ -12360,7 +12360,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'bulletType': _0x41cc9a['REROLL'],
                                 'name': 'Reroll',
                                 'description': 'Once per rank, allows to get different choices when leveling up.',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'Dice.png',
                                 'isPowerUp': !0x0,
                                 'isAnUnlockable': !0x0,
@@ -12384,7 +12384,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'bulletType': _0x41cc9a[_object(0xb3c)],
                                 'name': 'Skip',
                                 'description': 'Twice per rank, allows to skip level up choices and get Experience instead.',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'Skip.png',
                                 'isPowerUp': !0x0,
                                 'isAnUnlockable': !0x0,
@@ -12408,7 +12408,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'bulletType': _0x41cc9a[_object(0x435)],
                                 'name': 'Banish',
                                 'description': 'Once per rank, allows to remove an _item from level up choices, for the rest of the run.',
-                                'texture': '_items',
+                                'texture': 'items',
                                 'frameName': 'Banish.png',
                                 'isPowerUp': !0x0,
                                 'isAnUnlockable': !0x0,
@@ -12848,42 +12848,42 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                     const _0xad7e42 = _0x3e10cf,
                     _0x5d4c5b = {
                         [_0xad7e42[_object(0x84a)]]: {
-                            'textureName': '_items',
+                            'textureName': 'items',
                             'frameName': 'Brazier',
                             'destroyedAmount': 0x0,
                             'maxHp': 0x1,
                             'destructibleType': _0xad7e42[_object(0x84a)]
                         },
                         [_0xad7e42[_object(0x901)]]: {
-                            'textureName': '_items',
+                            'textureName': 'items',
                             'frameName': 'Brazier2',
                             'destroyedAmount': 0x0,
                             'maxHp': 0x1,
                             'destructibleType': _0xad7e42[_object(0x84a)]
                         },
                         [_0xad7e42[_object(0x148)]]: {
-                            'textureName': '_items',
+                            'textureName': 'items',
                             'frameName': 'Candelabrone',
                             'destroyedAmount': 0x0,
                             'maxHp': 0x1,
                             'destructibleType': _0xad7e42['CANDELABRA']
                         },
                         [_0xad7e42[_object(0xb99)]]: {
-                            'textureName': '_items',
+                            'textureName': 'items',
                             'frameName': 'Lampost',
                             'destroyedAmount': 0x0,
                             'maxHp': 0x1,
                             'destructibleType': _0xad7e42[_object(0xb99)]
                         },
                         [_0xad7e42[_object(0xa9d)]]: {
-                            'textureName': '_items',
+                            'textureName': 'items',
                             'frameName': 'Candelabrone',
                             'destroyedAmount': 0x0,
                             'maxHp': 0x1,
                             'destructibleType': _0xad7e42[_object(0xa9d)]
                         },
                         [_0xad7e42[_object(0x87c)]]: {
-                            'textureName': '_items',
+                            'textureName': 'items',
                             'frameName': 'Cart',
                             'destroyedAmount': 0x0,
                             'maxHp': 0x4,
@@ -12953,7 +12953,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                         _0x5c7462[_0x1a9170(0x8cf)] = 'Unlock3Hypers',
                         _0x5c7462[_0x1a9170(0x876)] = 'Survive15MinutesInMolise',
                         _0x5c7462['EvolvePentagram'] = 'EvolvePentagram',
-                        _0x5c7462[_0x1a9170(0x1b5)] = 'See50_items',
+                        _0x5c7462[_0x1a9170(0x1b5)] = 'See50items',
                         _0x5c7462[_0x1a9170(0x22c)] = 'FindCoffinStage1',
                         _0x5c7462['Survive10MinutesWithGuns'] = 'Survive10MinutesWithGuns',
                         _0x5c7462[_0x1a9170(0x240)] = 'Survive15MinutesWithGuns',
@@ -12961,11 +12961,11 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                         _0x5c7462['ReachLV60InDairyPlant'] = 'ReachLV60InDairyPlant',
                         _0x5c7462[_0x1a9170(0x12d)] = 'FindSorceressTears',
                         _0x5c7462[_0x1a9170(0x8ae)] = 'DefeatBossTower',
-                        _0x5c7462['See60_items'] = 'See60_items',
+                        _0x5c7462['See60items'] = 'See60items',
                         _0x5c7462[_0x1a9170(0x2b4)] = 'ReachLV100WithRamba',
                         _0x5c7462[_0x1a9170(0x90d)] = 'Defeat3000Milk',
                         _0x5c7462[_0x1a9170(0x8bd)] = 'EvolveRunetracer',
-                        _0x5c7462[_0x1a9170(0x805)] = 'See70_items',
+                        _0x5c7462[_0x1a9170(0x805)] = 'See70items',
                         _0x5c7462['FindRandomazzo'] = 'FindRandomazzo',
                         _0x5c7462['ReachLV99WithGiovanna'] = 'ReachLV99WithGiovanna',
                         _0x5c7462[_0x1a9170(0x6de)] = 'ReachLV99WithKroci',
@@ -13238,7 +13238,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             'powerUpToUnlock': _0x41cc9a[_object(0x435)],
                             'achieved': !0x1
                         },
-                        [_0x46dd3f['See60_items']]: {
+                        [_0x46dd3f['See60items']]: {
                             'description': 'Fill 60 entries in the Collection.',
                             'powerUpToUnlock': _0x41cc9a[_object(0x435)],
                             'achieved': !0x1
@@ -15541,7 +15541,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                         [_object(0x13c)](_0x531fc6) {
                             const _0x32faca = _object;
                             let _0x102363 = _0x531fc6['type'];
-                            if (_0x212546['Core'][_0x32faca(0x7e6)]['Collected_items']['indexOf'](_0x102363) > -0x1)
+                            if (_0x212546['Core'][_0x32faca(0x7e6)]['Collecteditems']['indexOf'](_0x102363) > -0x1)
                                 return;
                             let _0x3ca854 = _0x531fc6[_0x32faca(0xba7)][_0x32faca(0x469)](_0x18776a => 'xMultiplier' === _0x18776a['name']);
                             _0x3ca854 = _0x3ca854 ? _0x3ca854['value'] : 0x0;
@@ -16010,7 +16010,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 }
                             }
                             if (_0x212546[_0x37698f(0x229)][_0x37698f(0x555)]['y'] < this['TowerTop']) {
-                                if (_0x212546['Core'][_0x37698f(0x7e6)]['Collected_items'][_0x37698f(0x769)](_0x593622[_0x37698f(0xa0b)]) > -0x1)
+                                if (_0x212546['Core'][_0x37698f(0x7e6)]['Collecteditems'][_0x37698f(0x769)](_0x593622[_0x37698f(0xa0b)]) > -0x1)
                                     return;
                                 if (this['hasSpawnedGuards'])
                                     return;
@@ -16223,7 +16223,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                             const _0x4adc19 = _0x24aa12;
                                             this[_0x4adc19(0x8f9)]();
                                         }
-                                    }), this[_0x24aa12(0x895)] = this[_0x24aa12(0x1ff)]['add'][_0x24aa12(0x400)](0.5 * this[_0x24aa12(0x1ff)]['renderer'][_0x24aa12(0x6c6)], 0.5 * this['scene'][_0x24aa12(0x632)]['height'] - 0x30, 'UI', 'ExclamationMark.png')[_0x24aa12(0x49e)](0x0)[_0x24aa12(0x935)](0x0)['setOrigin'](0.5, 0x1)[_0x24aa12(0x8dd)](0x2328), this[_0x24aa12(0xada)] = this['scene'][_0x24aa12(0x5e2)][_0x24aa12(0x400)](0.5 * this['scene']['renderer'][_0x24aa12(0x6c6)], 0.5 * this[_0x24aa12(0x1ff)]['renderer']['height'] - 0x30, '_items', 'Pizza.png')[_0x24aa12(0x8dd)](-0x1)[_0x24aa12(0x925)](0x0));
+                                    }), this[_0x24aa12(0x895)] = this[_0x24aa12(0x1ff)]['add'][_0x24aa12(0x400)](0.5 * this[_0x24aa12(0x1ff)]['renderer'][_0x24aa12(0x6c6)], 0.5 * this['scene'][_0x24aa12(0x632)]['height'] - 0x30, 'UI', 'ExclamationMark.png')[_0x24aa12(0x49e)](0x0)[_0x24aa12(0x935)](0x0)['setOrigin'](0.5, 0x1)[_0x24aa12(0x8dd)](0x2328), this[_0x24aa12(0xada)] = this['scene'][_0x24aa12(0x5e2)][_0x24aa12(0x400)](0.5 * this['scene']['renderer'][_0x24aa12(0x6c6)], 0.5 * this[_0x24aa12(0x1ff)]['renderer']['height'] - 0x30, 'items', 'Pizza.png')[_0x24aa12(0x8dd)](-0x1)[_0x24aa12(0x925)](0x0));
                             }
                             for (let _0x28d840 = 0x0; _0x28d840 < this['startingSpawns']; _0x28d840++)
                                 this['spawnType'] === _0x488559['HORIZONTAL'] && this[_0x24aa12(0xb18)] && this['EnemySpanwersLocations']['length'] > 0x0 ? this['SpawnInRandomLocationH']() : this['spawnType'] === _0x488559['VERTICAL'] && this[_0x24aa12(0xb18)] && this[_0x24aa12(0x8e5)][_0x24aa12(0x56a)] > 0x0 ? this['SpawnInRandomLocationV']() : this['spawnType'] === _0x488559[_0x24aa12(0x8e0)] ? this['SpawnEnemiesTiled']() : this[_0x24aa12(0x741)]();
@@ -16664,7 +16664,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             'name': '',
                             'description': '',
                             'weapons': [],
-                            '_items': [],
+                            'items': [],
                             'texture': 'randomazzo',
                             'frameName': '00.png',
                             'enabled': !0x1,
@@ -16677,7 +16677,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             'name': '',
                             'description': '',
                             'weapons': [],
-                            '_items': [],
+                            'items': [],
                             'texture': 'randomazzo',
                             'frameName': '01.png',
                             'enabled': !0x1,
@@ -16690,7 +16690,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             'name': '',
                             'description': '',
                             'weapons': [],
-                            '_items': [],
+                            'items': [],
                             'texture': 'randomazzo',
                             'frameName': '02.png',
                             'enabled': !0x1,
@@ -16703,7 +16703,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             'name': '',
                             'description': '',
                             'weapons': [],
-                            '_items': [],
+                            'items': [],
                             'texture': 'randomazzo',
                             'frameName': '03.png',
                             'enabled': !0x1,
@@ -16716,7 +16716,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             'name': 'IV - Awake',
                             'description': 'Gives +3 Revivals. Consuming a Revival gives +10% MaxHealth, +1 Armor, and +5% Might, Area, Duration, and Speed.',
                             'weapons': [_item[_object(0x7ce)]],
-                            '_items': [],
+                            'items': [],
                             'texture': 'randomazzo',
                             'frameName': '04.png',
                             'enabled': !0x1,
@@ -16728,7 +16728,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             'name': 'V - Chaos in the Dark Night',
                             'description': 'Overall projectile Speed continuously changes between -50% and +200% over 10 seconds.',
                             'weapons': [_item['SPEED']],
-                            '_items': [],
+                            'items': [],
                             'texture': 'randomazzo',
                             'frameName': '05.png',
                             'enabled': !0x1,
@@ -16740,7 +16740,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             'name': 'VI - Sarabande of Healing',
                             'description': 'Healing is doubled. Recovering HP damages nearby enemies for the same amount.',
                             'weapons': [_item[_object(0x6f3)], _item[_object(0x7b6)], _item[_object(0x1bf)], _item[_object(0x1c6)]],
-                            '_items': [_0x593622[_object(0x717)]],
+                            'items': [_0x593622[_object(0x717)]],
                             'texture': 'randomazzo',
                             'frameName': '06.png',
                             'enabled': !0x1,
@@ -16752,7 +16752,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             'name': 'VII - Iron Blue Will',
                             'description': 'Listed weapon projectiles gain up to 3 bounces and might pass through enemies and walls.',
                             'weapons': [_item['KNIFE'], _item[_object(0x62d)], _item[_object(0x3b5)], _item[_object(0xb24)], _item['GUNS'], _item['GUNS2'], _item['CART2']],
-                            '_items': [],
+                            'items': [],
                             'texture': 'randomazzo',
                             'frameName': '07.png',
                             'enabled': !0x1,
@@ -16764,7 +16764,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             'name': '',
                             'description': '',
                             'weapons': [],
-                            '_items': [],
+                            'items': [],
                             'texture': 'randomazzo',
                             'frameName': '08.png',
                             'enabled': !0x1,
@@ -16777,7 +16777,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             'name': '',
                             'description': '',
                             'weapons': [],
-                            '_items': [],
+                            'items': [],
                             'texture': 'randomazzo',
                             'frameName': '09.png',
                             'enabled': !0x1,
@@ -16790,7 +16790,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             'name': '',
                             'description': '',
                             'weapons': [],
-                            '_items': [],
+                            'items': [],
                             'texture': 'randomazzo',
                             'frameName': '00.png',
                             'enabled': !0x1,
@@ -16803,7 +16803,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             'name': 'XI - Waltz of Pearls',
                             'description': 'Listed weapon projectiles gain up to 3 bounces.',
                             'weapons': [_item[_object(0x77e)], _item[_object(0x910)], _item[_object(0x8f5)], _item['HELLFIRE'], _item[_object(0x7e0)], _item[_object(0x915)], _item[_object(0x367)]],
-                            '_items': [],
+                            'items': [],
                             'texture': 'randomazzo',
                             'frameName': '11.png',
                             'enabled': !0x1,
@@ -16815,7 +16815,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             'name': '',
                             'description': '',
                             'weapons': [],
-                            '_items': [],
+                            'items': [],
                             'texture': 'randomazzo',
                             'frameName': '00.png',
                             'enabled': !0x1,
@@ -16828,7 +16828,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             'name': '',
                             'description': '',
                             'weapons': [],
-                            '_items': [],
+                            'items': [],
                             'texture': 'randomazzo',
                             'frameName': '00.png',
                             'enabled': !0x1,
@@ -16841,7 +16841,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             'name': '',
                             'description': '',
                             'weapons': [],
-                            '_items': [],
+                            'items': [],
                             'texture': 'randomazzo',
                             'frameName': '00.png',
                             'enabled': !0x1,
@@ -16854,7 +16854,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             'name': '',
                             'description': '',
                             'weapons': [],
-                            '_items': [],
+                            'items': [],
                             'texture': 'randomazzo',
                             'frameName': '00.png',
                             'enabled': !0x1,
@@ -16867,7 +16867,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             'name': 'XVI - Slash',
                             'description': 'Enables critical hits for listed weapons. Doubles overall critical damage.',
                             'weapons': [_item[_object(0x7ca)], _item[_object(0x62d)], _item['WHIP'], _item['VAMPIRICA'], _item[_object(0x3b5)], _item[_object(0xb24)], _item[_object(0x915)]],
-                            '_items': [],
+                            'items': [],
                             'texture': 'randomazzo',
                             'frameName': '16.png',
                             'enabled': !0x1,
@@ -16879,7 +16879,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             'name': 'XVII - Lost & Found Painting',
                             'description': 'Overall Duration continuously changes between -50% and +200% over 10 seconds.',
                             'weapons': [_item['DURATION']],
-                            '_items': [],
+                            'items': [],
                             'texture': 'randomazzo',
                             'frameName': '17.png',
                             'enabled': !0x1,
@@ -16891,7 +16891,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             'name': '',
                             'description': '',
                             'weapons': [],
-                            '_items': [],
+                            'items': [],
                             'texture': 'randomazzo',
                             'frameName': '00.png',
                             'enabled': !0x1,
@@ -16904,7 +16904,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             'name': 'XIX - Heart of Fire',
                             'description': 'Listed weapon projectiles explode on impact. Light sources explode. _character explodes when damaged.',
                             'weapons': [_item[_object(0x8f5)], _item['HELLFIRE']],
-                            '_items': [_0x593622[_object(0xa43)]],
+                            'items': [_0x593622[_object(0xa43)]],
                             'texture': 'randomazzo',
                             'frameName': '19.png',
                             'enabled': !0x1,
@@ -16916,7 +16916,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             'name': '',
                             'description': '',
                             'weapons': [],
-                            '_items': [],
+                            'items': [],
                             'texture': 'randomazzo',
                             'frameName': '00.png',
                             'enabled': !0x1,
@@ -16929,7 +16929,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             'name': '',
                             'description': '',
                             'weapons': [],
-                            '_items': [],
+                            'items': [],
                             'texture': 'randomazzo',
                             'frameName': '00.png',
                             'enabled': !0x1,
@@ -16956,8 +16956,8 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             _0x4cdb58[_0x528e32[_0x581001(0x170)]][0x0][_0x581001(0x505)] >= 0x1 && _0x212546[_0x581001(0x229)]['PlayerOptions'][_0x581001(0x301)] === _0x308551['LIBRARY'] && this['UnlockAchievement'](_0x46dd3f[_0x581001(0x948)]),
                             _0x4cdb58[_0x528e32[_0x581001(0x1df)]][0x0][_0x581001(0x505)] >= 0x1 && _0x212546[_0x581001(0x229)][_0x581001(0x7e6)][_0x581001(0x301)] === _0x308551['WAREHOUSE'] && this[_0x581001(0xac3)](_0x46dd3f[_0x581001(0x897)]),
                             _0x4cdb58[_0x528e32[_0x581001(0xb9a)]][0x0][_0x581001(0x505)] >= 0x1 && _0x212546['Core'][_0x581001(0x7e6)][_0x581001(0x301)] === _0x308551[_0x581001(0x2a6)] && this['UnlockAchievement'](_0x46dd3f[_0x581001(0x8ae)]),
-                            _0x212546['Core'][_0x581001(0x7e6)]['Collected_items']['indexOf'](_0x593622[_0x581001(0x64a)]) > -0x1 && this[_0x581001(0xac3)](_0x46dd3f[_0x581001(0x3bf)]),
-                            _0x212546['Core'][_0x581001(0x7e6)]['Collected_items'][_0x581001(0x769)](_0x593622[_0x581001(0x831)]) > -0x1 && this[_0x581001(0xac3)](_0x46dd3f[_0x581001(0x12d)]),
+                            _0x212546['Core'][_0x581001(0x7e6)]['Collecteditems']['indexOf'](_0x593622[_0x581001(0x64a)]) > -0x1 && this[_0x581001(0xac3)](_0x46dd3f[_0x581001(0x3bf)]),
+                            _0x212546['Core'][_0x581001(0x7e6)]['Collecteditems'][_0x581001(0x769)](_0x593622[_0x581001(0x831)]) > -0x1 && this[_0x581001(0xac3)](_0x46dd3f[_0x581001(0x12d)]),
                             _0x212546['Core']['PlayerOptions'][_0x581001(0x778)][_0x581001(0x769)](_0x593622['RELIC_RANDOMAZZO']) > -0x1 && this[_0x581001(0xac3)](_0x46dd3f[_0x581001(0xbad)]),
                             _0x212546[_0x581001(0x229)]['PlayerOptions'][_0x581001(0x1f4)]['indexOf'](_character[_0x581001(0x81c)]) > -0x1 && this[_0x581001(0xac3)](_0x46dd3f[_0x581001(0x22c)]),
                             _0x212546['Core']['PlayerOptions'][_0x581001(0x1f4)]['indexOf'](_character['GIOVANNA']) > -0x1 && this[_0x581001(0xac3)](_0x46dd3f[_0x581001(0x69e)]),
@@ -17026,7 +17026,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             }
                             _0x4e9563 >= 0x32 && this['UnlockAchievement'](_0x46dd3f[_0x581001(0x1b5)]),
                             _0x4e9563 >= 0x3c && this[_0x581001(0xac3)](_0x46dd3f[_0x581001(0x467)]),
-                            _0x4e9563 >= 0x46 && this[_0x581001(0xac3)](_0x46dd3f['See70_items']),
+                            _0x4e9563 >= 0x46 && this[_0x581001(0xac3)](_0x46dd3f['See70items']),
                             _0x212546['Core'][_0x581001(0x951)]['find'](_0x496564 => _0x496564['bulletType'] == _item[_0x581001(0x6f3)]) && this[_0x581001(0xac3)](_0x46dd3f[_0x581001(0x960)]),
                             _0x212546[_0x581001(0x229)][_0x581001(0x951)][_0x581001(0x469)](_0x2c301e => _0x2c301e[_0x581001(0x9bb)] == _item[_0x581001(0x910)]) && this['UnlockAchievement'](_0x46dd3f[_0x581001(0x131)]),
                             _0x212546['Core']['Weapons'][_0x581001(0x469)](_0x303a2f => _0x303a2f['bulletType'] == _item[_0x581001(0x62d)]) && this[_0x581001(0xac3)](_0x46dd3f[_0x581001(0x4f0)]),
@@ -17475,7 +17475,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             return _0x284bc3(this, void 0x0, void 0x0, function  * () {
                                 const _0xa2db70 = a0_0x3e1f;
                                 yield this['_set']('CollectedWeapons', JSON['stringify'](this[_0xa2db70(0x793)])),
-                                yield this[_0xa2db70(0x5f0)]('Collected_items', JSON['stringify'](this[_0xa2db70(0x778)]));
+                                yield this[_0xa2db70(0x5f0)]('Collecteditems', JSON['stringify'](this[_0xa2db70(0x778)]));
                             });
                         }
                         ['SaveUnlocks']() {
@@ -17608,7 +17608,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 var _0x57b478;
                                 _0x57b478 = yield this[_0x2dc1e3(0x1ca)]('CollectedWeapons'),
                                 this[_0x2dc1e3(0x793)] = JSON[_0x2dc1e3(0xa5b)](_0x57b478[_0x2dc1e3(0x2d6)] || JSON[_0x2dc1e3(0x448)]([])),
-                                _0x57b478 = yield this[_0x2dc1e3(0x1ca)]('Collected_items'),
+                                _0x57b478 = yield this[_0x2dc1e3(0x1ca)]('Collecteditems'),
                                 this[_0x2dc1e3(0x778)] = JSON[_0x2dc1e3(0xa5b)](_0x57b478['value'] || JSON[_0x2dc1e3(0x448)]([]));
                             });
                         }
@@ -17691,7 +17691,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 var _0x4c05b5 = _0x5578e6[_0x1842b9];
                                 void 0x0 !== _0x4c05b5 && (_0x4c05b5['unlocked'] = !0x0);
                             }),
-                            _0x212546['Core'][_0x143ec8(0x7e6)]['Collected_items'][_0x143ec8(0x769)](_0x593622[_0x143ec8(0xa0b)]) > -0x1 && -0x1 === _0x212546[_0x143ec8(0x229)][_0x143ec8(0x7e6)]['UnlockedArcanas']['indexOf'](_0x500350[_0x143ec8(0x23a)]) && (_0x212546[_0x143ec8(0x229)][_0x143ec8(0x7e6)][_0x143ec8(0x8ef)]['push'](_0x500350[_0x143ec8(0x23a)]), _0x5578e6[_0x500350[_0x143ec8(0x23a)]][_0x143ec8(0x636)] = !0x0),
+                            _0x212546['Core'][_0x143ec8(0x7e6)]['Collecteditems'][_0x143ec8(0x769)](_0x593622[_0x143ec8(0xa0b)]) > -0x1 && -0x1 === _0x212546[_0x143ec8(0x229)][_0x143ec8(0x7e6)]['UnlockedArcanas']['indexOf'](_0x500350[_0x143ec8(0x23a)]) && (_0x212546[_0x143ec8(0x229)][_0x143ec8(0x7e6)][_0x143ec8(0x8ef)]['push'](_0x500350[_0x143ec8(0x23a)]), _0x5578e6[_0x500350[_0x143ec8(0x23a)]][_0x143ec8(0x636)] = !0x0),
                             this[_0x143ec8(0xe7)][_0x143ec8(0xa7d)](_0x34c50c => {
                                 const _0x12b227 = _0x143ec8;
                                 var _0x20b706 = _0x3b20d5[_0x34c50c];
@@ -18013,7 +18013,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                     _0x42f6bf = class extends _0x5281f1 {
                         constructor(_0x130551, _0x3b5399, _0x1c6ae6, _0x1fd119, _0x2fd4c3) {
                             const _0x2efd25 = _object;
-                            super(_0x130551, _0x3b5399, _0x1c6ae6, '_items', 'Diamond2.png', _0x1fd119, _0x2fd4c3),
+                            super(_0x130551, _0x3b5399, _0x1c6ae6, 'items', 'Diamond2.png', _0x1fd119, _0x2fd4c3),
                             this['bouncePositions'] = new Array(),
                             this[_0x2efd25(0x41e)] = [],
                             this[_0x2efd25(0x6df)] = 0x64,
@@ -18147,7 +18147,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                     _0x1484e2 = class extends _0x5281f1 {
                         constructor(_0x32478a, _0x4785f6, _0x2d058a, _0x3304e6, _0x1fd5b4) {
                             const _0x213a5b = _object;
-                            super(_0x32478a, _0x4785f6, _0x2d058a, '_items', 'HolyWater.png', _0x3304e6, _0x1fd5b4),
+                            super(_0x32478a, _0x4785f6, _0x2d058a, 'items', 'HolyWater.png', _0x3304e6, _0x1fd5b4),
                             this['radius'] = 0x10,
                             this[_0x213a5b(0xb33)] = 0x8,
                             this['isBroken'] = !0x1,
@@ -20321,7 +20321,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                     _0x50b7f1 = class extends _0x5281f1 {
                         constructor(_0x50bed7, _0x2d7ed0, _0xe9b0e9, _0x582020, _0x413745) {
                             const _0x246b22 = _object;
-                            super(_0x50bed7, _0x2d7ed0, _0xe9b0e9, '_items', 'Water2.png', _0x582020, _0x413745),
+                            super(_0x50bed7, _0x2d7ed0, _0xe9b0e9, 'items', 'Water2.png', _0x582020, _0x413745),
                             this[_0x246b22(0xab0)] = 0x10,
                             this['exploRadius'] = 0x8,
                             this[_0x246b22(0x8dc)] = !0x1,
@@ -20851,7 +20851,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                     _0x20146d = class extends _0x5281f1 {
                         constructor(_0x4bd9f7, _0x361182, _0x41e634, _0x22346c, _0x26ca2e) {
                             const _0x3e9ef4 = _object;
-                            super(_0x4bd9f7, _0x361182, _0x41e634, '_items', 'Cherry.png', _0x22346c, _0x26ca2e),
+                            super(_0x4bd9f7, _0x361182, _0x41e634, 'items', 'Cherry.png', _0x22346c, _0x26ca2e),
                             this[_0x3e9ef4(0x468)] = -0x1,
                             this[_0x3e9ef4(0x971)] = -0x1,
                             this['bombDeceleration'] = 0x1,
@@ -21285,7 +21285,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                     _0x4c6b75 = class extends _0x5281f1 {
                         constructor(_0x5a8853, _0x26d559, _0x59e6b9, _0xa87e16, _0x3b37c2) {
                             const _0xff4aa9 = _object;
-                            super(_0x5a8853, _0x26d559, _0x59e6b9, '_items', 'Cart1.png', _0xa87e16, _0x3b37c2),
+                            super(_0x5a8853, _0x26d559, _0x59e6b9, 'items', 'Cart1.png', _0xa87e16, _0x3b37c2),
                             this[_0xff4aa9(0x11b)] = this['scene']['add'][_0xff4aa9(0x97e)]('vfx'),
                             this['PfxEmitter']['createEmitter']({
                                 'frame': ['PfxYellow.png'],
@@ -22117,7 +22117,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             this[_0x3fb0df(0x112)] = new Phaser[(_0x3fb0df(0x275))]['Vector2'](),
                             this['summon'] = this[_0x3fb0df(0x1ff)]['add'][_0x3fb0df(0xb32)](0x0, 0x0, 'vfx', 'summon.png')[_0x3fb0df(0x5fb)](!0x1);
                             let _0x287d29 = Phaser['Math'][_0x3fb0df(0x787)][_0x3fb0df(0x576)](['cat_i0', 'cat3_i0', 'cat2_i0']),
-                            _0x2a8709 = this['anims']['generateFrameNames']('_items', {
+                            _0x2a8709 = this['anims']['generateFrameNames']('items', {
                                 'start': 0x1,
                                 'end': 0x3,
                                 'zeroPad': 0x0,
@@ -25249,7 +25249,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                     class _0x13597a extends Phaser['Physics'][_object(0x23c)][_object(0x7be)]{
                         constructor(_0x56c345, _0x23ef61, _0x566842, _0x337eee) {
                             const _0x463a2b = _object;
-                            super(_0x56c345[_0x463a2b(0x1ff)], _0x23ef61, _0x566842, '_items', 'Brazier1.png'),
+                            super(_0x56c345[_0x463a2b(0x1ff)], _0x23ef61, _0x566842, 'items', 'Brazier1.png'),
                             this['hp'] = 0x1,
                             this[_0x463a2b(0x71d)] = 0x1,
                             this['isDead'] = !0x1,
@@ -25415,7 +25415,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                     const _0x5e866c = class {
                         constructor() {
                             const _0x3f8677 = _object;
-                            this['Excluded_items'] = new Array(),
+                            this['Excludeditems'] = new Array(),
                             this[_0x3f8677(0xa88)] = 0x0,
                             this[_0x3f8677(0x9ec)] = new Array(),
                             this[_0x3f8677(0x874)] = 0x0,
@@ -29438,7 +29438,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             this['load']['atlas']('vfx', 'assets/img/vfx.png', 'assets/img/vfx.json'),
                             this[_0x385da3(0x7ec)]['atlas']('illustrations', 'assets/img/illustrations.png', 'assets/img/illustrations.json'),
                             this[_0x385da3(0x7ec)][_0x385da3(0x629)]('randomazzo', 'assets/img/randomazzo.png', 'assets/img/randomazzo.json'),
-                            this[_0x385da3(0x7ec)][_0x385da3(0x28a)]('_items', 'assets/img/_items.json', 'assets/img'),
+                            this[_0x385da3(0x7ec)][_0x385da3(0x28a)]('items', 'assets/img/items.json', 'assets/img'),
                             this[_0x385da3(0x7ec)][_0x385da3(0x28a)]('characters', 'assets/img/characters.json', 'assets/img'),
                             this['load'][_0x385da3(0x28a)]('angel', 'assets/img/angel.json', 'assets/img'),
                             this[_0x385da3(0x7ec)][_0x385da3(0x9f6)]('langKeys', 'assets/lang/langKeys.json'),
@@ -30478,7 +30478,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'yoyo': !0x0,
                                 'repeat': -0x1
                             }),
-                            this['ParticlesManager'] = this[_0x212816(0x5e2)]['particles']('_items'),
+                            this['ParticlesManager'] = this[_0x212816(0x5e2)]['particles']('items'),
                             this[_0x212816(0x696)] = this['ParticlesManager']['createEmitter']({
                                 'frame': {
                                     'frames': ['GemRed.png', 'GemBlue.png', 'GemGreen.png']
@@ -30681,7 +30681,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                         [_object(0x281)]() {
                             const _0x632865 = _object;
                             var _0x4df620 = new Array();
-                            _0x4df620 = _0x212546[_0x632865(0x229)][_0x632865(0x2dd)]['GetLevelUp_items'](),
+                            _0x4df620 = _0x212546[_0x632865(0x229)][_0x632865(0x2dd)]['GetLevelUpitems'](),
                             this[_0x632865(0x980)] = _0x4df620['length'],
                             this[_0x632865(0x184)][_0x632865(0x5fb)](!0x1);
                             for (let _0x288de0 = 0x0; _0x288de0 < this['panels']['length']; _0x288de0++) {
@@ -30899,7 +30899,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             };
                             this[_0x270f2b(0x631)] = new _0x3d9c73['NineSlice'](this['scene'], _0x3dd976[_0x270f2b(0xa9c)], _0x3b360b),
                             this['myIconBG'] = new Phaser[(_0x270f2b(0x13b))][(_0x270f2b(0x2a3))](this[_0x270f2b(0x1ff)], 0x30, 0x18, 'UI', 'frameB.png')[_0x270f2b(0x360)](0x0, 0x0),
-                            this[_0x270f2b(0x604)] = new Phaser['GameObjects'][(_0x270f2b(0x2a3))](this[_0x270f2b(0x1ff)], 0x3c, 0x24, '_items', '')['setOrigin'](0.5),
+                            this[_0x270f2b(0x604)] = new Phaser['GameObjects'][(_0x270f2b(0x2a3))](this[_0x270f2b(0x1ff)], 0x3c, 0x24, 'items', '')['setOrigin'](0.5),
                             this[_0x270f2b(0x9c4)] = new Phaser[(_0x270f2b(0x13b))]['Image'](this[_0x270f2b(0x1ff)], 0x16, 0x20, 'characters', '')[_0x270f2b(0x360)](0.5),
                             this[_0x270f2b(0x84d)] = new Phaser['GameObjects']['Text'](this['scene'], 0x6, 0x6, _0x212546['Lang'][_0x270f2b(0x383)]('charConfirm_name'), {})[_0x270f2b(0x935)](0.5),
                             this[_0x270f2b(0x8c6)] = new Phaser['GameObjects'][(_0x270f2b(0x173))](this[_0x270f2b(0x1ff)], 0x50, 0x10, _0x212546[_0x270f2b(0x53d)][_0x270f2b(0x383)]('charConfirm_description'), {})['setScale'](0.5)[_0x270f2b(0x610)](0xd2),
@@ -30967,8 +30967,8 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                     'height': 0xc
                                 }
                             }, _0x8ab1c6),
-                            this['myIconBG'] = new Phaser[(_0x3e6f83(0x13b))]['Image'](this['scene'], _0x385933 - 0x9, _0x342197 - 0x9, '_items', '')[_0x3e6f83(0x360)](0x1)['setScale'](0x2 * _0x29d26a[_0x3e6f83(0x482)])['setTintFill'](0x111111),
-                            this['myWeaponIcon'] = new Phaser['GameObjects']['Image'](this['scene'], _0x385933 - 0xc, _0x342197 - 0xc, '_items', '')[_0x3e6f83(0x360)](0x1)[_0x3e6f83(0x935)](0x2 * _0x29d26a['PixelScale']),
+                            this['myIconBG'] = new Phaser[(_0x3e6f83(0x13b))]['Image'](this['scene'], _0x385933 - 0x9, _0x342197 - 0x9, 'items', '')[_0x3e6f83(0x360)](0x1)['setScale'](0x2 * _0x29d26a[_0x3e6f83(0x482)])['setTintFill'](0x111111),
+                            this['myWeaponIcon'] = new Phaser['GameObjects']['Image'](this['scene'], _0x385933 - 0xc, _0x342197 - 0xc, 'items', '')[_0x3e6f83(0x360)](0x1)[_0x3e6f83(0x935)](0x2 * _0x29d26a['PixelScale']),
                             this['myIcon'] = new Phaser['GameObjects'][(_0x3e6f83(0x2a3))](this['scene'], 0x6, _0x342197 - 0x5, 'characters', '')[_0x3e6f83(0x360)](0x0, 0x1)[_0x3e6f83(0x935)](0x2 * _0x29d26a['PixelScale']),
                             this[_0x3e6f83(0x84d)] = new Phaser[(_0x3e6f83(0x13b))][(_0x3e6f83(0x173))](this['scene'], 0x6, 0x6, _0x212546['Lang']['getLang']('charSelection_name'), {})[_0x3e6f83(0x935)](_0x29d26a['PixelScale']),
                             this[_0x3e6f83(0x735)](this[_0x3e6f83(0x26c)]),
@@ -31466,7 +31466,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             this[_0xec684d(0x8df)][_0xec684d(0x961)]['on']('keycombomatch', (_0x3f8667, _0x1cd080, _0x3c1e22, _0x5e458b, _0x587e91) => {
                                 const _0x1f2ecf = _0xec684d;
                                 var _0x2bed40;
-                                if (_0x3f8667['name'] && (0x9898 === _0x3f8667[_0x1f2ecf(0x9d7)] ? -0x1 == _0x212546['Core'][_0x1f2ecf(0x7e6)]['UnlockedStages'][_0x1f2ecf(0x769)](_0x308551[_0x1f2ecf(0x995)]) && (_0x212546[_0x1f2ecf(0x229)][_0x1f2ecf(0x7e6)][_0x1f2ecf(0xb91)]['push'](_0x308551[_0x1f2ecf(0x995)]), _0x3e1704[_0x308551['MOLISE']][0x0][_0x1f2ecf(0x263)] = !0x1, _0x3e1704[_0x308551[_0x1f2ecf(0x995)]][0x0]['unlocked'] = !0x0, _0x212546[_0x1f2ecf(0x229)]['PlayerOptions'][_0x1f2ecf(0x4ac)](), _0x212546['Sound']['PlaySound'](_0x15d15f['ClickIn']), _0x212546[_0x1f2ecf(0x324)]['PlaySound'](_0x15d15f[_0x1f2ecf(0xaf7)])) : 0x9899 === _0x3f8667[_0x1f2ecf(0x9d7)] && -0x1 == _0x212546[_0x1f2ecf(0x229)][_0x1f2ecf(0x7e6)]['Collected_items'][_0x1f2ecf(0x769)](_0x593622[_0x1f2ecf(0xa0b)]) && (_0xd1bb64[_0x593622[_0x1f2ecf(0xa0b)]][_0x1f2ecf(0x7d0)] += 0x1, _0x212546[_0x1f2ecf(0x229)][_0x1f2ecf(0x7e6)][_0x1f2ecf(0x778)][_0x1f2ecf(0x35c)](_0x593622['RELIC_RANDOMAZZO']), _0x5578e6[_0x500350['T06_SARABANDE']]['unlocked'] = !0x0, -0x1 === _0x212546[_0x1f2ecf(0x229)][_0x1f2ecf(0x7e6)]['UnlockedArcanas'][_0x1f2ecf(0x769)](_0x500350[_0x1f2ecf(0x23a)]) && _0x212546['Core']['PlayerOptions'][_0x1f2ecf(0x8ef)][_0x1f2ecf(0x35c)](_0x500350[_0x1f2ecf(0x23a)]), _0x212546[_0x1f2ecf(0x229)][_0x1f2ecf(0x7e6)][_0x1f2ecf(0x4ac)](), _0x212546[_0x1f2ecf(0x229)]['PlayerOptions'][_0x1f2ecf(0x4ac)](), _0x212546[_0x1f2ecf(0x324)][_0x1f2ecf(0x819)](_0x15d15f['ClickIn']), _0x212546[_0x1f2ecf(0x324)]['PlaySound'](_0x15d15f['ThingFound']))), 0xa == _0x3f8667[_0x1f2ecf(0x50f)]) {
+                                if (_0x3f8667['name'] && (0x9898 === _0x3f8667[_0x1f2ecf(0x9d7)] ? -0x1 == _0x212546['Core'][_0x1f2ecf(0x7e6)]['UnlockedStages'][_0x1f2ecf(0x769)](_0x308551[_0x1f2ecf(0x995)]) && (_0x212546[_0x1f2ecf(0x229)][_0x1f2ecf(0x7e6)][_0x1f2ecf(0xb91)]['push'](_0x308551[_0x1f2ecf(0x995)]), _0x3e1704[_0x308551['MOLISE']][0x0][_0x1f2ecf(0x263)] = !0x1, _0x3e1704[_0x308551[_0x1f2ecf(0x995)]][0x0]['unlocked'] = !0x0, _0x212546[_0x1f2ecf(0x229)]['PlayerOptions'][_0x1f2ecf(0x4ac)](), _0x212546['Sound']['PlaySound'](_0x15d15f['ClickIn']), _0x212546[_0x1f2ecf(0x324)]['PlaySound'](_0x15d15f[_0x1f2ecf(0xaf7)])) : 0x9899 === _0x3f8667[_0x1f2ecf(0x9d7)] && -0x1 == _0x212546[_0x1f2ecf(0x229)][_0x1f2ecf(0x7e6)]['Collecteditems'][_0x1f2ecf(0x769)](_0x593622[_0x1f2ecf(0xa0b)]) && (_0xd1bb64[_0x593622[_0x1f2ecf(0xa0b)]][_0x1f2ecf(0x7d0)] += 0x1, _0x212546[_0x1f2ecf(0x229)][_0x1f2ecf(0x7e6)][_0x1f2ecf(0x778)][_0x1f2ecf(0x35c)](_0x593622['RELIC_RANDOMAZZO']), _0x5578e6[_0x500350['T06_SARABANDE']]['unlocked'] = !0x0, -0x1 === _0x212546[_0x1f2ecf(0x229)][_0x1f2ecf(0x7e6)]['UnlockedArcanas'][_0x1f2ecf(0x769)](_0x500350[_0x1f2ecf(0x23a)]) && _0x212546['Core']['PlayerOptions'][_0x1f2ecf(0x8ef)][_0x1f2ecf(0x35c)](_0x500350[_0x1f2ecf(0x23a)]), _0x212546[_0x1f2ecf(0x229)][_0x1f2ecf(0x7e6)][_0x1f2ecf(0x4ac)](), _0x212546[_0x1f2ecf(0x229)]['PlayerOptions'][_0x1f2ecf(0x4ac)](), _0x212546[_0x1f2ecf(0x324)][_0x1f2ecf(0x819)](_0x15d15f['ClickIn']), _0x212546[_0x1f2ecf(0x324)]['PlaySound'](_0x15d15f['ThingFound']))), 0xa == _0x3f8667[_0x1f2ecf(0x50f)]) {
                                     if (_0x212546[_0x1f2ecf(0x229)][_0x1f2ecf(0x7e6)][_0x1f2ecf(0x811)])
                                         return;
                                     -0x1 == _0x212546['Core'][_0x1f2ecf(0x7e6)]['Unlockedcharacters'][_0x1f2ecf(0x769)](_character['MORTACCIO']) && (_0x212546['Core']['PlayerOptions'][_0x1f2ecf(0x1f4)]['push'](_character['MORTACCIO']), _0x404d9d[_character[_0x1f2ecf(0x128)]][0x0]['hidden'] = !0x1, _0x212546['Core'][_0x1f2ecf(0x7e6)][_0x1f2ecf(0x295)]()),
@@ -31849,7 +31849,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 }
                             }, _0x354b84),
                             this[_0x4a3b68(0x320)] = new Phaser[(_0x4a3b68(0x13b))][(_0x4a3b68(0x2a3))](this['scene'], _0x45281e, _0x45281e, 'UI', 'frameD.png')[_0x4a3b68(0x360)](0.5)['setScale'](0x2 * _0x29d26a[_0x4a3b68(0x482)]),
-                            this[_0x4a3b68(0x604)] = new Phaser['GameObjects'][(_0x4a3b68(0x2a3))](this['scene'], _0x45281e, _0x45281e, '_items', '')[_0x4a3b68(0x360)](0.5)['setScale'](0x2 * _0x29d26a['PixelScale']),
+                            this[_0x4a3b68(0x604)] = new Phaser['GameObjects'][(_0x4a3b68(0x2a3))](this['scene'], _0x45281e, _0x45281e, 'items', '')[_0x4a3b68(0x360)](0.5)['setScale'](0x2 * _0x29d26a['PixelScale']),
                             this['myName'] = new Phaser['GameObjects'][(_0x4a3b68(0x173))](this[_0x4a3b68(0x1ff)], _0x45281e, 0x6, _0x212546['Lang'][_0x4a3b68(0x383)]('powerupSelection_name'), {})[_0x4a3b68(0x360)](0.5, 0x0)['setScale'](_0x29d26a['PixelScale']),
                             _0x1db9ac[this[_0x4a3b68(0x262)]];
                             var _0x57f3c9 = _0x1db9ac[this['power']][0x0];
@@ -31902,7 +31902,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             };
                             this['Background'] = new _0x3d9c73['NineSlice'](this[_0x53ae1a(0x1ff)], _0x3dd976['PanelBackground'], _0x482ae7),
                             this['myIconBG'] = new Phaser[(_0x53ae1a(0x13b))]['Image'](this[_0x53ae1a(0x1ff)], 0x40, 0x40, 'UI', 'frameD.png')['setOrigin'](0.5)[_0x53ae1a(0x935)](0x2 * _0x29d26a['PixelScale']),
-                            this[_0x53ae1a(0x604)] = new Phaser['GameObjects'][(_0x53ae1a(0x2a3))](this['scene'], 0x40, 0x40, '_items', '')['setOrigin'](0.5)[_0x53ae1a(0x935)](0x2 * _0x29d26a['PixelScale']),
+                            this[_0x53ae1a(0x604)] = new Phaser['GameObjects'][(_0x53ae1a(0x2a3))](this['scene'], 0x40, 0x40, 'items', '')['setOrigin'](0.5)[_0x53ae1a(0x935)](0x2 * _0x29d26a['PixelScale']),
                             this[_0x53ae1a(0x84d)] = new Phaser['GameObjects'][(_0x53ae1a(0x173))](this[_0x53ae1a(0x1ff)], 0x40, 0x6, _0x212546['Lang'][_0x53ae1a(0x383)]('powerupConfirm_name'), {})[_0x53ae1a(0x935)](_0x29d26a['PixelScale'])[_0x53ae1a(0x360)](0.5, 0x0),
                             this[_0x53ae1a(0x8c6)] = new Phaser['GameObjects'][(_0x53ae1a(0x173))](this['scene'], 0x8c, 0x20, _0x212546[_0x53ae1a(0x53d)][_0x53ae1a(0x383)]('powerupConfirm_description'), {})['setScale'](_0x29d26a[_0x53ae1a(0x482)])[_0x53ae1a(0x610)](0xf0),
                             this[_0x53ae1a(0x621)] = new Phaser[(_0x53ae1a(0x13b))]['Text'](this[_0x53ae1a(0x1ff)], 0x1ae, 0x40, _0x212546['Lang']['getLang']('powerupConfirm_confirm'), {})['setScale'](_0x29d26a[_0x53ae1a(0x482)])['setOrigin'](0.5),
@@ -32238,7 +32238,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                             'x': this['posX'] - 0x44,
                                             'y': this['posY'] + 0x53,
                                             'orientation': 'y',
-                                            '_items': this['options']['map'](function (_0xb9e572) {
+                                            'items': this['options']['map'](function (_0xb9e572) {
                                                 return {
                                                     'label': _0xb9e572
                                                 };
@@ -33057,7 +33057,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 }
                             }, _0xd0b9b1),
                             this['addAt'](this[_0x3e2cfc(0x631)], 0x0);
-                            let _0x47a0bb = new Phaser['GameObjects'][(_0x3e2cfc(0x2a3))](this['scene'], 0.5 * _0x1d687a, 0x20, '_items', 'Tarots.png')[_0x3e2cfc(0x935)](0x2);
+                            let _0x47a0bb = new Phaser['GameObjects'][(_0x3e2cfc(0x2a3))](this['scene'], 0.5 * _0x1d687a, 0x20, 'items', 'Tarots.png')[_0x3e2cfc(0x935)](0x2);
                             this['add'](_0x47a0bb),
                             this[_0x3e2cfc(0x735)]();
                         }
@@ -33109,7 +33109,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                         }
                         [_object(0xad9)]() {
                             const _0x4993f0 = _object;
-                            this[_0x4993f0(0x33e)] = _0x212546[_0x4993f0(0x229)]['PlayerOptions']['Collected_items'][_0x4993f0(0x769)](_0x593622['RELIC_MAP']) > -0x1,
+                            this[_0x4993f0(0x33e)] = _0x212546[_0x4993f0(0x229)]['PlayerOptions']['Collecteditems'][_0x4993f0(0x769)](_0x593622['RELIC_MAP']) > -0x1,
                             this[_0x4993f0(0xb12)] = _0x212546['Core']['HasRandomazzoEnabled']();
                             const _0x1d0b5e = _0x2bc77f[_0x4993f0(0x2bf)];
                             var _0x3b7ff9 = _0x2bc77f['width'],
@@ -33420,7 +33420,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             this[_0x422c5c(0x262)] = _0x5197c6,
                             this['setScale'](_0x29d26a[_0x422c5c(0x482)]),
                             this[_0x422c5c(0x320)] = new Phaser[(_0x422c5c(0x13b))]['Image'](this[_0x422c5c(0x1ff)], 0x20, 0x20, 'UI', 'frameB.png')['setOrigin'](0.5)[_0x422c5c(0x935)](0x2 * _0x29d26a[_0x422c5c(0x482)]),
-                            this['myWeaponIcon'] = new Phaser['GameObjects'][(_0x422c5c(0x2a3))](this[_0x422c5c(0x1ff)], 0x20, 0x20, '_items', '')[_0x422c5c(0x360)](0.5)['setScale'](0x2 * _0x29d26a[_0x422c5c(0x482)]),
+                            this['myWeaponIcon'] = new Phaser['GameObjects'][(_0x422c5c(0x2a3))](this[_0x422c5c(0x1ff)], 0x20, 0x20, 'items', '')[_0x422c5c(0x360)](0.5)['setScale'](0x2 * _0x29d26a[_0x422c5c(0x482)]),
                             this[_0x422c5c(0x735)](this[_0x422c5c(0x262)]),
                             this[_0x422c5c(0x5e2)]([this[_0x422c5c(0x320)], this['myWeaponIcon']]);
                         }
@@ -33428,7 +33428,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             const _0xec3317 = _object;
                             this[_0xec3317(0x262)] = _0x4c1730;
                             var _0x539aa1 = _0x101352[this[_0xec3317(0x262)]][0x0];
-                            _0x539aa1[_0xec3317(0x219)] ? (this[_0xec3317(0x604)][_0xec3317(0x471)](_0x539aa1['texture'], _0x539aa1[_0xec3317(0x2d1)])[_0xec3317(0x935)](0x2 * _0x29d26a[_0xec3317(0x482)]), this[_0xec3317(0x320)][_0xec3317(0x925)](0x1)['setScale'](0x2 * _0x29d26a['PixelScale'])) : (this[_0xec3317(0x604)][_0xec3317(0x471)]('_items', 'QuestionMark.png')[_0xec3317(0x935)](_0x29d26a[_0xec3317(0x482)]), this['myIconBG'][_0xec3317(0x925)](0.5)[_0xec3317(0x935)](1.6 * _0x29d26a['PixelScale']));
+                            _0x539aa1[_0xec3317(0x219)] ? (this[_0xec3317(0x604)][_0xec3317(0x471)](_0x539aa1['texture'], _0x539aa1[_0xec3317(0x2d1)])[_0xec3317(0x935)](0x2 * _0x29d26a[_0xec3317(0x482)]), this[_0xec3317(0x320)][_0xec3317(0x925)](0x1)['setScale'](0x2 * _0x29d26a['PixelScale'])) : (this[_0xec3317(0x604)][_0xec3317(0x471)]('items', 'QuestionMark.png')[_0xec3317(0x935)](_0x29d26a[_0xec3317(0x482)]), this['myIconBG'][_0xec3317(0x925)](0.5)[_0xec3317(0x935)](1.6 * _0x29d26a['PixelScale']));
                         }
                     }
                     const _0x4727ec = _0x3c3946;
@@ -33449,7 +33449,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             _0x3928da = 0.96 * _0x2bc77f['width'] * 0.25;
                             this[_0x5a5762(0x631)] = new _0x3d9c73[(_0x5a5762(0x33d))](this[_0x5a5762(0x1ff)], _0x3dd976[_0x5a5762(0xa9c)], _0x427bc6),
                             this[_0x5a5762(0x320)] = new Phaser[(_0x5a5762(0x13b))]['Image'](this[_0x5a5762(0x1ff)], 0x34, 0x34, 'UI', 'frameB.png')[_0x5a5762(0x360)](0.5)[_0x5a5762(0x935)](0x2 * _0x29d26a[_0x5a5762(0x482)]),
-                            this[_0x5a5762(0x604)] = new Phaser[(_0x5a5762(0x13b))]['Image'](this['scene'], 0x34, 0x34, '_items', '')[_0x5a5762(0x360)](0.5)[_0x5a5762(0x935)](0x2 * _0x29d26a[_0x5a5762(0x482)]),
+                            this[_0x5a5762(0x604)] = new Phaser[(_0x5a5762(0x13b))]['Image'](this['scene'], 0x34, 0x34, 'items', '')[_0x5a5762(0x360)](0.5)[_0x5a5762(0x935)](0x2 * _0x29d26a[_0x5a5762(0x482)]),
                             this[_0x5a5762(0x84d)] = new Phaser[(_0x5a5762(0x13b))]['Text'](this[_0x5a5762(0x1ff)], _0x514223, 0x6, _0x212546[_0x5a5762(0x53d)][_0x5a5762(0x383)]('weaponCollectionPanel_name'), {
                                 'color': 'yellow'
                             })[_0x5a5762(0x935)](_0x29d26a['PixelScale'])[_0x5a5762(0x360)](0.5, 0x0),
@@ -33476,8 +33476,8 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             const _0x5281ca = 'Arcana' === _0x2dcb44 ? _0x296e5f[_0x143a40(0x636)] : _0x296e5f[_0x143a40(0x219)];
                             this[_0x143a40(0x631)][_0x143a40(0x6c4)](_0x5281ca ? 0xffffff : 0x888888),
                             this[_0x143a40(0x84d)]['text'] = _0x5281ca ? _0x296e5f[_0x143a40(0x9d7)] : '???';
-                            let _0x41d47f = 'Arcana' === _0x2dcb44 ? '_items' : _0x296e5f[_0x143a40(0x7ab)];
-                            _0x5281ca ? this[_0x143a40(0x604)][_0x143a40(0x471)](_0x41d47f, _0x296e5f['frameName']) : this[_0x143a40(0x604)][_0x143a40(0x471)]('_items', 'QuestionMark.png'),
+                            let _0x41d47f = 'Arcana' === _0x2dcb44 ? 'items' : _0x296e5f[_0x143a40(0x7ab)];
+                            _0x5281ca ? this[_0x143a40(0x604)][_0x143a40(0x471)](_0x41d47f, _0x296e5f['frameName']) : this[_0x143a40(0x604)][_0x143a40(0x471)]('items', 'QuestionMark.png'),
                             this[_0x143a40(0x8c6)]['setText'](_0x5281ca ? _0x296e5f[_0x143a40(0x602)] : _0x212546[_0x143a40(0x53d)][_0x143a40(0x383)]('weaponCollectionPanel_notFound')),
                             this[_0x143a40(0x217)][_0x143a40(0x612)](_0x5281ca ? _0x296e5f[_0x143a40(0x6c0)] : '');
                         }
@@ -33496,7 +33496,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             this['power'] = _0x77621e,
                             this[_0x404bc7(0x935)](_0x29d26a['PixelScale']),
                             this[_0x404bc7(0x320)] = new Phaser[(_0x404bc7(0x13b))][(_0x404bc7(0x2a3))](this[_0x404bc7(0x1ff)], 0x20, 0x20, 'UI', 'frameC.png')[_0x404bc7(0x360)](0.5)[_0x404bc7(0x935)](0x2 * _0x29d26a[_0x404bc7(0x482)]),
-                            this[_0x404bc7(0x604)] = new Phaser[(_0x404bc7(0x13b))]['Image'](this[_0x404bc7(0x1ff)], 0x20, 0x20, '_items', '')['setOrigin'](0.5)[_0x404bc7(0x935)](0x2 * _0x29d26a[_0x404bc7(0x482)]),
+                            this[_0x404bc7(0x604)] = new Phaser[(_0x404bc7(0x13b))]['Image'](this[_0x404bc7(0x1ff)], 0x20, 0x20, 'items', '')['setOrigin'](0.5)[_0x404bc7(0x935)](0x2 * _0x29d26a[_0x404bc7(0x482)]),
                             this[_0x404bc7(0x735)](this[_0x404bc7(0x262)]),
                             this[_0x404bc7(0x5e2)]([this[_0x404bc7(0x320)], this['myWeaponIcon']]);
                         }
@@ -33505,7 +33505,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             this[_0x446bd1(0x262)] = _0x2e486a;
                             var _0x1c2bba = _0xd1bb64[this['power']];
                             let _0x2b4aea = _0x1c2bba[_0x446bd1(0x47a)] ? 'frameF.png' : 'frameC.png';
-                            _0x1c2bba['seen'] ? (this['myWeaponIcon'][_0x446bd1(0x471)](_0x1c2bba[_0x446bd1(0x7ab)], _0x1c2bba['frameName'])['setScale'](0x2 * _0x29d26a[_0x446bd1(0x482)]), this['myIconBG'][_0x446bd1(0x925)](0x1)['setScale'](0x2 * _0x29d26a[_0x446bd1(0x482)])['setFrame'](_0x2b4aea)) : (this[_0x446bd1(0x604)]['setTexture']('_items', 'QuestionMark.png')[_0x446bd1(0x935)](_0x29d26a[_0x446bd1(0x482)]), this[_0x446bd1(0x320)][_0x446bd1(0x925)](0.5)[_0x446bd1(0x935)](1.6 * _0x29d26a['PixelScale'])['setFrame'](_0x2b4aea));
+                            _0x1c2bba['seen'] ? (this['myWeaponIcon'][_0x446bd1(0x471)](_0x1c2bba[_0x446bd1(0x7ab)], _0x1c2bba['frameName'])['setScale'](0x2 * _0x29d26a[_0x446bd1(0x482)]), this['myIconBG'][_0x446bd1(0x925)](0x1)['setScale'](0x2 * _0x29d26a[_0x446bd1(0x482)])['setFrame'](_0x2b4aea)) : (this[_0x446bd1(0x604)]['setTexture']('items', 'QuestionMark.png')[_0x446bd1(0x935)](_0x29d26a[_0x446bd1(0x482)]), this[_0x446bd1(0x320)][_0x446bd1(0x925)](0.5)[_0x446bd1(0x935)](1.6 * _0x29d26a['PixelScale'])['setFrame'](_0x2b4aea));
                         }
                     }
                     const _0x1c5a94 = _0x2c479d;
@@ -33527,7 +33527,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             this[_0x3f3c3f(0x262)] = _0x50a944;
                             var _0x477bb6 = _0x5578e6[this[_0x3f3c3f(0x262)]];
                             let _0x2b6de8 = 'frameG.png';
-                            _0x477bb6[_0x3f3c3f(0x636)] ? (this[_0x3f3c3f(0x604)]['setTexture']('_items', _0x477bb6[_0x3f3c3f(0x2d1)])[_0x3f3c3f(0x935)](0x2 * _0x29d26a['PixelScale']), this['myIconBG'][_0x3f3c3f(0x925)](0x1)[_0x3f3c3f(0x935)](0x2 * _0x29d26a[_0x3f3c3f(0x482)])[_0x3f3c3f(0x6fa)](_0x2b6de8)) : (this['myWeaponIcon'][_0x3f3c3f(0x471)]('_items', 'QuestionMark.png')['setScale'](_0x29d26a['PixelScale']), this[_0x3f3c3f(0x320)][_0x3f3c3f(0x925)](0.5)[_0x3f3c3f(0x935)](1.6 * _0x29d26a[_0x3f3c3f(0x482)])[_0x3f3c3f(0x6fa)](_0x2b6de8));
+                            _0x477bb6[_0x3f3c3f(0x636)] ? (this[_0x3f3c3f(0x604)]['setTexture']('items', _0x477bb6[_0x3f3c3f(0x2d1)])[_0x3f3c3f(0x935)](0x2 * _0x29d26a['PixelScale']), this['myIconBG'][_0x3f3c3f(0x925)](0x1)[_0x3f3c3f(0x935)](0x2 * _0x29d26a[_0x3f3c3f(0x482)])[_0x3f3c3f(0x6fa)](_0x2b6de8)) : (this['myWeaponIcon'][_0x3f3c3f(0x471)]('items', 'QuestionMark.png')['setScale'](_0x29d26a['PixelScale']), this[_0x3f3c3f(0x320)][_0x3f3c3f(0x925)](0.5)[_0x3f3c3f(0x935)](1.6 * _0x29d26a[_0x3f3c3f(0x482)])[_0x3f3c3f(0x6fa)](_0x2b6de8));
                         }
                     }
                     const _0x53e218 = _0x29c28b;
@@ -33579,7 +33579,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 let _0x36bfbf = _0xd1bb64[_0x3ef706];
                                 _0x36bfbf && (_0x36bfbf[_0x3a1863(0x263)] || (_0x551708 += _0x36bfbf[_0x3a1863(0x219)] ? 0x1 : 0x0, _0x28d5e7++));
                             }
-                            if (_0x212546[_0x3a1863(0x229)][_0x3a1863(0x7e6)]['Collected_items']['indexOf'](_0x593622[_0x3a1863(0xa0b)]) > -0x1)
+                            if (_0x212546[_0x3a1863(0x229)][_0x3a1863(0x7e6)]['Collecteditems']['indexOf'](_0x593622[_0x3a1863(0xa0b)]) > -0x1)
                                 for (const _0x455eca in _0x5578e6) {
                                     let _0x4ecf2d = _0x5578e6[_0x455eca];
                                     _0x4ecf2d && (_0x4ecf2d['hidden'] || (_0x551708 += _0x4ecf2d[_0x3a1863(0x636)] ? 0x1 : 0x0, _0x28d5e7++));
@@ -33602,7 +33602,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                     this['add'][_0x3a1863(0x2b1)](_0x4aabb0),
                                     this['panels'][_0x3a1863(0x5e2)](_0x4aabb0);
                                 }
-                            if (_0x212546['Core']['PlayerOptions']['Collected_items'][_0x3a1863(0x769)](_0x593622[_0x3a1863(0xa0b)]) > -0x1) {
+                            if (_0x212546['Core']['PlayerOptions']['Collecteditems'][_0x3a1863(0x769)](_0x593622[_0x3a1863(0xa0b)]) > -0x1) {
                                 for (const _0x4e8509 in _0x5578e6)
                                     if (!_0x5578e6[_0x4e8509]['hidden'] && _0x5578e6[_0x4e8509]['major']) {
                                         var _0x404099 = new _0x53e218(this, 0x0, 0x0, _0x4e8509);
@@ -33783,7 +33783,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 _0x3e8b85['drawFrame'](_0x302802[_0x13f8ec(0x7ab)], _0x302802[_0x13f8ec(0x2d1)], 0x8, 0x20 * _0x12f235);
                             }
                             for (let _0x1543bb = 0x0; _0x1543bb < _0x4ca884; _0x1543bb++)
-                                _0x3e8b85[_0x13f8ec(0x454)]('_items', 'MoneyBagGreen.png', 0x8, 0x20 * (_0x12f235 + _0x1543bb));
+                                _0x3e8b85[_0x13f8ec(0x454)]('items', 'MoneyBagGreen.png', 0x8, 0x20 * (_0x12f235 + _0x1543bb));
                             _0x3e8b85['saveTexture'](_0x29fdc6);
                         }
                         static['MakeTexture_ExistingWeapons'](_0x4dd03c, _0x4d7f36 = 'tex', _0x59bac8 = 0xff0000, _0x1da26b = 0.5) {
@@ -33822,7 +33822,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 _0x5e77c1[_0xd36ac1(0x454)](_0xb96a64[_0xd36ac1(0x7ab)], _0xb96a64['frameName'], 0x8, 0x20 * _0x42bafb);
                             }
                             for (let _0x1c56ff = 0x0; _0x1c56ff < _0x608db5; _0x1c56ff++)
-                                _0x5e77c1['drawFrame']('_items', 'MoneyBagGreen.png', 0x8, 0x20 * (_0x42bafb + _0x1c56ff));
+                                _0x5e77c1['drawFrame']('items', 'MoneyBagGreen.png', 0x8, 0x20 * (_0x42bafb + _0x1c56ff));
                             _0x5e77c1[_0xd36ac1(0xaa9)](_0x4d7f36);
                         }
                         static['MakeTexture_Any'](_0x51d56b, _0x32572e = 'tex', _0x995613 = 0xff, _0x380e91 = 0.5, _0x5ecf52 = !0x0) {
@@ -33859,7 +33859,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 _0x97a09d[_0x36c931(0x454)](_0x3378e4[_0x36c931(0x7ab)], _0x3378e4[_0x36c931(0x2d1)], 0x8, 0x20 * _0x8f8c29);
                             }
                             for (let _0x143bde = 0x0; _0x143bde < _0x4aadf3; _0x143bde++)
-                                _0x97a09d[_0x36c931(0x454)]('_items', 'MoneyBagGreen.png', 0x8, 0x20 * (_0x8f8c29 + _0x143bde));
+                                _0x97a09d[_0x36c931(0x454)]('items', 'MoneyBagGreen.png', 0x8, 0x20 * (_0x8f8c29 + _0x143bde));
                             _0x97a09d['saveTexture'](_0x32572e);
                         }
                         static[_object(0x90e)](_0x6b78ae, _0x24be3d, _0x3f41cd) {
@@ -33892,7 +33892,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             this[_0x36d471(0xb2a)] = this[_0x36d471(0x1ff)][_0x36d471(0x5e2)][_0x36d471(0xb32)](_0x3d5989, _0x151b1a, 'vfx', 'HitStarWhite2.png')['setBlendMode'](_0x248136[_0x36d471(0x177)][_0x36d471(0x689)])[_0x36d471(0x935)](0x6)[_0x36d471(0x925)](0.7)[_0x36d471(0x8dd)](_0x592fd5)[_0x36d471(0x5fb)](!0x1),
                             this['star2'] = this[_0x36d471(0x1ff)][_0x36d471(0x5e2)][_0x36d471(0xb32)](_0x3d5989, _0x151b1a, 'vfx', 'HitStarWhite2.png')['setBlendMode'](_0x248136['BlendModes'][_0x36d471(0x689)])[_0x36d471(0x935)](0x8)[_0x36d471(0x925)](0.7)[_0x36d471(0x586)](0x2d)[_0x36d471(0x8dd)](_0x592fd5)[_0x36d471(0x5fb)](!0x1),
                             this[_0x36d471(0xadf)] = this[_0x36d471(0x1ff)]['add']['sprite'](_0x3d5989, _0x151b1a, 'vfx', 'sPFX_ring_64.png')[_0x36d471(0x362)](_0x248136[_0x36d471(0x177)]['ADD'])[_0x36d471(0x935)](0x8)[_0x36d471(0x925)](0.5)[_0x36d471(0x8dd)](_0x592fd5)[_0x36d471(0x5fb)](!0x1),
-                            this[_0x36d471(0x333)] = this['scene']['add'][_0x36d471(0xb32)](_0x3d5989, _0x151b1a, '_items', _0x2e2d8f)['setScale'](0x0)[_0x36d471(0x8dd)](_0x592fd5)['setVisible'](!0x1);
+                            this[_0x36d471(0x333)] = this['scene']['add'][_0x36d471(0xb32)](_0x3d5989, _0x151b1a, 'items', _0x2e2d8f)['setScale'](0x0)[_0x36d471(0x8dd)](_0x592fd5)['setVisible'](!0x1);
                         }
                         [_object(0x248)]() {
                             const _0xcc206d = _object;
@@ -34071,7 +34071,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             this['Background'] = new _0x3d9c73[(_0x340415(0x33d))](this['scene'], _0x3dd976['PanelBackground'], _0x3624e7),
                             this[_0x340415(0x320)] = new Phaser[(_0x340415(0x13b))][(_0x340415(0x2a3))](this['scene'], 0x34, 0x34, 'UI', 'frameB.png')['setOrigin'](0.5)['setScale'](0x2 * _0x29d26a['PixelScale']),
                             this['myOverlay'] = new Phaser[(_0x340415(0x13b))][(_0x340415(0x2a3))](this[_0x340415(0x1ff)], 0x34, 0x34, 'UI', 'frameB.png')[_0x340415(0x360)](0.5)[_0x340415(0x935)](0x2 * _0x29d26a[_0x340415(0x482)])['setVisible'](!0x1),
-                            this['myIcon'] = new Phaser['GameObjects'][(_0x340415(0x2a3))](this['scene'], 0x34, 0x34, '_items', 'QuestionMark.png')[_0x340415(0x360)](0.5)[_0x340415(0x935)](0x2 * _0x29d26a[_0x340415(0x482)]),
+                            this['myIcon'] = new Phaser['GameObjects'][(_0x340415(0x2a3))](this['scene'], 0x34, 0x34, 'items', 'QuestionMark.png')[_0x340415(0x360)](0.5)[_0x340415(0x935)](0x2 * _0x29d26a[_0x340415(0x482)]),
                             this['myName'] = new Phaser['GameObjects']['Text'](this['scene'], _0x4f6c07, 0x6, _0x212546[_0x340415(0x53d)][_0x340415(0x383)]('genericPopup_name'), {
                                 'color': 'yellow'
                             })[_0x340415(0x935)](_0x29d26a[_0x340415(0x482)])[_0x340415(0x360)](0.5, 0x0),
@@ -34159,7 +34159,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             }
                             if (_0x3c5a3f[_0x472e8a(0x3dd)]) {
                                 var _0x288da3 = _0x404d9d[_0x3c5a3f[_0x472e8a(0x3dd)]][0x0];
-                                _0x3c5a3f[_0x472e8a(0x515)] && !_0x3c5a3f['achieved'] ? (this[_0x472e8a(0x9c4)][_0x472e8a(0x471)]('_items', 'QuestionMark.png')[_0x472e8a(0x360)](0.5), this[_0x472e8a(0x217)][_0x472e8a(0x612)]((_0x3c5a3f[_0x472e8a(0x579)] ? _0x212546['Lang'][_0x472e8a(0x383)]('genericPopup_unlocked') : _0x212546[_0x472e8a(0x53d)][_0x472e8a(0x383)]('genericPopup_unlocks')) + ' ???')) : (this[_0x472e8a(0x9c4)][_0x472e8a(0x471)]('characters', _0x288da3[_0x472e8a(0x54d)])[_0x472e8a(0x360)](0.5), this[_0x472e8a(0x217)]['setText']((_0x3c5a3f[_0x472e8a(0x579)] ? _0x212546['Lang']['getLang']('genericPopup_unlocked') : _0x212546['Lang'][_0x472e8a(0x383)]('genericPopup_unlocks')) + (_0x288da3[_0x472e8a(0x809)] ? _0x288da3[_0x472e8a(0x809)] + ' ' + _0x288da3[_0x472e8a(0x169)] : _0x288da3[_0x472e8a(0x169)]))),
+                                _0x3c5a3f[_0x472e8a(0x515)] && !_0x3c5a3f['achieved'] ? (this[_0x472e8a(0x9c4)][_0x472e8a(0x471)]('items', 'QuestionMark.png')[_0x472e8a(0x360)](0.5), this[_0x472e8a(0x217)][_0x472e8a(0x612)]((_0x3c5a3f[_0x472e8a(0x579)] ? _0x212546['Lang'][_0x472e8a(0x383)]('genericPopup_unlocked') : _0x212546[_0x472e8a(0x53d)][_0x472e8a(0x383)]('genericPopup_unlocks')) + ' ???')) : (this[_0x472e8a(0x9c4)][_0x472e8a(0x471)]('characters', _0x288da3[_0x472e8a(0x54d)])[_0x472e8a(0x360)](0.5), this[_0x472e8a(0x217)]['setText']((_0x3c5a3f[_0x472e8a(0x579)] ? _0x212546['Lang']['getLang']('genericPopup_unlocked') : _0x212546['Lang'][_0x472e8a(0x383)]('genericPopup_unlocks')) + (_0x288da3[_0x472e8a(0x809)] ? _0x288da3[_0x472e8a(0x809)] + ' ' + _0x288da3[_0x472e8a(0x169)] : _0x288da3[_0x472e8a(0x169)]))),
                                 this[_0x472e8a(0x49f)]['setVisible'](!0x1),
                                 this[_0x472e8a(0x320)][_0x472e8a(0x5fb)](!0x1);
                             }
@@ -34186,17 +34186,17 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 this[_0x472e8a(0x320)][_0x472e8a(0x5fb)](!0x0)['setFrame']('frameF.png'),
                                 this['myOverlay']['setVisible'](!0x1);
                             }
-                            if (_0x3c5a3f[_0x472e8a(0xb4f)] && _0x3c5a3f['weaponIcon'] && (_0x3f5ada = _0x101352[_0x3c5a3f['weaponIcon']][0x0], this['myIcon']['setTexture']('_items', _0x3f5ada[_0x472e8a(0x2d1)])[_0x472e8a(0x360)](0.75, 0.5), this['myTips'][_0x472e8a(0x612)](_0x3c5a3f['achieved'] ? _0x212546['Lang'][_0x472e8a(0x383)]('genericPopup_obtainedCoin', [_0x3c5a3f[_0x472e8a(0xb4f)][_0x472e8a(0x660)]()]) : _0x212546[_0x472e8a(0x53d)][_0x472e8a(0x383)]('genericPopup_obtainsCoin', [_0x3c5a3f['goldPrize'][_0x472e8a(0x660)]()])), this[_0x472e8a(0x320)][_0x472e8a(0x5fb)](!0x1), this['myOverlay'][_0x472e8a(0x5fb)](!0x0), this[_0x472e8a(0x49f)]['setFrame']('MoneyBagGreen.png')[_0x472e8a(0x935)](0x2 * _0x29d26a['PixelScale'])), _0x3c5a3f['powerUpToUnlock']) {
+                            if (_0x3c5a3f[_0x472e8a(0xb4f)] && _0x3c5a3f['weaponIcon'] && (_0x3f5ada = _0x101352[_0x3c5a3f['weaponIcon']][0x0], this['myIcon']['setTexture']('items', _0x3f5ada[_0x472e8a(0x2d1)])[_0x472e8a(0x360)](0.75, 0.5), this['myTips'][_0x472e8a(0x612)](_0x3c5a3f['achieved'] ? _0x212546['Lang'][_0x472e8a(0x383)]('genericPopup_obtainedCoin', [_0x3c5a3f[_0x472e8a(0xb4f)][_0x472e8a(0x660)]()]) : _0x212546[_0x472e8a(0x53d)][_0x472e8a(0x383)]('genericPopup_obtainsCoin', [_0x3c5a3f['goldPrize'][_0x472e8a(0x660)]()])), this[_0x472e8a(0x320)][_0x472e8a(0x5fb)](!0x1), this['myOverlay'][_0x472e8a(0x5fb)](!0x0), this[_0x472e8a(0x49f)]['setFrame']('MoneyBagGreen.png')[_0x472e8a(0x935)](0x2 * _0x29d26a['PixelScale'])), _0x3c5a3f['powerUpToUnlock']) {
                                 let _0x2f84cb = _0x1db9ac[_0x3c5a3f[_0x472e8a(0x98e)]][0x0],
                                 _0x1715f1 = _0x2f84cb['frameName'] ? _0x2f84cb[_0x472e8a(0x2d1)] : 'QuestionMark.png';
-                                this[_0x472e8a(0x9c4)][_0x472e8a(0x471)]('_items', _0x1715f1)[_0x472e8a(0x360)](0.5),
+                                this[_0x472e8a(0x9c4)][_0x472e8a(0x471)]('items', _0x1715f1)[_0x472e8a(0x360)](0.5),
                                 this[_0x472e8a(0x217)][_0x472e8a(0x612)]((_0x2f84cb['achieved'] ? _0x212546[_0x472e8a(0x53d)][_0x472e8a(0x383)]('genericPopup_unlocked') : _0x212546[_0x472e8a(0x53d)]['getLang']('genericPopup_unlocks')) + _0x2f84cb[_0x472e8a(0x9d7)]),
                                 this[_0x472e8a(0x49f)][_0x472e8a(0x5fb)](!0x1),
                                 this['myIconBG']['setVisible'](!0x0)[_0x472e8a(0x6fa)](_0x2f84cb['specialBG'] ? 'frameE.png' : 'frameD.png');
                             }
                             if (_0x3c5a3f[_0x472e8a(0x424)]) {
                                 let _0xd05d8a = _0x5578e6[_0x3c5a3f['arcanaToUnlock']];
-                                this[_0x472e8a(0x9c4)]['setTexture']('_items', _0xd05d8a[_0x472e8a(0x2d1)])['setOrigin'](0.5),
+                                this[_0x472e8a(0x9c4)]['setTexture']('items', _0xd05d8a[_0x472e8a(0x2d1)])['setOrigin'](0.5),
                                 this[_0x472e8a(0x217)][_0x472e8a(0x612)]((_0x3c5a3f[_0x472e8a(0x579)] ? _0x212546[_0x472e8a(0x53d)]['getLang']('genericPopup_unlocked') : _0x212546[_0x472e8a(0x53d)][_0x472e8a(0x383)]('genericPopup_unlocks')) + _0xd05d8a[_0x472e8a(0x9d7)]),
                                 this['myOverlay'][_0x472e8a(0x5fb)](!0x1),
                                 this[_0x472e8a(0x320)]['setVisible'](!0x0)[_0x472e8a(0x6fa)]('frameG.png');
@@ -34274,17 +34274,17 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                         this['myIconBG'][_0x137328(0x5fb)](!0x0)[_0x137328(0x6fa)]('frameF.png'),
                                         this[_0x137328(0x49f)]['setVisible'](!0x1);
                                     }
-                                    if (_0x1b58c9[_0x137328(0xb4f)] && _0x1b58c9[_0x137328(0x1a4)] && (_0x3b46f6 = _0x101352[_0x1b58c9['weaponIcon']][0x0], this[_0x137328(0x84d)]['text'] = _0x212546[_0x137328(0x53d)]['getLang']('genericPopup_achievement'), this[_0x137328(0x9c4)][_0x137328(0x471)]('_items', _0x3b46f6[_0x137328(0x2d1)])['setOrigin'](0.75, 0.5), this[_0x137328(0x217)]['setText'](_0x1b58c9[_0x137328(0x579)] ? _0x212546['Lang']['getLang']('genericPopup_obtainedCoin', [_0x1b58c9['goldPrize'][_0x137328(0x660)]()]) : _0x212546['Lang'][_0x137328(0x383)]('genericPopup_obtainsCoin', [_0x1b58c9['goldPrize']['toFixed']()])), this[_0x137328(0x320)]['setVisible'](!0x1), this['myOverlay'][_0x137328(0x5fb)](!0x0), this[_0x137328(0x49f)][_0x137328(0x6fa)]('MoneyBagGreen.png')[_0x137328(0x935)](0x2 * _0x29d26a[_0x137328(0x482)])), _0x1b58c9[_0x137328(0x98e)]) {
+                                    if (_0x1b58c9[_0x137328(0xb4f)] && _0x1b58c9[_0x137328(0x1a4)] && (_0x3b46f6 = _0x101352[_0x1b58c9['weaponIcon']][0x0], this[_0x137328(0x84d)]['text'] = _0x212546[_0x137328(0x53d)]['getLang']('genericPopup_achievement'), this[_0x137328(0x9c4)][_0x137328(0x471)]('items', _0x3b46f6[_0x137328(0x2d1)])['setOrigin'](0.75, 0.5), this[_0x137328(0x217)]['setText'](_0x1b58c9[_0x137328(0x579)] ? _0x212546['Lang']['getLang']('genericPopup_obtainedCoin', [_0x1b58c9['goldPrize'][_0x137328(0x660)]()]) : _0x212546['Lang'][_0x137328(0x383)]('genericPopup_obtainsCoin', [_0x1b58c9['goldPrize']['toFixed']()])), this[_0x137328(0x320)]['setVisible'](!0x1), this['myOverlay'][_0x137328(0x5fb)](!0x0), this[_0x137328(0x49f)][_0x137328(0x6fa)]('MoneyBagGreen.png')[_0x137328(0x935)](0x2 * _0x29d26a[_0x137328(0x482)])), _0x1b58c9[_0x137328(0x98e)]) {
                                         let _0x265830 = _0x1db9ac[_0x1b58c9[_0x137328(0x98e)]][0x0],
                                         _0x15aaa1 = _0x265830[_0x137328(0x2d1)] ? _0x265830[_0x137328(0x2d1)] : 'QuestionMark.png';
-                                        this[_0x137328(0x9c4)][_0x137328(0x471)]('_items', _0x15aaa1)[_0x137328(0x360)](0.5),
+                                        this[_0x137328(0x9c4)][_0x137328(0x471)]('items', _0x15aaa1)[_0x137328(0x360)](0.5),
                                         this[_0x137328(0x217)][_0x137328(0x612)]((_0x265830[_0x137328(0x579)] ? _0x212546[_0x137328(0x53d)][_0x137328(0x383)]('genericPopup_unlocked') : _0x212546['Lang'][_0x137328(0x383)]('genericPopup_unlocks')) + _0x265830[_0x137328(0x9d7)]),
                                         this[_0x137328(0x49f)][_0x137328(0x5fb)](!0x1),
                                         this[_0x137328(0x320)][_0x137328(0x5fb)](!0x0)['setFrame'](_0x265830['specialBG'] ? 'frameE.png' : 'frameD.png');
                                     }
                                     if (_0x1b58c9[_0x137328(0x424)]) {
                                         let _0x4a9def = _0x5578e6[_0x1b58c9['arcanaToUnlock']];
-                                        this[_0x137328(0x9c4)]['setTexture']('_items', _0x4a9def[_0x137328(0x2d1)])[_0x137328(0x360)](0.5),
+                                        this[_0x137328(0x9c4)]['setTexture']('items', _0x4a9def[_0x137328(0x2d1)])[_0x137328(0x360)](0.5),
                                         this[_0x137328(0x217)]['setText']((_0x1b58c9[_0x137328(0x579)] ? _0x212546['Lang']['getLang']('genericPopup_unlocked') : _0x212546[_0x137328(0x53d)][_0x137328(0x383)]('genericPopup_unlocks')) + _0x4a9def[_0x137328(0x9d7)]),
                                         this['myOverlay']['setVisible'](!0x1),
                                         this['myIconBG'][_0x137328(0x5fb)](!0x0)['setFrame']('frameG.png');
@@ -34449,14 +34449,14 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 _0x44020d[_0x2f9bd(0xaa9)]('coinRT' + _0x3be759),
                                 this['_coinRT'][_0x2f9bd(0x35c)](_0x44020d);
                             }
-                            var _0xa67ff9 = this['anims']['generateFrameNames']('_items', {
+                            var _0xa67ff9 = this['anims']['generateFrameNames']('items', {
                                 'start': 0x1,
                                 'end': 0x4,
                                 'zeroPad': 0x2,
                                 'prefix': 'coin-spin-gold_',
                                 'suffix': '.png'
                             }),
-                            _0x13604e = this['anims'][_0x2f9bd(0x274)]('_items', {
+                            _0x13604e = this['anims'][_0x2f9bd(0x274)]('items', {
                                 'start': 0x1,
                                 'end': 0x4,
                                 'zeroPad': 0x2,
@@ -34464,7 +34464,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'suffix': '.png'
                             });
                             for (let _0x232ad6 = 0x0; _0x232ad6 < 0x4; _0x232ad6++) {
-                                var _0x313afd = this[_0x2f9bd(0x5e2)][_0x2f9bd(0xb32)](-0x186a0, -0x186a0, '_items', '')[_0x2f9bd(0x360)](0x0);
+                                var _0x313afd = this[_0x2f9bd(0x5e2)][_0x2f9bd(0xb32)](-0x186a0, -0x186a0, 'items', '')[_0x2f9bd(0x360)](0x0);
                                 _0x313afd['anims'][_0x2f9bd(0xad9)]({
                                     'key': 'spin',
                                     'frames': _0x232ad6 < 0x2 ? _0xa67ff9 : _0x13604e,
@@ -34578,7 +34578,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 'volume': 0.7
                             }),
                             this['escKey'] = this['input'][_0x2f9bd(0x961)]['addKey'](Phaser['Input'][_0x2f9bd(0xa4d)][_0x2f9bd(0x9a4)]['ESC']),
-                            this['CoinIcon'] = this[_0x2f9bd(0x5e2)][_0x2f9bd(0x400)](0x0, 0x0, '_items', 'coin-spin-gold_01.png')[_0x2f9bd(0x935)](0x0)[_0x2f9bd(0x5fb)](!0x1);
+                            this['CoinIcon'] = this[_0x2f9bd(0x5e2)][_0x2f9bd(0x400)](0x0, 0x0, 'items', 'coin-spin-gold_01.png')[_0x2f9bd(0x935)](0x0)[_0x2f9bd(0x5fb)](!0x1);
                         }
                         ['SkipAnimation'](_0x54317a) {
                             const _0x4bea04 = _object;
@@ -35923,7 +35923,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                     _0x4c48f3 = _0x32ab55[_0x174209],
                                     _0x361d83 = _0x33e57a * (_0x174209 % _0x3060c2) + _0x174209 % _0x3060c2 * 0x14,
                                     _0x101357 = _0x2374be + 0x2 * _0x33e57a * Math[_0x31123f(0x60e)](_0x174209 / _0x3060c2) + _0x7bbdf7 * _0x2374be * Math[_0x31123f(0x60e)](_0x174209 / _0x3060c2),
-                                    _0x271842 = this[_0x31123f(0x5e2)]['image'](_0x361d83, _0x101357, '_items', _0x4c48f3[_0x31123f(0x2d1)])[_0x31123f(0x935)](_0x7bbdf7)['setOrigin'](0.5, 0x0),
+                                    _0x271842 = this[_0x31123f(0x5e2)]['image'](_0x361d83, _0x101357, 'items', _0x4c48f3[_0x31123f(0x2d1)])[_0x31123f(0x935)](_0x7bbdf7)['setOrigin'](0.5, 0x0),
                                     this[_0x31123f(0x7aa)][_0x31123f(0x5e2)](_0x271842),
                                     _0x296084 = this[_0x31123f(0x5e2)][_0x31123f(0x4a0)](_0x361d83, _0x101357 + _0x33e57a, _0x4c48f3[_0x31123f(0x8c7)], {})['setScale'](_0x29d26a[_0x31123f(0x482)])[_0x31123f(0x360)](0.5, 0x0)[_0x31123f(0x925)](0x0);
                                     let _0xd1473a = 0x5dc / _0x32ab55[_0x31123f(0x56a)];
@@ -35969,7 +35969,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 _0x1bc68c = 0xa;
                                 for (let _0x420a16 = 0x0; _0x420a16 < _0xb6552f[_0x31123f(0x56a)]; _0x420a16++) {
                                     var _0x4d8054 = _0x5578e6[_0xb6552f[_0x420a16]],
-                                    _0x32dd0a = (_0x361d83 = _0x33e57a * (_0x420a16 % _0x1bc68c) + _0x420a16 % _0x1bc68c * 0x14, _0x101357 = _0x2374be + 0x2 * _0x33e57a * Math[_0x31123f(0x60e)](_0x420a16 / _0x1bc68c) + _0x7bbdf7 * _0x2374be * Math[_0x31123f(0x60e)](_0x420a16 / _0x1bc68c), _0x271842 = this['add'][_0x31123f(0x400)](_0x361d83, _0x101357, 'UI', 'frameG.png')['setScale'](_0x7bbdf7)['setOrigin'](0.5), this['add']['image'](_0x361d83, _0x101357, '_items', _0x4d8054['frameName'])[_0x31123f(0x935)](_0x7bbdf7)[_0x31123f(0x360)](0.5));
+                                    _0x32dd0a = (_0x361d83 = _0x33e57a * (_0x420a16 % _0x1bc68c) + _0x420a16 % _0x1bc68c * 0x14, _0x101357 = _0x2374be + 0x2 * _0x33e57a * Math[_0x31123f(0x60e)](_0x420a16 / _0x1bc68c) + _0x7bbdf7 * _0x2374be * Math[_0x31123f(0x60e)](_0x420a16 / _0x1bc68c), _0x271842 = this['add'][_0x31123f(0x400)](_0x361d83, _0x101357, 'UI', 'frameG.png')['setScale'](_0x7bbdf7)['setOrigin'](0.5), this['add']['image'](_0x361d83, _0x101357, 'items', _0x4d8054['frameName'])[_0x31123f(0x935)](_0x7bbdf7)[_0x31123f(0x360)](0.5));
                                     this[_0x31123f(0x1cf)][_0x31123f(0x5e2)](_0x271842),
                                     this['arcanas_container']['add'](_0x32dd0a);
                                     let _0x5c106a = 0x5dc / _0xb6552f[_0x31123f(0x56a)];
@@ -36263,7 +36263,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             this[_0x4f580f(0x2e2)] = new Phaser[(_0x4f580f(0x13b))]['Image'](this['scene'], 0x20, 0x20, 'UI', 'menu_checkbox_24_checkmark.png')['setOrigin'](0.5)[_0x4f580f(0x935)](_0x29d26a['PixelScale']),
                             this[_0x4f580f(0x8c6)] = new Phaser['GameObjects']['Text'](this['scene'], 0x36, 0x20, _0x212546['Lang'][_0x4f580f(0x383)]('collectionAchievementPanel_description'), {})[_0x4f580f(0x360)](0x0, 0.5)['setWordWrapWidth'](0x168)[_0x4f580f(0x935)](_0x29d26a['PixelScale']),
                             this[_0x4f580f(0x320)] = new Phaser[(_0x4f580f(0x13b))][(_0x4f580f(0x2a3))](this[_0x4f580f(0x1ff)], 0x1b0, 0x20, 'UI', 'frameB.png')['setOrigin'](0.5),
-                            this['myIcon'] = new Phaser['GameObjects'][(_0x4f580f(0x2a3))](this['scene'], 0x1b0, 0x20, '_items', '')[_0x4f580f(0x360)](0.5)['setScale'](0x2 * _0x29d26a['PixelScale']),
+                            this['myIcon'] = new Phaser['GameObjects'][(_0x4f580f(0x2a3))](this['scene'], 0x1b0, 0x20, 'items', '')[_0x4f580f(0x360)](0.5)['setScale'](0x2 * _0x29d26a['PixelScale']),
                             this['myInteractable'] = new Phaser[(_0x4f580f(0x13b))][(_0x4f580f(0x2a3))](this[_0x4f580f(0x1ff)], 0xa, 0x10, 'UI', 'blackDot.png')['setOrigin'](0x0)[_0x4f580f(0x935)](0x1a4, 0x20)[_0x4f580f(0x925)](0.001),
                             this[_0x4f580f(0x49f)] = new Phaser[(_0x4f580f(0x13b))][(_0x4f580f(0x2a3))](this['scene'], 0x1b0, 0x20, 'UI', 'frameB.png')[_0x4f580f(0x360)](0.5)[_0x4f580f(0x5fb)](!0x1),
                             this['AssignData'](this['power']),
@@ -36306,15 +36306,15 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 this['myIconBG']['setVisible'](!0x1)[_0x29af12(0x360)](0.5),
                                 this[_0x29af12(0x49f)]['setVisible'](!0x1);
                             }
-                            if (_0x31915d[_0x29af12(0xb4f)] && _0x31915d['weaponIcon'] && (_0x2c3083 = _0x101352[_0x31915d['weaponIcon']][0x0], this['myIcon']['setTexture']('_items', _0x2c3083['frameName'])[_0x29af12(0x360)](0.75, 0.5), this[_0x29af12(0x320)]['setVisible'](!0x1), this['myOverlay']['setVisible'](!0x0), this['myOverlay'][_0x29af12(0x6fa)]('MoneyBagGreen.png')['setScale'](0x2 * _0x29d26a['PixelScale'])), _0x31915d['powerUpToUnlock']) {
+                            if (_0x31915d[_0x29af12(0xb4f)] && _0x31915d['weaponIcon'] && (_0x2c3083 = _0x101352[_0x31915d['weaponIcon']][0x0], this['myIcon']['setTexture']('items', _0x2c3083['frameName'])[_0x29af12(0x360)](0.75, 0.5), this[_0x29af12(0x320)]['setVisible'](!0x1), this['myOverlay']['setVisible'](!0x0), this['myOverlay'][_0x29af12(0x6fa)]('MoneyBagGreen.png')['setScale'](0x2 * _0x29d26a['PixelScale'])), _0x31915d['powerUpToUnlock']) {
                                 var _0x147b77 = _0x1db9ac[_0x31915d[_0x29af12(0x98e)]][0x0];
-                                this[_0x29af12(0x9c4)]['setTexture']('_items', _0x147b77[_0x29af12(0x2d1)])['setOrigin'](0.5, 0.5),
+                                this[_0x29af12(0x9c4)]['setTexture']('items', _0x147b77[_0x29af12(0x2d1)])['setOrigin'](0.5, 0.5),
                                 this[_0x29af12(0x320)][_0x29af12(0x5fb)](!0x1),
                                 this['myOverlay'][_0x29af12(0x5fb)](!0x1);
                             }
                             if (_0x31915d[_0x29af12(0x424)]) {
                                 var _0x1ec6eb = _0x5578e6[_0x31915d[_0x29af12(0x424)]];
-                                this[_0x29af12(0x9c4)][_0x29af12(0x471)]('_items', _0x1ec6eb['frameName'])['setOrigin'](0.5, 0.5),
+                                this[_0x29af12(0x9c4)][_0x29af12(0x471)]('items', _0x1ec6eb['frameName'])['setOrigin'](0.5, 0.5),
                                 this['myIconBG']['setVisible'](!0x0)['setOrigin'](0.5)[_0x29af12(0x6fa)]('frameG.png')['setScale'](0x2),
                                 this['myOverlay']['setVisible'](!0x1);
                             }
@@ -36588,8 +36588,8 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             this['Mazzo_Toggle'] = new Phaser['GameObjects']['Image'](this[_0x4a76e7(0x1ff)], 0xb0, 0x40, 'UI', 'yes16.png')['setScale'](_0x29d26a[_0x4a76e7(0x482)])[_0x4a76e7(0x360)](0x0, 0.5)['setScale'](0x2),
                             this[_0x4a76e7(0x7f4)](this['stageType']),
                             this['add']([this['Background'], this[_0x4a76e7(0x84d)], this['myWarn'], this[_0x4a76e7(0x8c6)], this['myButton1'], this['myButton1Text'], this[_0x4a76e7(0x42a)], this[_0x4a76e7(0x113)], this[_0x4a76e7(0x912)], this[_0x4a76e7(0xac6)], this['Hurry_Box'], this[_0x4a76e7(0x3f0)], this[_0x4a76e7(0x1c8)], this[_0x4a76e7(0x692)], this[_0x4a76e7(0xa3f)]]),
-                            this['hasWitchTear'] = _0x212546['Core']['PlayerOptions']['Collected_items'][_0x4a76e7(0x769)](_0x593622[_0x4a76e7(0x831)]) > -0x1,
-                            this['hasRandomazzo'] = _0x212546[_0x4a76e7(0x229)]['PlayerOptions']['Collected_items'][_0x4a76e7(0x769)](_0x593622[_0x4a76e7(0xa0b)]) > -0x1;
+                            this['hasWitchTear'] = _0x212546['Core']['PlayerOptions']['Collecteditems'][_0x4a76e7(0x769)](_0x593622[_0x4a76e7(0x831)]) > -0x1,
+                            this['hasRandomazzo'] = _0x212546[_0x4a76e7(0x229)]['PlayerOptions']['Collecteditems'][_0x4a76e7(0x769)](_0x593622[_0x4a76e7(0xa0b)]) > -0x1;
                         }
                         [_object(0x7f4)](_0xdca0fe) {
                             const _0xb1698a = _object;
@@ -36751,7 +36751,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 const _0x59b992 = this['myListOfStats'][_0x1dd482];
                                 if ('newLine' === _0x59b992[_0x47b65b(0x136)])
                                     continue;
-                                let _0x1ba624 = new Phaser['GameObjects'][(_0x47b65b(0x2a3))](this[_0x47b65b(0x1ff)], 0x6, 0x10 + 0x10 * _0x1dd482, '_items', _0x59b992['icon'])['setOrigin'](0x0, 0.5)[_0x47b65b(0x935)](_0x29d26a[_0x47b65b(0x482)]),
+                                let _0x1ba624 = new Phaser['GameObjects'][(_0x47b65b(0x2a3))](this[_0x47b65b(0x1ff)], 0x6, 0x10 + 0x10 * _0x1dd482, 'items', _0x59b992['icon'])['setOrigin'](0x0, 0.5)[_0x47b65b(0x935)](_0x29d26a[_0x47b65b(0x482)]),
                                 _0x55a61e = new Phaser['GameObjects']['Text'](this[_0x47b65b(0x1ff)], 0x18, 0x10 + 0x10 * _0x1dd482, '', {})['setOrigin'](0x0, 0.5)[_0x47b65b(0x935)](_0x29d26a[_0x47b65b(0x482)])[_0x47b65b(0x610)](_0x548a7a - 0x1c),
                                 _0x4b65b4 = new Phaser[(_0x47b65b(0x13b))][(_0x47b65b(0x173))](this['scene'], 0xbe, 0x10 + 0x10 * _0x1dd482, '', {})['setOrigin'](0x1, 0.5)['setScale'](_0x29d26a[_0x47b65b(0x482)]);
                                 this['add'](_0x1ba624),
@@ -38769,7 +38769,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             }
                             if (this[_0x478963(0x84d)][_0x478963(0x4a0)] = _0x3ccb7f['unlocked'] && !_0x3ccb7f['hidden'] ? _0x3ccb7f['name'] : '???', this[_0x478963(0x8c6)][_0x478963(0x4a0)] = _0x3ccb7f['unlocked'] && !_0x3ccb7f['hidden'] ? _0x3ccb7f['description'] : '???', this[_0x478963(0x663)] = [], !_0x3ccb7f[_0x478963(0x636)])
                                 return;
-                            let _0x309a4f = 0x18 + this[_0x478963(0x2bf)] - 0x30 * (_0x3ccb7f[_0x478963(0x67e)][_0x478963(0x56a)] + _0x3ccb7f['_items'][_0x478963(0x56a)]) * 0.5,
+                            let _0x309a4f = 0x18 + this[_0x478963(0x2bf)] - 0x30 * (_0x3ccb7f[_0x478963(0x67e)][_0x478963(0x56a)] + _0x3ccb7f['items'][_0x478963(0x56a)]) * 0.5,
                             _0x359d2f = 0x0;
                             for (_0x359d2f = 0x0; _0x359d2f < _0x3ccb7f[_0x478963(0x67e)][_0x478963(0x56a)]; _0x359d2f++) {
                                 const _0x33fe07 = _0x3ccb7f[_0x478963(0x67e)][_0x359d2f];
@@ -38778,7 +38778,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                                 this['mySprites']['push'](_0x3bf433);
                             }
                             for (let _0x2e0939 = 0x0; _0x2e0939 < _0x3ccb7f[_0x478963(0xa03)][_0x478963(0x56a)]; _0x2e0939++) {
-                                const _0x112a29 = _0x3ccb7f['_items'][_0x2e0939];
+                                const _0x112a29 = _0x3ccb7f['items'][_0x2e0939];
                                 let _0x407c7e = _0xd1bb64[_0x112a29],
                                 _0x286198 = new Phaser['GameObjects'][(_0x478963(0x7be))](this[_0x478963(0x1ff)], _0x309a4f + 0x30 * (_0x359d2f + _0x2e0939), 0x78, _0x407c7e[_0x478963(0x7ab)], _0x407c7e[_0x478963(0x2d1)])[_0x478963(0x935)](0x2);
                                 this[_0x478963(0x663)][_0x478963(0x35c)](_0x286198);
@@ -39070,7 +39070,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
                             const _0x29f05f = _object;
                             this[_0x29f05f(0x947)] = new Phaser['GameObjects'][(_0x29f05f(0x173))](this, 0.5 * this[_0x29f05f(0x632)][_0x29f05f(0x6c6)], 0xa0, 'RANDOMAZZO', {})['setScale'](0x2 * _0x29d26a['PixelScale'])[_0x29f05f(0x360)](0.5)[_0x29f05f(0x8dd)](0xa),
                             this[_0x29f05f(0x5a1)] = new Phaser[(_0x29f05f(0x13b))]['Text'](this, 0.5 * this[_0x29f05f(0x632)][_0x29f05f(0x6c6)], 0xa0, '20/22', {})[_0x29f05f(0x935)](0x2 * _0x29d26a[_0x29f05f(0x482)])['setOrigin'](0x1, 0.5)['setDepth'](0xa),
-                            this['randoIcon'] = new Phaser['GameObjects'][(_0x29f05f(0x2a3))](this, 0.5 * this[_0x29f05f(0x632)][_0x29f05f(0x6c6)], 0xa0, '_items', 'Tarots.png')[_0x29f05f(0x935)](0x2 * _0x29d26a['PixelScale'])['setOrigin'](0x0, 0.5)['setDepth'](0xa),
+                            this['randoIcon'] = new Phaser['GameObjects'][(_0x29f05f(0x2a3))](this, 0.5 * this[_0x29f05f(0x632)][_0x29f05f(0x6c6)], 0xa0, 'items', 'Tarots.png')[_0x29f05f(0x935)](0x2 * _0x29d26a['PixelScale'])['setOrigin'](0x0, 0.5)['setDepth'](0xa),
                             this[_0x29f05f(0x5e2)]['existing'](this[_0x29f05f(0x947)]),
                             this['add'][_0x29f05f(0x2b1)](this[_0x29f05f(0x5a1)]),
                             this[_0x29f05f(0x5e2)][_0x29f05f(0x2b1)](this[_0x29f05f(0x264)]),
@@ -39794,7 +39794,7 @@ function a0_0x3e1f(_0x441ee6, _0x12a510) {
             _0x29db68 = _0x1c2609['O'](_0x29db68);
         })()));
 function a0_0x12be() {
-    const _0x41c640 = ['QSSecondEvent', 'frontSpriteName', '_SIZE', 'createEmitter', 'ResumeText', 'die', 'OROLOGION', 'DismissScene', 'MainMap', 'shadow', 'major', 'XLARMOR1', 'CROCI', 'FINO', 'curve', 'ThingFound', 'getObjectLayer', 'body', 'reels', 'UnlockedHypers', 'MaxY', 'enterTween', 'createLayer', 'CheckColor', 'sKey', 'start', 'BOSS_WITCH2', 'debug_FireAll', 'BackFrom_Resolution', 'chances', 'TriggerSarabande', 'saveJsonBackup', 'TIMEFREEZE', 'ExplodeTimer', 'MakeBackground', 'AddWeapon', 'EnableButtonsInput', 'IsInvul', 'AssignAchievement', 'reset', 'faceTop', 'GATTI_SCUFFLE', 'hasRandomazzo', 'NFT', '_basePlayerPxSpeed', 'OnLevelUpBanish', 'HOME', 'hitVFXPool', 'hasTileset', 'bringToTop', 'FadeOutTween', 'ToggleButtonsAvailability', 'nesting', 'RandomButton', 'isPaused', 'active', 'BGM_Intro', 'ParticlesManager', 'MANNAGGIA', 'REDUCEPHYSICS_toggle', 'SCYTHE', 'Guns1', 'rectOuter', 'BOSS_XLSKELETON', 'OnRerollLevelUp', 'Version', 'star1', 'setDepthPlease', 'ENTER', 'T03_TRAGIC', 'Survive1Minute', 'eyes', 'GameOver', 'atan2', 'sprite', 'exploRadius', 'concat', 'moveAngle', 'passed', 'scale', 'Pizza', 'T08_MAD_FOREST', 'backgroundColor', 'MINO_RUSH', 'SKIP', 'TopLeft', 'graphics', 'MazzoPanel', 'stopp', 'hasArcana', 'PATROL_MIGNO_3_5SWARM', 'hpBar', 'AchiText', 'chooseTimer', 'setAmbientColor', 'OnDead', 'fadeOutDelay', 'PanelBackgroundAdd', 'vs_ex_is_electron_win_build', 'lives', 'IntroScene', 'Ellipse', 'bind', 'goldPrize', 'ExitText', 'Shuffle', 'SKULOROSSO', 'upperLimit', 'SKULL2_SCALING', 'myWarn', 'OpenChest', 'disableInteractive', 'fadeInTween', 'PowerUpMarkup', 'SetTreasureLevelFromChance', 'Recover1000HP', 'HasWalkingAnimation', 'damageZoneDistance', 'currentDirection', 'STANDARD', 'AimForRandomEnemyInScreen', 'BOSS_XLDRAGON1', 'key', 'MakeAndActivatePickup', 'LoadBLuck', 'BAT1', 'bounceActivated', 'min', '_blinkTimeout', 'Enemies', 'updateController', 'panels', 'knockback', 'followers', 'isRotating', 'Linear', 'XLMAGIO', 'hitGroundTween', 'OptionsScene', 'SILF3', 'cursorsVector', 'PlayGhostSwarm', 'BOSS_XLDEATH', 'faceBottom', 'ROCHER', 'GoToPlayer', 'fadeOutTween', 'AddStrips', 'lights', 'SKULL_SWARM', 'HighlightedType', 'resolve', 'fadeTrailTween', 'chargeTween', '714WUzKUv', 'myCounter', 'greed', 'myListOfStats', 'Survive30MinutesWithAxe', 'stageToUnlock', 'AddHiddenWeapon', 'CoinsAward', 'evoSynergy', 'GetColor', 'weaponType', 'onSecondsryBulletOverlapsEnemy', 'isStationary', 'SkipButton', 'setCircle', 'UnlockedStages', 'Dismiss', 'ReachLV99WithGiovanna', 'spinTimes', 'VERANDA', 'tween1', 'sliderBounds', 'firstEvent', 'LAMPOST', 'BOSS_XLCRAB', 'SelfDestDistance', 'snapshotArea', 'stats_container', 'GetLevelUpOptions', 'BAT2', 'hpBarWidth', 'followerConfig', 'ExcludedWeapons', 'EnableButtons', 'pianificami', 'scrollHeight', 'drowner', 'properties', 'REROLL', 'Survive15MinutesWithGatti', 'SARABANDE', 'GroundFx', 'tint', 'FindRandomazzo', '\x20h:', 'MakeBlitters', 'XLARMOR_SWORD', 'TriggerEvent', 'Physics', 'SetCollideWithWorld', 'stats_isBestDPS', 'EXISTING_WEAPON', 'DPS', 'canCrit', 'ghost1', 'T02_TWILIGHT', 'PlayMusic', 'JELLYFISH2', 'tilemapTiledJSON', 'Achievements', 'exports', 'NewAchievements', 'SelectedHurry', 'screenFade', 'sMist2', 'EvolveKingBible', 'targetRadii', 'slowTime', 'setMask', 'getPoints', 'MOLISANO_GIALLO', 'BULLET_2', 'ScaleModes', 'DismissDrowner', 'XLFLOWER', 'BAT4', 'ShowPickupsText', 'XLMANTIS', 'scratchPool', 'debug_ArcanaTreasure', 'PBounces', '_invul', 'onDown', 'AchievementButton', 'disableContextMenu', 'trueWidth', 'explosionStarPool', 'getPoint', 'currentPosition', 'awardGivenXTimes', 'RestoreBackupButton', 'BOSS_XLMANTIS', 'AMOUNT', 'AddRays', 'scaleFactorY', 'offsets', 'frames', 'map', 'GUNS2', 'allSprites', 'immovable', 'readFileSync', 'aimVec', 'Hyper_Box', 'isFlipping', 'LuckBonus', 'saveBGM', 'CheckAllAndDespawnIfOutside', 'Start', 'spin', 'SaveBLuck', 'PfxEmitter', 'GHOST2', 'Mazzo_BoxCallback', 'arcRadius', 'BGM_new_detune', 'EvolveFireWand', 'LifetimeCoins', 'KillCount', 'OnBulletOverlapsPickup', 'centerY', 'containmentRect_Enemies', 'setFlipX', 'getTileAtWorldXY', 'MORTACCIO', 'TATANKA', 'soundLibrary', 'RunPickups', 'DoPraise', 'FindSorceressTears', 'lastFacedDirection', 'updateTimers', 'Ghosts', 'EvolveMagicWand', 'time', 'RANDOMS', 'PfxEmitterManager', 'data', 'type', 'STREAMERSAFE_box', 'SKULLPILEPILE', 'RegrowLeft', 'tweens', 'GameObjects', 'spawnRelicAt', 'OnReroll', 'MakeWinIcons', 'GRAZIELLA', 'THORNS', 'blackFade', 'OnBulletOverlapsEnemyNoKB', 'sin', 'removeEventListener', 'StartText', 'gridBottom', 'UI_topBar', 'CANDELABRA', 'WrapInRectangle', 'ChangeRestoreButtonToConfirm', 'addWeapon', 'MIGNO1_5', 'Freeze', 'normalize', 'tileset', 'speedPerMinute', 'fancyBG', 'DisabledMiniButton', 'StartFromPostGame', 'COOLDOWN', 'SetSeen_item', 'SPACE', 'LORDO', 'GREED', 'GetRandomExistingWeapon', 'Recycle', 'Make', 'availableCards', 'OpenOptions', 'ShowHitVFXAt', 'EnableBack', 'Res1', 'group', 'backgroundOverlay', 'OnConfirmBanish', 'PAN', 'T13_WICKED', 'mouse', 'blinkTimer', 'instance', 'charName', 'Max', 'originY', 'KillsText', 'tween4', 'renderTexture', 'minute', 'BOSS_COUNT1', 'GetValidUnlockedStages', 'tilePositionX', 'Text', 'evoIconsOffset', 'stageNumber', 'SILVER', 'BlendModes', 'isBought', 'BOSS_XLSTALKER', 'SKULLINO', 'PANTHER', 'setY', 'DamageNumbersEnabled', 'RED', 'HideReviveButton', 'lastAngleIndex', 'trail_x', 'levelName', 'MakeCoffin', 'footer', 'SpawnBoss', 'STATS_TREASURE_1', 'survivedTime', 'noHurt', 'PILE4', 'whiteTween', 'Array', 'closePath', 'JustBounce', 'Return', 'currentBGMType', 'focus', 'T12_OUT_OF_TIME', 'draw', 'loop', 'GetFireWandToLevel4', 'copyFile', 'exploIndex', 'AimForRandomEnemy', 'JELLYFISH', 'elapsed', 'posY', 'star2', 'setOffset', '__0x37323', 'well', 'sBackground', 'timesFired', 'reelConfig', 'flipper', 'sqrt', 'weaponIcon', 'ghost2', 'background', 'bot', 'overlapRect', 'canToggleFullscreen', 'overlapCirc', 'EnableQS', 'Revive', 'Survive30MinutesInBoneZone', 'NDUJA', 'BOSS_MIGNO2_5_L', 'chanceForExistingPowerUp', '2594046VPhrbM', 'TUPU', 'progressBar', 'GetRandom', 'See50_items', 'ResetFiringTimer', 'PIRIPIRI', 'OnPlayerOverlap', 'baseMarkup', 'HOLYBOOK', 'XLGOLEM1', 'createGeometryMask', 'SKULL2_EASY', 'FIREEXPLOSION', 'FLOWER', 'SHADE_BOMB_RED', 'pauseButton', 'calculateWeights', 'isSelfDestructionTriggered', 'PILE1', 'ResumeFromCharScene', 'REGEN', 'message', 'myMazzo', 'HideHeader', '_get', 'BOSS_XLBAT', 'WeaponStore', 'DEFAULT_SPEED', '\x20\x0a\x0a\x09\x09\x09\x09EventEn:\x20', 'arcanas_container', 'Curves', 'onCatOverlapsEnemy', 'ReducePhysics', 'setCollisionByProperty', 'addListener', 'StatsPanel', 'lifetime', 'icons_container', 'DraftArcanas', 'StarSprite', 'particlesInterval', 'BGTextureName', 'ActivateSineSpeedBonus', 'colliderOverride', 'findWeaponLevel', 'BOSS_XLARMOR', 'TriggerSwitchEvent', 'setGameSize', 'BGM_Tower', 'sStars1', 'rect', 'renameSync', 'Graphics', 'defaultSpeed', 'IdleTimer', 'WITCH1', '_dispose', 'OnEnterTween', 'Explosion', 'StartFromStageSelection', 'GetNewAchievementsEarnedOnThisRun', 'updateCursors', 'ExplodeOnPlayer', 'Language', 'Hyper_BoxCallback', 'BeginnersLuck', 'Unlockedcharacters', 'tween3', 'SKELEGLOW', 'maxDestructibles', 'StartEnableInputEvent', 'XLDRAGON3_FLAG', 'DrawSymbol', 'AddBobs', 'VACUUM', 'SHIELD', 'glow', 'scene', 'grid', 'DestroyGrid', 'CHERRY', 'CalculateXPfactor', 'alpha', 'canBounce', 'xIncrease', 'maxHistory', 'getAt', 'CoinsTickerDisplay', 'BGM_RedBlue', 'bonusCoinsText', 'prizeType', 'SONG', 'AchiAdGroup', 'Defeat3000Skeletons', 'BOSS_XLPINCER', 'layers', 'IS_TOUCH', 'BAT3', 'CheckArcanas', 'MAREMMA', 'StreamSafeEnabled', 'myTips', 'OnDestroy', 'seen', 'UpperMask', '_baseProjectileSpeed', 'PfxEmitter1', 'myDescription', 'SKULLNOAURA', 'removeAllListeners', 'Res4', 'ActivateSpeedSineBonus', 'PATROL_WITCH', 'posHistory', 'setQuantity', 'pickupPool', 'progressBox', 'ShowOKButton', 'HOLYWATER', 'Core', 'POLTER_DEST', '1170365RfPsuQ', 'FindCoffinStage1', 'cos', 'candleLights', 'Set_itemType', 'SummonDrowner', 'MEDUSA_WALL', 'pause', 'DamageAllEnemies', 'pixelHeight', 'StopReels', 'velocity', 'XLCOCKATRICE', 'depth', 'DespawnIfOutside', 'T06_SARABANDE', 'FreezeTimer', 'Arcade', 'EnemyHealth', 'TESTONE', 'UI_overlayScene', 'Survive15MinutesWithGuns', 'BanishedWeapons', 'PInterval', 'setTo', 'Guns3', 'containmentRect_Exact', 'Pfx_Coin', 'Lightning', 'Play', 'ReachLV99WithArca', 'ReachLV99WithGennaro', 'rayAngle', 'explosionPool', 'SHADEBLUE', 'AREA', 'ARMOR', 'result', 'OnSceneOver', 'Vacuum', 'NORMAL', 'MOVESPEED', 'GetPeachoneToLevel7', 'rays', 'stats_isBestRaw', 'TimeStopConfig', 'isTeleportOnCull', 'Shatter', 'configs', 'surname', 'openButton', 'LevelUpScene', 'MakeTexture_Any', 'PincersPool', 'FindARosary', 'power', 'hidden', 'randoIcon', 'stats_DPS', 'canExplode', 'rewardTitle', 'STIGRANGATTI', 'thumb', 'ShowAchievements', 'MIGNO_3_5SWARM', 'char', 'ResumeFrom_itemFound', 'setCollideWorldBounds', 'hpPerMinute', 'outline', 'MovementTween', 'minAngleRotDeg', '2568356BpCuow', 'generateFrameNames', 'Math', 'fwEmitter', 'glowTween', 'DEVIL1', 'sMist3', 'full', 'charCFF', 'light', 'FindRandomazzoT06', 'ExploGH', 'AchiAd_Text', 'TrueSpeed', 'Pick_itemLevelUps', 'set', 'FadeOutTimer', 'QuitFromPauseMenu', 'getBounds', 'duration', 'UI_charFoundScene', 'MagicMissile', '_0x2fe497', 'multiatlas', 'currentXPfactor', 'LANCET', 'MERMA2_4', 'evolvesFrom', 'GetMagicMissileToLevel7', 'LittleHit', 'UI_highlightR', 'sineSpeed', 'RedBackground', 'runSpeed', 'SaveUnlocks', 'DebugText', 'res_Rosary', 'bgtile', 'scaleAfterBounceMod', 'SKELANGUE', 'BOSS_XLFLOWER', 'FireEnemyBulletAt', 'ActiveBulletCount', 'native', 'T04_AWAKE', 'RearrangeIcons', 'showWarning', 'GiveMainArcana', 'Image', 'RefreshSize', 'touchText', 'TOWER', 'OnFireTimer', 'isPatrolling', 'RANDOMSY', 'PlayBatSwarm', 'ScrollCursor', 'addTilesetImage', 'children', 'SaveHeal', '25008190GOmooe', 'requiresMax', 'existing', 'CalculateWeightsWithExclusions', 'cameras', 'ReachLV100WithRamba', 'addEvent', 'XpRequiredToLevelUp', 'LevelWeaponUp', 'Button', 'XLDRAGON2_FLAG', 'HARPYV', 'call', 'LIZARD1_2', 'wake', 'damage', 'centerX', 'tween6', '_0x2fe496', 'complete', 'OnTeleportOnCull', 'BGDarkOverlay', 'moveTweenIndex', 'MUDMAN2', 'WEAPON', 'CalculateAndSetContainerSize', 'TurnOnVacuum', 'defineProperty', 'moreZ', 'CAT2', 'IsTimeStopped', 'DROWNER', 'Survive20MinutesWithCross', 'SelectedArcana', 'frameName', 'maxPowerUpWeapons', 'ONE', 'targetTint', 'keepMoving', 'value', 'SKELEWING_INO', 'sineCooldown', 'AddLateWeapon', 'globalScale', 'mapKey', 'SizeUp', 'LevelUpFactory', 'OnHit', 'hasBackup', 'GetWeaponLevel', 'cffName', 'myTick', 'Hit', 'frame', 'HitboxTimer', 'FixY', 'CompletedHurries', 'setOwner', 'translations', 'MenuBackground', 'shootOne', 'onEveryLevelUp', 'colorValue', 'ZDamageNumber', 'GetCurrent', 'ipcRenderer', 'Scale', 'cards', 'removeAll', 'onPlayerOverlapsEnemy', 'price', 'hyper', 'GetRandomWeightedCoin', 'AccumulatedCoinPrize', 'isUnlocked', 'BULLET_Z', 'updateTrail2', 'AddCoins', 'alertTween', 'T11_PEARLS', 'OptionsContainer', 'SelectAt', 'SelectedStage', 'OnSkip', 'onMenuOver', 'Magnet', 'totalCoins', 'BOSS_XLCOCKATRICE', 'destructibleChanceMax', 'OnSineTween', 'INVULNERABLE', 'slow', 'pluginFilter', 'OnSelfDestruct', 'SpawnInRandomLocationH', 'SoundsEnabled', 'Display', 'tickerEvent', 'CheckFirstInput', 'clear', 'RemoveSnapshot', 'Credits_FromMainMenu', 'PlayEraseEnemies', 'AccumulatedWeaponPrizes', 'rerolls', 'UpperFreeMask', 'hitsWalls', 'SILF', 'receivingDamage', 'restoreTint', 'OnRecycle', 'spawnAngle', 'debug_CharShowcase', 'myIconBG', 'StartCounter', 'UI_new_itemFoundScene', 'SetInvulForMilliSecondsNonCumulative', 'Sound', 'ApplyInitialVelocity', 'Survive15MinutesWithSong', 'BackFromCollection', '5lbiLHB', 'KillsIcon', 'BGM_GreenAcres', 'ProgressBox', 'addKey', 'OptionsFromMainMenu', 'MARIA', 'Group', 'SKELETON2', 'ROSARY', 'makeBlitters', 'prize', 'GetTargetPoint', 'OnConfirmClicked', 'coins_WeightedStore', 'BulletPool1', 'MyScale', 'mapPath', 'originPos', 'rightOffset', 'BLUR', 'NineSlice', 'hasRelicMap', 'removeCollider', 'hasHit', 'height', 'WeaponSprites', 'SetContents', 'right', 'MEDUSA2_AGGRO', 'createGravityWell', 'RecoverHp', 'XLCHIMERA', 'halfHeight', 'GiveDraftArcana', 'pizzaDelay', 'OnClick', '_0x2fe49b', 'Columns', 'test', 'filter', 'RerollButton', 'current', 'QuitText', 'GetPentagramToLevel7', 'targetZone', 'PLUSMINUS', 'ResumeFromMainArcana', 'UI_treasureScene', 'damageZone', 'alphaTween', 'Rectangle', 'push', 'delay', 'makeNewSaveFiles', 'VersionButton', 'setOrigin', 'healAmount', 'setBlendMode', 'SINKING', 'Fire', 'UI_arcanaMainScene', 'wiggleTween', 'CART2', 'growth', 'DebugScene', 'BOSS_XLDETH', 'growTween', 'BESUGO', 'GetPlusMinus', 'scaleTween', 'HiddenWeapons', 'NOSTRO', 'PlayerPxSpeed', 'imageTween2', 'Contains', 'healDelay', 'first', 'sineArea', 'GetRunetracerToLevel7', 'BOSS_XLTRITON', 'blitter', 'BGM_Forest', 'every', 'MoonBeat', '_baseEnemyHealthMultiplier', 'ReachLV100WithMortaccio', '_coinRT', 'tilingTileset', 'lang_characterData', 'BOSS_MUD', 'getLang', 'GetGarlicToLevel7', 'StartFireworks', 'PDuration', 'ForceResize', 'summon', 'DARK', 'Explode', 'TowerTop', 'Create', 'cardPadding', 'MakePrize', 'PENTA', 'hyperTips', 'PizzaLocations', 'localiseObject', 'MakePickup', 'loadNewSaves', 'enemiesDefeated', 'INDEX', 'Survive20Minutes', 'omniScene', 'startRotate', 'DeathTween', 'Gem', '_characterType', 'DULL0', 'SHADERED', 'LossSFX', 'REDUCEPHYSICS_box', 'STATS_TREASURE_2', 'explodeTimer', 'LIGHTNING', 'PENTAGRAM', 'IOLO', 'despawnTween', 'CollectionButton', 'maxSpeed', 'inputDelay', 'EnterDraftArcana', 'UI_grid', 'rainbow', 'Defeat3000Buers', 'StripEnd', 'defaultName', 'IMP_SWARM', 'ghosts', 'SFX_text', 'freshlySpawned', 'blackTween', 'AXE', 'MakeLevelOne', 'QSCounterDelay', 'MOLISANO_FAGIOLO', 'SetSurvivedSeconds', 'GoRight', 'SpecialWeapons', 'MovementTweens', 'BGM_rate', 'Vector2', 'FindMilkyWayMap', 'Coffin', 'NewSave', 'BOSS_ARMOR1', 'ApplyPlayerFacingVelocity', 'maxTreasureY', 'BackFromAchievements', 'imageBG', 'GetTaken', 'pointerdown', 'BackFrom_Credits', 'spacebar', 'runeStrips2', 'SetDepth', 'DULL1', 'faceRight', '_baseEnemySpeed', 'ReachLV99WithLama', 'GetCurrentCoins', 'T17_PAINTING', 'bgm', 'DisabledButton', 'ReachLV99WithImelda', 'ScaleTween', 'CreditsButton', 'isButtonDown', 'GetWeapon', 'getElement', '_0x2fe499', 'StartReels', '_characterToUnlock', 'ClickOut', 'Wind', 'Point', 'langDropDown', 'unshift', 'stage', 'frameNameUnlock', 'langData', 'CursorIcon', 'label', 'GetLevelUp_items', 'PlayMedusaSwarm', 'addEventListener', 'updateTick', 'T14_JEWELS', 'BAT_SWARM', 'Erase_items', 'Piano', 'Hurry_Toggle', 'myCoins', 'bombDeceleration', 'VersionText', 'removeDebugTextOnMobile', 'moveSpeed', 'Shoot', 'make', 'COINBAG2', 'showcase', 'COIN', 'PreviousXpRequiredToLevelUp', 'NEO', 'Die', 'scaleMul', 'Medusa', 'image', 'damageKB', 'StageCompletionLog', 'startTimers', '124176ZWoVQr', 'GoUp', 'SKELETON_SWARM', 'BGM_box', 'levelReached', 'angleTime', 'BOSS_HARPY', 'escKey', 'stopUpdate', 'RefundButton', 'volume', 'tickerCounter', 'faces', 'particlesManager', 'FLASH_toggle', 'TakeSnapshot', 'BackButton', 'Pfx_CoinFront_Manager', 'WAREHOUSE', 'area', 'AchiAd_BG', 'MaxGems', 'StopRibbons', 'GetBossyPosition', 'overlap', 'slowMultiplier', 'positions', 'onMagnetOverlapsPickup', 'specialBG', 'AngleFromVelocityRadians', 'anims', 'hitBoxDelay', 'arcanaToUnlock', 'EXDASH', 'Flush', 'hasLostTreasure', 'arcanaType', 'HighlightButton', 'myHyper', 'collapse', 'Spline', 'selected', 'PATROL_SKELEWING_BIG', 'FISHMAN_1', 'hyperToUnlock', 'downY', 'AimForRandomeEnemyInRect', '_currentDirection', 'sStars2', 'BANISH', 'walkFrameRate', 'lancetPool', 'bounces', 'plusMinusIndex', 'explodeEvent', 'BATSWARM', 'rightEvent', 'BOSS_WEREWOLF', 'CardsBackground', 'Nuke', 'progressHeight', 'faceLeft', 'GetHolyWaterToLevel4', 'Song', 'HideTween', 'RefundText', 'scaleY', 'wallsColliders', 'stringify', 'AchiButton', 'open', 'AddTitleBackground', 'targetPoints', 'achievementTips', 'EVOLUTION', 'Circle', 'SILF2', 'MOLISANO_COLONNA', 'GoLeft', 'SaveBought', 'drawFrame', 'QS_SFX', 'copy', 'maxCharges', 'containmentRect_Bullets', 'isGrounded', 'POPPEA', 'timeDown', 'Pfx_Coin_Manager', 'groundFxAlpha', 'OkButton', '_lang', 'lineStyle', 'level', 'HasRerolls', 'Survive10Minutes', 'FIT', 'ApplyGameResolution', 'BOSS_MIGNO2_5', 'See60_items', 'save_vel_x', 'find', 'QScoinsCounterTween', 'JELLY_SWARM', 'playEvents', 'recurringEvent', 'pointer1', 'blitterBG', 'MinY', 'setTexture', 'JoystickVisible', 'HideQuitButton', 'totalTime', 'then', 'MusicVolume', 'LATODILATO', 'PositionTween', 'once', 'isRelic', 'OnDeathEnd', 'leftPincer', 'ResumeFromTimeStop', 'currentBGMObj', 'SwarmCheck', 'pxUnit', 'cache', 'PixelScale', 'iconObject', 'RemoveHiddenWeapon', 'detune', 'ZOMBIE', 'setX', 'RestoreBackupText', 'AVATAR', 'stats_getDPS', 'StartFromCharSelection', 'source', 'fillRect', 'myButton1', 'cardWidth', 'FollowConfig_Reel_Standard1', 'OnDeathAnimationComplete', 'sMount2', 'isFresh', 'ShowPickupsButton', 'Eat5PotRoast', 'Boughtcharacters', 'remove', 'Spin', 'PickupCount', 'update', '_baseGoldMultiplier', 'hasSpawnedGuards', 'count', 'setScrollFactor', 'myOverlay', 'text', 'findIndex', 'dayNight', 'beginPath', 'exWeapons', 'StopSound', 'DrownerSummoned', 'error', 'prizeEnum', 'Game', 'INDEXY', 'activated', 'Save', 'checkDown', '_sound', 'SpinSeal', 'CATE', 'canSeeReviveButton', 'EvolveGarlic', 'shatter', 'EvolveCross', 'OptionsButton', 'walked', 'BOSS_XLGOLEM2', 'moveTween', 'relicToUnlock', 'imageScale', 'Remove', 'Reveal', 'DegToRad', 'XLDRAGON2', 'LOOP', 'AttachTreasure', 'dataType', 'critChance', 'Pfx_Coin_Manager2', 'obtainedGold', 'timeMods', 'ResumeFromTreasureScene', 'Distance', 'gameRight', 'PlaySwarm', 'PlayStalker', 'pool', 'SwapToLevelUpScene', 'screenSprite', 'SpawnCartInRandomLocation', 'AdjustPosition', 'UnlockedPowerUpRanks', 'FLOWER_WALL', 'MoonFinisher', 'ResumeFromDebug', 'graphics_Good', 'YOLO', 'CAT3', 'StartPrizes', 'enableInput', 'MakeRibbons', 'target', 'AchievementsFromMainMenu', 'runeStrips', 'passThroughWalls', '_0x2fe49c', 'getSaveDataPath', 'GetHolyBookToLevel4', 'PILE3', 'blockFire', 'disablePanelsInput', 'SKELENIN2', '_spawnOneOutOfSight', 'BULLET_W', 'ResolutionButton', 'FireOneBullet', 'myType', 'ClickIn', 'TextureNames', 'rectInner', 'Highlighted', 'repeatInterval', 'myPrice', 'EvolveKnife', 'SKELESTREAM', 'RunEnemies', 'PostGameScene', 'setBounce', 'ExitLevelUpScene', 'LoadUnlocks', 'blendMode', 'WeaponsPanel', 'loadJsonBackup', 'BGMan', 'scufflePool', 'debug_SpawnEnemies', 'banish', 'ARCA', 'cardOffset', '\x20\x0a\x09\x09\x09\x0a\x09\x09\x09\x09Bullets:\x20', 'shootStarAt', 'sHills', 'MAX_SAFE_INTEGER', 'ShowDamageAt', 'killedAmount', 'upY', '_0x2fe49a', 'bgHeight', 'minimumMultiplier', 'fillStyle', 'clearTint', 'dontSpawnIfAbove', 'NEGATIVE_INFINITY', 'offsetY', 'size', 'Banish', 'RELIC', 'style', 'hasSkipped', 'POLTER_ROULETTE', 'mistery', 'COFFIN', 'stopByKey', 'whiteDot', 'SpawnDestructibleOutOfSight', 'OnExitScene', 'getChildren', 'SarabandeWeapon', 'OnButtonClicked', 'arcAngle', 'setBoundsRectangle', 'SKELEWING', 'MILK', 'backFlipTween', 'exLevels', 'sineF', 'OptionsText', 'isTakingSnapshot', 'hasOwnProperty', 'ShowRecoveryAt', 'bosses', '_0x2fe49e', 'EnterPause', 'SKELEPANTHER', 'AddSpriteFollower', 'leftStick', 'bonusCoinsIcon', 'HasSkips', 'debug_CharCoffin', 'get', 'raysTween', 'isDead', 'tilePositionY', 'GEM', 'isEvolution', 'createHash', 'TimeStopTimer', 'setInteractive', 'OnHasHitWall', 'PickWeapon', 'Lang', 'sPeaks', 'SkipText', 'Selected_character', 'fadeOutTweeen', 'CancelText', 'Scene', 'angle', 'minimum', 'AchiAd_Sub', 'PILE_ASSAULT', 'correctScrollableContainerPosition', 'BOSS_XLCHIMERA', 'RadToDeg', 'DAMAGE_toggle', 'CAVALLO', 'spriteName', 'ECTO1', 'DrownerWarning', 'OnCancelCallback', 'BGM_new_rate', 'BONE', 'background2', 'IsInitialised', 'Player', 'CyclePrizes', 'BGM_Library', 'buttons', 'OnEnterAnimation', 'ScrollBy', 'EnterDebug', 'ScreenRectangle', 'onFocus', 'CollectionFromMainMenu', 'copyPosition', 'TreasureQueue', 'GOLEM1', 'getTilesWithin', 'getHistoryIndex', 'splice', 'playReveal', 'AddInfoPanel', 'RerollRemaining', 'replace', 'audio', 'length', 'DETH', 'FLASH_text', 'frameWalk', 'inner', 'Between', 'stats_inflictedDamage', 'SceneContainer', 'MakeExplosion', 'ValidateSkipsAndRerolls', 'arcanaPools', 'entryTween', 'pick', 'GetPositionForEnemyOutOfSight', 'spritte', 'achieved', 'ribbons2', 'onBlur', 'InitGame', 'ShootStars', 'CAT5', 'destructiblesPools', 'indexInWeapon', 'screenYcoordToPositionScrollableContainer', 'boundf', 'PickupGroup', 'onRight', 'isRare', 'setAngle', 'StartingSpawns', 'fillScale', 'unlocksAt', 'MEDUSA2', 'cardHeight', 'BGM_GameOver', 'GUNS', 'CheckMinute', 'AddHeader', 'SurvivedSeconds', 'CurrentFoundRelic', 'chance', 'isShowingStats', 'options', 'LAMA', 'Guns2', 'ReachLV99WithPoppea', 'SaveCoins', 'sprite1', 'PILE4_SCALED', 'SKELEWING_ZONE', 'Arcanas', 'GetPermanentEnemiesNumber', 'removeFromDisplayList', 'deathKB', '_spawnOneInRandomLocationVertical', 'howMany', 'isStatic', 'setDraggable', 'getMaxTextObjectSize', 'Add', 'critChancesArray', 'PRISM', 'FoundWeaponQueue', 'BanishButton', 'BOSS_MEDUSA1', 'onMenuClick', 'MakeRibbonsLevel3', '_spawnOneInRandomLocationHorizontal', 'T16_SLASH', 'uiTexture', '427fXgrSN', 'done', 'trail', 'treasure', 'CleanUp', 'actualFps', 'alphaMod', 'FindAStoneMask', 'Assign_item', 'MinAmountOfPowerUps', 'HasBanish', 'IsSlow', 'RecalculateLoot', 'restart', 'XLMEDUSA', 'SpawnAt', 'PullExistingRemainingWeapon', 'objects', 'isStartingGameMode', 'MakeCoinsEmitter', 'sound', 'RerollText', 'Treasure2', 'DYNAMIC_BODY', 'GetRandomWeightedWeapon', 'setActive', 'ECTO_SWARM', 'groundSeal', 'fillCircleShape', 'penetrating', 'MainUI', 'chickens', 'SetupTreasureLevel1', 'FIRE', 'HideReels', 'tileSprite', 'DURATION', 'Res2', 'BoughtPowerups', 'pad1', 'lineTo', 'WEREWOLF', 'BlitterBounce', 'curse', 'OnStart', 'CheckButtonPad', 'AreaRectangles', 'distance', 'skips', 'AltKey', 'add', 'sForest', 'Enable_itemPanelsInput', 'PORTA', 'CANTERVILLO', 'MUDMAN1', 'langNameList', 'leftEvent', 'UI_relicFoundScene', 'BGMask', 'langAchievementData', 'sign', 'DisablePanelsInput', 'PlayMedusaWall', '_set', 'isDown', 'reel', 'RPixelScale', 'list', 'bounds', 'damageZoneDefaultRadius', 'SelectedMazzo', 'RestoreAchievementUnlocks', 'angleHistory', 'makeAngelVFX', 'setVisible', 'ResumeFromRelicFound', 'MERMA1_3', 'perc', 'ticks', 'explosionDamage', 'GATTI_SCRATCH', 'description', 'isPlaying', 'myWeaponIcon', 'Draw', 'moreY', 'StartCharScene', 'SetForNearestEnemy', 'MARIANNA', 'appo', 'HighlightedPanel', 'GetLightningRingToLevel4', 'BOSS_XLARMOR2', 'floor', 'emitterOffset', 'setWordWrapWidth', 'Coin', 'setText', 'PSpeed', 'ExplodeAt', 'isAltDown', 'game', 'DisableButtons', 'PATROL_SKELEWING', 'PUSH', 'Events', 'rightPincer', 'damageNumberPool', 'flipY', 'StartRibbons2', 'setTimeScale', 'invul', 'myBuy', 'digest', 'OnBanish', 'Color', 'MoveCounter', 'T07_IRON_BLUE', 'upX', 'STEP4', 'atlas', 'EnemyHealthMultiplier', '4776JdLjZK', 'lastFiringInterval', 'THOUSAND', 'Regenerate', 'SingleWarning', 'fpsText', 'Background', 'renderer', 'OmniScene', 'DeSpawn', 'flowerSprite', 'unlocked', 'BOSS_ECTO', 'GetLevelUpPowerups', 'summonDelay', 'sort', 'ceil', 'Treasure1', 'pools', 'EnterLevelUp', 'myLevelsChecks', 'Break', 'PlayJellyfish', 'follower', 'FireOneLancet', 'regen', 'VESPERS', 'PowerUpFromMainMenu', 'OptionsMiniButton', 'BOSS_PANTHER', 'main', 'RELIC_MAP', 'targetAngles', 'DisableInput', 'WHIP', 'PentagramSFX', 'FIXED', 'STEP1', 'setManualValue', 'spawnQuantity', 'FixedDirection', 'MakeButton', 'SkipAnimation', 'ODDEEO', 'cooldown', 'scaleGroundTweeen', 'StandardCritical', 'MakeCustomLootTable', 'world', 'percentage', 'ClearTimeStop', 'rightButtonDown', 'debug_NextMinute', 'toFixed', 'destructibleFreq', 'GoBackwards', 'mySprites', 'DRAGON_SWARM', 'sine', 'closest', 'MakeTreasure', 'DisableOptions', 'EvolveSongOfMana', 'UI_levelUpScene', 'onerror', 'ReviveText', 'rexShatterImage', 'MIGNO3_5', 'Deselect', 'currentGameObject', 'random', 'SwapToCharFoundScene', 'startFollow', 'FadeMusic', 'STALKER', 'UpdateOptionLang', 'damageZone2', 'gemsPool', 'ChestFront', 'enableDoneButton', 'SetInvulForMilliSeconds', 'Holywater', 'LITTLEHEART', 'weapons', 'zoom', 'PowerupText', 'randomMinutes', 'collider', 'ANTONIO', 'canHeal', 'Value', 'objectsHit', 'SetWeaponType', 'Shot', 'ADD', 'removeListener', 'trueWeapon', 'color', 'cameraFilter', 'onCloseDropDown', 'PlaySkullSwarm', 'sFog', 'BULLET_1', 'Mazzo_Box', 'display', 'evoSprites', 'isSpecialOnly', 'pfxEmitter', 'pincerRespawnDelayR', 'GetStatDisplayTextValue', 'GetStopDelays', 'setData', 'MoonDamage', 'alert', 'setLangCode', 'FindCoffinStage2', 'OnDismissDrowner', 'FILLER', 'Rows', 'EvolveLightning', 'RelicQueue', 'PlayDragonStream', 'SKELETON', 'sprite2', 'circleArea', 'heightAlpha', 'bossPools', 'RemovedWeapons', 'Approach', 'Hurry_BoxCallback', 'ROCHEREXP', 'RotateAroundDistance', 'openText', 'downX', 'ColorSprite', 'PfxEmitter2', 'StartCoinsEmitters', 'dot', 'levelUpOptions', 'LittleHeart', 'destroy', 'log', 'ApplyMenuResolution', 'sfxIndex', 'CLOVER', 'PlayerUI', 'wKey', 'Input', 'sleep', 'tips', 'speed', 'LifetimeHeal', 'setStrokeStyle', 'setTint', 'spawnType', 'width', 'pincerRespawnDelayL', 'stored', 'STEP2', 'AddCoinsNoRun', 'soundArray', 'PfxEmitter_Pickups', 'plsNoHurt', 'ribbons', 'addAt', 'unlockedRank', 'toLocaleString', 'CurrentTreasureTypes', 'JOYSTICK_toggle', 'BONEZONE', 'RandomText', 'XLDRAGON1_FLAG', 'ARCANA', 'OkText', 'next', 'critMul', 'pizzaIntervalInMilliSeconds', 'ZInGameUI', 'stageName', 'ReachLV99WithKroci', 'maxPositions', 'EnableOptionButtons', 'FreezeSnapshot', 'Random', 'location', 'startingSpawns', 'ESC', 'GameOverScene', 'PlayCircle', 'SkipRemaining', 'WITCH2', 'each', 'Earn5000CoinsInASingleRun', 'UnlockedWeapons', 'StartRibbons', 'Pfx_CoinFront', 'send', 'myLevelsBG', 'MaxDestructibles', 'setPos', 'VAMPIRICA', 'disableInput', 'INPUT_cursors', 'finalScaleGroundTween', 'left', 'canScroll', '__esModule', 'setFrame', 'sliderMaxX', 'round', 'GHOST_SWARM', 'GetPickup', '_spawnOneInOuterRect', 'MUMMY', '_defaultSpeed', 'MakeChanceArray', 'SKELETON3', 'achievements', 'mkdirSync', 'CurrentFound_item', 'getPointAt', 'ActiveArcanas', 'Survive5MinutesWithKnife', 'ASSUNTA', 'play', 'STREAMERSAFE_text', 'ApplyBoughtPowerup', 'secondSet', 'SelectionHighlight', 'langCodeList', 'VOID', 'counterRing', 'FollowConfig_Reel_Standard2', 'TweenAngles', 'patrolDuration', 'TriggerCharScene', 'ROAST', 'DestroyUIGrid', 'GreenButton', 'RotateTween', 'GoDown', 'BackwardTween', 'maxHp', 'cff', 'LIZARD2_3', '\x20yy:', 'langWeaponData', 'HandleInput', 'maxTreasureLuck', 'trailAlpha', 'DramaSprite', 'Whip', 'GENERIC_SWARM', 'SKELENIN_ZONE', 'bonusBounces', 'FindCoffinStage3', 'default', 'dayCycleDuration', 'toStringTag', 'safeXY', 'accel', 'ARMOR_6', 'PickupsWithArrows', 'OnUndieComplete', 'DAMAGE_text', 'fixedPrizes', 'AssignData', 'flipTween', 'MapPanel', 'scrollTopY', 'Update', 'BOSS_COUNT2', 'Whistle', 'SaveOptions', 'MOLISANO_SECCO', 'GIOVANNA', 'graphics_Bad', 'PEPPINO', 'SpawnEnemiesInOuterRect', 'updateEnemyPools', 'isPowerUp', 'legacyBGM', 'WeaponIcons', 'AccelTween', 'POLTER', 'RosaryDamage', 'maxBounceAreaMod', 'Defeat5000Enemies', 'CASTLE', 'impactSprite', 'OnDestroyed', 'setScaleY', 'SHOWCASE', 'SelectGameObject', 'BitmapText', 'BottomRight', 'FireExplosionWeapon', 'ToggleScrolling', 'GetRandomArcanaName', 'blockInput', 'hasAttachedTreasure', 'LaunchUIOverlay', 'destroyedAmount', 'BGM_Mana', 'Geom', 'isCullable', 'FindAVacuum', 'tween', 'resume', 'MAXHEALTH', 'BOSS_XLDRAGON2', 'FadeOut', 'fillCircle', 'GetRadius', 'AddCursor', 'setVelocity', 'makeSparks', 'hasLights', 'indexOf', 'PullEvolution', 'Survive20MinutesWithCurse', 'debugText', 'idleFrameCount', '_0x2fe498', 'AsyncLoad', 'BGM_ignoreModsForNewSoundtrack', 'recoveredHP', 'BackText', 'isOpen', 'hitFrameName', 'armor', 'BounceTimer', 'isWeapon', 'Collected_items', 'OnRandomClicked', 'SFX_box', 'BUER', 'openLangDropDown', 'XLTRITON', 'MAGIC_MISSILE', 'GREENACRES', 'physics', 'MakeUIGrid', 'goToPlayer', 'CurrentBGM', 'hasP', 'checksum', 'powerupType', 'RND', '\x20\x0a\x0a\x09\x09\x09\x09', 'Invalid\x20UI\x20slot:\x20', 'onCaneOverlapsEnemy', 'runeSpline', 'spawn_itemAt', 'clearPositions', 'COINBAGMAX', 'sliderMinX', 'Defeat100KEnemies', 'LoadCollection', 'gridScene', 'CollectedWeapons', 'Have6DifferentWeapons', 'enabled', 'grav', 'shields', 'setDirty', 'MEDUSA_SWARM', 'EXISTING_ANY', 'EffectiveSpawnFrequency', 'rarity', 'floatTween', 'AngleTween', 'LATODISOPRO', 'SelectedHyper', 'bounceAreaMod', 'onWorldBounds', 'MakeGem', 'panelHeight', 'AddExplosions', 'setBackgroundColor', 'Alert', 'RIGHT', 'BackFromCharSelectionScene', 'pickups_container', 'texture', 'Enter_itemFound', 'reverse', 'debugEnemies', 'BOSS_XLGOLEM2_29', 'highlight', 'container', 'ExpireTimer', 'PEPPE', 'gameLeft', 'GetSfx', 'VORTEX', 'bouncePositions', 'bounce', 'SetNesting', 'PizzaCircles', 'ResolutionText', 'innerWidth', 'CURSE', 'Sprite', 'rings', 'toString', 'Line', 'gravity', 'XLDRAGON1', 'powerup_container', 'reduce', 'MoveToNextScene', 'PlayerLevelText', 'OnTickerEvent', 'setKey', 'KNIFE', 'IMELDA', 'FlashScreen', 'GUNS3', 'REVIVAL', 'BuildStats', 'pickedupAmount', 'ActivateDurationSineBonus', 'bubbles', 'infoPanel', 'enterKey', 'LevelUp', 'JELLY_WALL', 'isKilled', 'targetZone2', 'ARMORSPEAR_6', 'Hide', '_0x2fe49d', 'exportGameData', 'UpdateMusicVolume', 'RemoveWeapon', 'GetDamaged', 'CROSS', 'fireDelay', 'PAmount', 'GROWTH', 'onBulletOverlapsDestuctible', 'XLGOLEM2', 'PlayerOptions', 'CoinsIcon', 'T18_ILLUSIONS', 'SpawnInRandomLocationV', 'previousXPfactor', 'CollisionLayers', 'load', 'bullet', 'guards', 'BOSS_XLMUMMY', 'hpBarBG', 'regenTimer', 'blackBg', 'ResumeButton', 'AssignStage', 'LayerUp', 'CurrentTreasureLevel', 'MakeRectangleMask', 'title', 'moreX', 'highlightCursor', 'platform', 'flowerNames', 'firingTimer', 'resultIndex', 'preload', 'physicsType', 'pickedWeapons', 'spaceKey', 'GetSpecialWeapon', 'SpeedTween', 'See70_items', 'XLMUMMY', 'ReachLV10', 'UI_selected', 'prefix', 'lastArea', 'dismissed', 'MAGNET', 'MakePrizePairFromAvailablePowerUps', 'EnterMainArcana', 'UI_mainMenu', 'onBulletOverlapsWall', 'CheatCodeUsed', 'res_Debuffs', 'PArea', 'customAngle', 'initialVelocity', 'EnablePanelsInput', 'writeFileSync', 'onLeft', 'PlaySound', 'recoveredCalculated', 'CurrentFixedTreasures', 'PUGNALA', 'previousArea', 'Unlock2Hypers', 'sMount1', 'strokePath', 'AddHeal', 'CollectionWeaponScene', 'BAT6', 'points', 'DRAGONSTREAM', 'T01_AQUARIUS', 'AssignWeapon', 'Pick_item', 'PlayerCoinsText', 'debug_Treasure', '_characterName', 'StartFromMainMenu', 'HORIZONTAL', 'apply', 'playGhosts', 'SceneManager', 'RELIC_TEAR', 'F11', 'weaponToUnlock', 'emitParticleAt', 'OnCancelPressed', 'enterPause', 'walkingFrames', 'trail_y', 'EnableOptions', 'historyIndex', 'gamepad', 'stopFollow', 'circle', 'langCode', 'setEmitZone', 'Delay', 'Location', '_speed', 'QScoinsEmitterTimer', 'prizeIcons', 'Pfx_CoinFront_Manager2', 'weapon', 'sMist1', 'canvas', 'BulletGroup', 'BRAZIER', 'removeEvent', 'ChanceForExistingPowerUp', 'myName', 'AimForNearestEnemy', 'PreloadScene', 'TurnTowards', 'StopCamera', 'getAll', 'GetRandomWeightedWeaponOrPowerup', 'PowerupButton', 'enemies', 'EvolveGuns', 'OnFirstInput', 'CalculateEnemySpeed', 'flipX', 'updateTrail', 'PAESANO', 'isReadyToStart', 'cIndex', 'divider', 'owner', 'myCheckbox', 'EvolveAxe', 'QuitButton', 'SetupTreasureLevel2', 'MakeStagePickup', 'MakeDestructible', 'moveTo', 'CancelButton', 'EraseEnemies', 'FindAClover', 'Brakes', 'icons_container_defaultY', '\x20w:', 'QSEvent', 'timeOffset', 'callback', 'ShowScrollbar', 'PATROL_ARMOR_6', 'AssignPlayer', 'AchievementText', 'coins_accumulatedWeight', 'NUMPAD_SUBTRACT', 'Survive15MinutesInMolise', 'randomIndex', 'setBounds', 'CoinsText', 'Spawn', 'intervalDependsOnDuration', 'CART', 'GARLIC', 'AddBackParticles', 'SoundsVolume', 'minTreasureY', 'QSSeekTrack', 'Assign_character', 'PATROL_XLARMOR_SWORD', 'shuffle', 'TurnToStart', 'isPointWithinCollisionLayer', 'index', 'DayColor', 'dropDownMenu', 'UpdatePlayerLevel', 'existsSync', 'Accumulated_itemPrizes', 'tween2', 'defaultXPfactor', 'mods', 'TurnToSelection', 'setPosition', 'damageDelay', 'AddWeaponIcon', 'detunes', 'WarningSprite', 'Show', 'DefeatBossPlant', 'StagePickups', 'CartLocations', 'Open', 'PullRemainingPowerUp', 'SelfDestruct', 'Destructibles', 'ToggleHighlight', 'Lid', 'CritMul', 'f11key', 'langPowerupData', 'Treasure3', 'opened', 'TriggerFire', 'SFXARRAY', 'ERASE_ENEMIES', 'medusaElapsed', 'onCatOverlapsPlayer', 'BGM_text', 'sFlash', 'BAT5', 'OnPickupCallback', 'DefeatBossTower', 'DULL2', 'invulTime', 'yOffset', 'ReachLV5', 'LATOEVEST', 'rexUI', 'versionText', 'hpBarHeight', 'events', 'MARIASOFIA', 'textureName', '_events', 'ResumeFromFreeze', 'SpawnPickupParticlesAt', 'EvolveRunetracer', 'permaTween', 'secondMoveTween', 'BOSS_XLDROWNER', 'sendSync', 'ExitButton', 'exploTween', 'STATS_TREASURE_3', 'LIGHT', 'myDesc', 'amount', 'StopMusic', 'ReachLV20InMadForest', 'HARPY', 'nameTextObject', 'Cursor', 'guardRadius', 'Pfx_Coin2', 'Unlock3Hypers', 'Coins', 'Fireloop', 'ParseLevelUpInfo', 'Pfx_CoinFront2', 'BOSS_XLLEDA', 'AddBlackFader', '\x0a\x09\x09\x09\x09Enemies:\x20', 'MOLISANO_GROSSO', 'MEDUSA2_FAST', 'SetTarget', 'ExploGH2', 'LootManager', 'isBroken', 'setDepth', 'Chest', 'input', 'TILED', 'alertSprite', 'resetBonuses', 'OwO', 'angles', 'EnemySpanwersLocations', 'InitData', 'LUCK', 'GENNARO', 'playerUI_levelUp', 'isShowingAchievements', 'ReviveButton', 'destructibleType', 'maxAngles', 'SKELETONE', 'UnlockedArcanas', 'isPlayerBelow', 'pfxEmitter2', 'PizzaTimer', 'MIGHT', 'CharQueue', 'FIREBALL', 'BackFromStageSelectionScene', 'arcanaTreasure', 'isLink', 'CheckPizzas', 'UI_creditsScene', 'SMITH', 'lang_itemData', 'originX', 'XLARMOR2', 'DestructibleLocations', 'EvolveSantaWater', 'BRAZIER2', 'closeLangDropDown', '9995922bHVuyJ', 'pixelWidth', 'RemoveFromStore', 'onMenuOut', 'UpdateBlitter', 'MOLISANO_BASE', 'HasPowerupsInStore', 'HPxLevel', 'trueHeight', 'charges', 'Defeat3000Milk', 'RotateVectorByDegrees', 'T09_DIVINE', 'HOLY_MISSILE', 'stageEventManager', 'Hyper_Toggle', 'entries', 'maxAngleRotDeg', 'HEAVENSWORD', 'MainScene', 'bonusCoinsAmount', 'WeaponFactory', 'res_Freeze', 'velocityFromRotation', 'PASQUALINA', 'layerContainers', 'BanishRemaining', 'T00_KILLER', '_empty', 'bulletAllowance', 'GERMANA', 'blackParticles', 'BOSS_XLARMOR1', 'sprites', 'setAlpha', 'ChooseTarget', 'JOYSTICK_box', '_lastVelocity', 'startingWeapon', 'PowerUpIcons', 'onEmitcustomAngle', 'TREASURE', 'webpackChunkVampireSurvivors', 'inputDelayPad', 'hpBarOffset', 'Utils', 'DEVIL3', 'cfgIndex', 'StartPosition', 'UniteBirds', 'setScale', 'dumpJoyStickState', 'ShowTween', 'join', 'SIRE', 'hasWitchTear', 'AddBackground', 'dropDownButton', 'Bounce', 'Angel', 'onHPRecoveryCallback', 'ShowSeal', 'SpawnDestructibleInRandomLocation', 'SelfDestructTimer', 'outer', 'T21_BLOODY', 'CRISTINA', 'OnDeath', 'header', 'DefeatBossLibrary', '_coinSprites', 'stats_lifetime', 'ECTO2', 'createTextObject', 'xx:', 'center', 'CollectionText', 'UI_arcanaDraftScene', 'Weapons', 'rectangle', 'FormatTime', 'OnBulletOverlapsBullet', 'ShowDPSStats', 'rayDuration', 'GetPositionOutOfSight', 'isGoingRight', 'fwEmitter2', 'MakeTextureNamesFromPrizes', 'TriggerArcana', 'arcanaHolder', 'frequency', 'weight', 'critIndex', 'EvolveWhip', 'keyboard', 'AsyncSave', 'keys', 'DestructibleTimer', 'tiledPositions', 'GroundWarning', 'OnBounce', 'revivals', 'PullExisting', 'GHOSTSWARM', 'enemyType', 'XLGOLEM4', 'UpdateCoins', '\x20\x0a\x0a\x09\x09\x09\x09Pickups:\x20', 'sineMight', 'RedWarning', 'save_vel_y', 'between', 'base', 'foundData', 'myInteractable', 'firetime', 'SPEED', 'Unlock3Hypers_Correct', 'OnLevelUpSkipped', 'EnemySpeed', 'imageTween', 'bgWidth', 'LAUREL', 'particles', 'MEDUSA1_FAST', 'CurrentAmountOfPanels', 'UI_highlightL', 'cursors', 'POWERUP', 'powerType', 'ResumeFromDraftArcana', 'flagName', 'shadowTween', 'GetValidUnlockedHypers', 'PINEYE', 'stagger', 'CharMarkup', 'isInitialized', 'LoadOptions', 'powerUpToUnlock', 'explosionRadius', 'SpaceKey', 'BlitterOneBusy', 'CoinsBG', 'OnPowerUpBought', 'UpdateKills', 'MOLISE', 'textures', 'removeKey', 'ResumeFromLevelUp', 'XLGOLEM3', 'spawned', 'isDespawning', 'previousDistance', 'PlaySkullPilePile', 'BOSS_BUER', 'angleUnit', 'BGFader', 'hitSprite', 'MakeReels', 'PickRandomLevelUps', 'KeyCodes', 'DayNightHue', 'shape1', 'leftOffset', 'OnSelectionChange', 'parent', 'StartButton', 'displayHeight', 'PlayFlash', 'despawnTimer', 'Rosary', 'SKELENIN1', 'ALT', 'OnPanelClicked', 'Rope', 'ChangeBGMRate', 'setChar', 'Apply', 'pop', 'LIBRARY', 'FindAnOrologion', 'deltaTime', 'sineDuration', 'bulletType', 'HELLFIRE', 'PowerUpScene', 'end', 'HideSeal', 'mask', 'LifetimeSurvived', 'AimRandom', 'onEmitcustomTint', 'myIcon', 'ClearData', 'setFixedSize', 'MUD', 'MOLISANO_VECCHIO', 'enable', 'OnCardClicked', 'MulSpeed', '\x20y:', 'APPDATA', 'onExpireAlphaTween', 'OnIntroEnded', 'DAMAGE_box', 'CAT1', 'arc', 'setTintFill', 'resetPoints', 'timeScale', 'interval', 'name', 'maxKnockback', 'T05_CRASH', 'pizzaEvents', 'LootTable', 'createCombo', 'BEAM', 'MakeUIGridBanish', 'OnLifetimeTween', 'musicLibrary', 'CharSprite', 'RunTimeHue', 'GATTI', 'Stage', 'OnCancelBanish', 'JOYSTICK_text', 'SetSize', 'HasAlreadyHitObject', 'On_itemButtonClicked', 'lastShotTimer', 'dataKey', 'WeightedStore', 'GetRemainingWeaponsAndPowerUps', 'XLBAT', 'timerEvent', 'position', 'stop', 'MOLISANO_ROSSO', 'Container', 'GHOST', 'rotate_point', 'json', 'PlaySkeleStream', 'ringSPrite', 'Stop', 'trailUpdate', 'MOLISANO_ANFORA', 'PauseScene', 'luck', 'onExpireTimer', 'HasRandomazzoEnabled', 'ReachLV60InDairyPlant', 'lasRadiusIndex', 'vacuumTween', '_items', 'langStageData', 'SpawnArcanaHolder', 'debug_destructibles', 'abs', 'achievementsPopup', 'BanishText', 'AddAllRings', 'RELIC_RANDOMAZZO', 'emitParticle', 'STREAMERSAFE_toggle', 'GoldMultiplier', 'MEDUSA1', 'instances', 'PANINI', 'halfWidth', 'prizeTypes', 'delayBasedOnDuration', 'scaleX', 'completedStages', 'AddAllMajorArcanas', 'FLASH_box', '_core', 'Actions', 'StageSelectionScene', 'top', 'BOSS_XLMEDUSA', 'SetupTreasureLevel3', 'PlayPileAssault', 'shapes', 'REDUCEPHYSICS_text', 'ChangeFrame', 'cols', 'RefreshPanels', 'SHOOTING_STAR', 'WorldBoxCollider', 'getDetune', 'task', 'AddChildren', 'SurvivedSecondsText', 'OnPlayerQuit', 'exploding', 'CollectionAchievementsScene', 'EraseRandomEnemy', 'PfxEmitterExplosionManager', 'enablePanelsInput', 'setSpeed', 'POLTER_SWARM', 'ExitOptions', 'MakeUIGrid_Options', 'parseInt', 'removeInteractive', 'RANDOM', 'enemyIndex', 'SaveGameResults', 'launch', 'wasDown', 'dKey', 'PostGameFromGameOver', 'contains', 'Mazzo_Toggle', 'SwapTo_itemFoundScene', 'PILE2', 'pointer', 'DUMMY_LIGHTSOURCE', 'LoadNewSaveFiles', 'withinBounds', 'Hurry_Box', 'explosionCircle', 'CharSelectionScene', 'BGM_Library_Legacy', 'CheckOnAllWeapons', 'GOLD', 'BOSS_GALLO', 'Keyboard', 'valueTextObject', 'spotlight', 'MakeMasks', 'Carrello', 'wrap', 'exitTween', 'DOMMARIO', 'onOpenDropDown', 'visible', 'panel', 'AngleFromTargetRadians', 'DestroyedCount', 'containmentRect_Screen', 'parse', 'debugSprites', 'DefeatBossMadForest', 'Scrollbar', 'destructibleChance', 'isGLTexture', 'BOSS_MERMAN', 'StartTreasureScene', 'innerHeight', 'JELLYFISH2_SWARM', 'DEFAULT', 'BOSS_SKULL2', 'frameNames', 'oncontextmenu', 'altKey', 'charactersprite', 'previousGameObject', 'hitVFX', 'shieldInvulTime', 'Destroy20Candles', 'SelectionHighlightBG', 'down', 'targets', 'magnet', 'XLSKELETON', 'dataMaxHp', 'displayWidth', 'myEvolve', 'glTexture', 'SetValue', 'onBulletOverlapsEnemy', 'myNextLevel', 'max', 'debugTime', 'forEach', 'BGM_Gatti', 'DisableBack', 'summonTween', 'MakeTexture_PowerUps', 'reload', 'padStart', 'maps', 'ShowPickups', 'EnableInput', 'Init', 'accumulatedWeight', 'IMP', 'maxTrueWeapons', 'DEATH', 'stageType', 'MakeUIGrid_ScrollView', 'T19_FIRE', 'EnemyGroup', 'prizes', 'currentVolume', 'BORA', 'hasThorns', 'hasSecondSet', 'snapshot', 'connected', 'CreditsText', 'substring', 'lancet', 'Survive5MinutesWithDiamond', 'hasSpawned', 'PanelBackground', 'CANDLE', 'setFlipY', 'landingLocation', 'SKELETON4', 'BOSS_PILE3', 'SKULL2_SWARM', 'RegrowRight', 'playPizzaEvents', 'removeFromUpdateList', 'NONE', 'DIAMOND', 'BGM_Plant', 'saveTexture', 'ReadPlayerOptions', 'MakeTexture_ExistingWeapons', 'setIntensity', 'addEvolvedWeapon', 'EnemySpeedMultiplier', 'aKey', 'radius', 'FireExplosion', 'CoinIcon', 'VERTICAL', 'SpawnEnemiesTiled', 'env', 'ToggleHyperInUIGrid', 'maximum', 'PPower', 'ToggleCursorsVisibility', 'isFullScreen', 'MoonStarter', 'TimeStop', 'RunCoins', 'LerpColor', 'OnGetDamaged', 'fwEmitters', 'repeat', 'CurrentFoundChar', 'UnlockAchievement', 'Res3', 'furthest', 'myHurry', 'ProjectileSpeed', 'OnHasHitAnObject', 'CONCETTA', 'T10_BEGINNING', 'ToggleFullScreen', 'Roast', 'SpawnTimer', 'COINBAG1', '_itemType', 'T20_SINKING', 'OnDoneClicked', 'startingAngle', 'SwapToRelicFoundScene', 'UI_resolutionScene', 'plugins', 'FlashingVFXEnabled', 'Disappear', 'countActive', 'create', 'PizzaSprite', 'Assign_itemData', 'Squared', 'ScrollBar', 'MOLISANO_BELLO', 'ring', 'spianami', 'updateFreq', 'sDarkness', 'joyStick', 'graphics2', 'confirmationPanel', 'FOREST', 'BackFromGameOver'];
+    const _0x41c640 = ['QSSecondEvent', 'frontSpriteName', '_SIZE', 'createEmitter', 'ResumeText', 'die', 'OROLOGION', 'DismissScene', 'MainMap', 'shadow', 'major', 'XLARMOR1', 'CROCI', 'FINO', 'curve', 'ThingFound', 'getObjectLayer', 'body', 'reels', 'UnlockedHypers', 'MaxY', 'enterTween', 'createLayer', 'CheckColor', 'sKey', 'start', 'BOSS_WITCH2', 'debug_FireAll', 'BackFrom_Resolution', 'chances', 'TriggerSarabande', 'saveJsonBackup', 'TIMEFREEZE', 'ExplodeTimer', 'MakeBackground', 'AddWeapon', 'EnableButtonsInput', 'IsInvul', 'AssignAchievement', 'reset', 'faceTop', 'GATTI_SCUFFLE', 'hasRandomazzo', 'NFT', '_basePlayerPxSpeed', 'OnLevelUpBanish', 'HOME', 'hitVFXPool', 'hasTileset', 'bringToTop', 'FadeOutTween', 'ToggleButtonsAvailability', 'nesting', 'RandomButton', 'isPaused', 'active', 'BGM_Intro', 'ParticlesManager', 'MANNAGGIA', 'REDUCEPHYSICS_toggle', 'SCYTHE', 'Guns1', 'rectOuter', 'BOSS_XLSKELETON', 'OnRerollLevelUp', 'Version', 'star1', 'setDepthPlease', 'ENTER', 'T03_TRAGIC', 'Survive1Minute', 'eyes', 'GameOver', 'atan2', 'sprite', 'exploRadius', 'concat', 'moveAngle', 'passed', 'scale', 'Pizza', 'T08_MAD_FOREST', 'backgroundColor', 'MINO_RUSH', 'SKIP', 'TopLeft', 'graphics', 'MazzoPanel', 'stopp', 'hasArcana', 'PATROL_MIGNO_3_5SWARM', 'hpBar', 'AchiText', 'chooseTimer', 'setAmbientColor', 'OnDead', 'fadeOutDelay', 'PanelBackgroundAdd', 'vs_ex_is_electron_win_build', 'lives', 'IntroScene', 'Ellipse', 'bind', 'goldPrize', 'ExitText', 'Shuffle', 'SKULOROSSO', 'upperLimit', 'SKULL2_SCALING', 'myWarn', 'OpenChest', 'disableInteractive', 'fadeInTween', 'PowerUpMarkup', 'SetTreasureLevelFromChance', 'Recover1000HP', 'HasWalkingAnimation', 'damageZoneDistance', 'currentDirection', 'STANDARD', 'AimForRandomEnemyInScreen', 'BOSS_XLDRAGON1', 'key', 'MakeAndActivatePickup', 'LoadBLuck', 'BAT1', 'bounceActivated', 'min', '_blinkTimeout', 'Enemies', 'updateController', 'panels', 'knockback', 'followers', 'isRotating', 'Linear', 'XLMAGIO', 'hitGroundTween', 'OptionsScene', 'SILF3', 'cursorsVector', 'PlayGhostSwarm', 'BOSS_XLDEATH', 'faceBottom', 'ROCHER', 'GoToPlayer', 'fadeOutTween', 'AddStrips', 'lights', 'SKULL_SWARM', 'HighlightedType', 'resolve', 'fadeTrailTween', 'chargeTween', '714WUzKUv', 'myCounter', 'greed', 'myListOfStats', 'Survive30MinutesWithAxe', 'stageToUnlock', 'AddHiddenWeapon', 'CoinsAward', 'evoSynergy', 'GetColor', 'weaponType', 'onSecondsryBulletOverlapsEnemy', 'isStationary', 'SkipButton', 'setCircle', 'UnlockedStages', 'Dismiss', 'ReachLV99WithGiovanna', 'spinTimes', 'VERANDA', 'tween1', 'sliderBounds', 'firstEvent', 'LAMPOST', 'BOSS_XLCRAB', 'SelfDestDistance', 'snapshotArea', 'stats_container', 'GetLevelUpOptions', 'BAT2', 'hpBarWidth', 'followerConfig', 'ExcludedWeapons', 'EnableButtons', 'pianificami', 'scrollHeight', 'drowner', 'properties', 'REROLL', 'Survive15MinutesWithGatti', 'SARABANDE', 'GroundFx', 'tint', 'FindRandomazzo', '\x20h:', 'MakeBlitters', 'XLARMOR_SWORD', 'TriggerEvent', 'Physics', 'SetCollideWithWorld', 'stats_isBestDPS', 'EXISTING_WEAPON', 'DPS', 'canCrit', 'ghost1', 'T02_TWILIGHT', 'PlayMusic', 'JELLYFISH2', 'tilemapTiledJSON', 'Achievements', 'exports', 'NewAchievements', 'SelectedHurry', 'screenFade', 'sMist2', 'EvolveKingBible', 'targetRadii', 'slowTime', 'setMask', 'getPoints', 'MOLISANO_GIALLO', 'BULLET_2', 'ScaleModes', 'DismissDrowner', 'XLFLOWER', 'BAT4', 'ShowPickupsText', 'XLMANTIS', 'scratchPool', 'debug_ArcanaTreasure', 'PBounces', '_invul', 'onDown', 'AchievementButton', 'disableContextMenu', 'trueWidth', 'explosionStarPool', 'getPoint', 'currentPosition', 'awardGivenXTimes', 'RestoreBackupButton', 'BOSS_XLMANTIS', 'AMOUNT', 'AddRays', 'scaleFactorY', 'offsets', 'frames', 'map', 'GUNS2', 'allSprites', 'immovable', 'readFileSync', 'aimVec', 'Hyper_Box', 'isFlipping', 'LuckBonus', 'saveBGM', 'CheckAllAndDespawnIfOutside', 'Start', 'spin', 'SaveBLuck', 'PfxEmitter', 'GHOST2', 'Mazzo_BoxCallback', 'arcRadius', 'BGM_new_detune', 'EvolveFireWand', 'LifetimeCoins', 'KillCount', 'OnBulletOverlapsPickup', 'centerY', 'containmentRect_Enemies', 'setFlipX', 'getTileAtWorldXY', 'MORTACCIO', 'TATANKA', 'soundLibrary', 'RunPickups', 'DoPraise', 'FindSorceressTears', 'lastFacedDirection', 'updateTimers', 'Ghosts', 'EvolveMagicWand', 'time', 'RANDOMS', 'PfxEmitterManager', 'data', 'type', 'STREAMERSAFE_box', 'SKULLPILEPILE', 'RegrowLeft', 'tweens', 'GameObjects', 'spawnRelicAt', 'OnReroll', 'MakeWinIcons', 'GRAZIELLA', 'THORNS', 'blackFade', 'OnBulletOverlapsEnemyNoKB', 'sin', 'removeEventListener', 'StartText', 'gridBottom', 'UI_topBar', 'CANDELABRA', 'WrapInRectangle', 'ChangeRestoreButtonToConfirm', 'addWeapon', 'MIGNO1_5', 'Freeze', 'normalize', 'tileset', 'speedPerMinute', 'fancyBG', 'DisabledMiniButton', 'StartFromPostGame', 'COOLDOWN', 'SetSeen_item', 'SPACE', 'LORDO', 'GREED', 'GetRandomExistingWeapon', 'Recycle', 'Make', 'availableCards', 'OpenOptions', 'ShowHitVFXAt', 'EnableBack', 'Res1', 'group', 'backgroundOverlay', 'OnConfirmBanish', 'PAN', 'T13_WICKED', 'mouse', 'blinkTimer', 'instance', 'charName', 'Max', 'originY', 'KillsText', 'tween4', 'renderTexture', 'minute', 'BOSS_COUNT1', 'GetValidUnlockedStages', 'tilePositionX', 'Text', 'evoIconsOffset', 'stageNumber', 'SILVER', 'BlendModes', 'isBought', 'BOSS_XLSTALKER', 'SKULLINO', 'PANTHER', 'setY', 'DamageNumbersEnabled', 'RED', 'HideReviveButton', 'lastAngleIndex', 'trail_x', 'levelName', 'MakeCoffin', 'footer', 'SpawnBoss', 'STATS_TREASURE_1', 'survivedTime', 'noHurt', 'PILE4', 'whiteTween', 'Array', 'closePath', 'JustBounce', 'Return', 'currentBGMType', 'focus', 'T12_OUT_OF_TIME', 'draw', 'loop', 'GetFireWandToLevel4', 'copyFile', 'exploIndex', 'AimForRandomEnemy', 'JELLYFISH', 'elapsed', 'posY', 'star2', 'setOffset', '__0x37323', 'well', 'sBackground', 'timesFired', 'reelConfig', 'flipper', 'sqrt', 'weaponIcon', 'ghost2', 'background', 'bot', 'overlapRect', 'canToggleFullscreen', 'overlapCirc', 'EnableQS', 'Revive', 'Survive30MinutesInBoneZone', 'NDUJA', 'BOSS_MIGNO2_5_L', 'chanceForExistingPowerUp', '2594046VPhrbM', 'TUPU', 'progressBar', 'GetRandom', 'See50items', 'ResetFiringTimer', 'PIRIPIRI', 'OnPlayerOverlap', 'baseMarkup', 'HOLYBOOK', 'XLGOLEM1', 'createGeometryMask', 'SKULL2_EASY', 'FIREEXPLOSION', 'FLOWER', 'SHADE_BOMB_RED', 'pauseButton', 'calculateWeights', 'isSelfDestructionTriggered', 'PILE1', 'ResumeFromCharScene', 'REGEN', 'message', 'myMazzo', 'HideHeader', '_get', 'BOSS_XLBAT', 'WeaponStore', 'DEFAULT_SPEED', '\x20\x0a\x0a\x09\x09\x09\x09EventEn:\x20', 'arcanas_container', 'Curves', 'onCatOverlapsEnemy', 'ReducePhysics', 'setCollisionByProperty', 'addListener', 'StatsPanel', 'lifetime', 'icons_container', 'DraftArcanas', 'StarSprite', 'particlesInterval', 'BGTextureName', 'ActivateSineSpeedBonus', 'colliderOverride', 'findWeaponLevel', 'BOSS_XLARMOR', 'TriggerSwitchEvent', 'setGameSize', 'BGM_Tower', 'sStars1', 'rect', 'renameSync', 'Graphics', 'defaultSpeed', 'IdleTimer', 'WITCH1', '_dispose', 'OnEnterTween', 'Explosion', 'StartFromStageSelection', 'GetNewAchievementsEarnedOnThisRun', 'updateCursors', 'ExplodeOnPlayer', 'Language', 'Hyper_BoxCallback', 'BeginnersLuck', 'Unlockedcharacters', 'tween3', 'SKELEGLOW', 'maxDestructibles', 'StartEnableInputEvent', 'XLDRAGON3_FLAG', 'DrawSymbol', 'AddBobs', 'VACUUM', 'SHIELD', 'glow', 'scene', 'grid', 'DestroyGrid', 'CHERRY', 'CalculateXPfactor', 'alpha', 'canBounce', 'xIncrease', 'maxHistory', 'getAt', 'CoinsTickerDisplay', 'BGM_RedBlue', 'bonusCoinsText', 'prizeType', 'SONG', 'AchiAdGroup', 'Defeat3000Skeletons', 'BOSS_XLPINCER', 'layers', 'IS_TOUCH', 'BAT3', 'CheckArcanas', 'MAREMMA', 'StreamSafeEnabled', 'myTips', 'OnDestroy', 'seen', 'UpperMask', '_baseProjectileSpeed', 'PfxEmitter1', 'myDescription', 'SKULLNOAURA', 'removeAllListeners', 'Res4', 'ActivateSpeedSineBonus', 'PATROL_WITCH', 'posHistory', 'setQuantity', 'pickupPool', 'progressBox', 'ShowOKButton', 'HOLYWATER', 'Core', 'POLTER_DEST', '1170365RfPsuQ', 'FindCoffinStage1', 'cos', 'candleLights', 'Set_itemType', 'SummonDrowner', 'MEDUSA_WALL', 'pause', 'DamageAllEnemies', 'pixelHeight', 'StopReels', 'velocity', 'XLCOCKATRICE', 'depth', 'DespawnIfOutside', 'T06_SARABANDE', 'FreezeTimer', 'Arcade', 'EnemyHealth', 'TESTONE', 'UI_overlayScene', 'Survive15MinutesWithGuns', 'BanishedWeapons', 'PInterval', 'setTo', 'Guns3', 'containmentRect_Exact', 'Pfx_Coin', 'Lightning', 'Play', 'ReachLV99WithArca', 'ReachLV99WithGennaro', 'rayAngle', 'explosionPool', 'SHADEBLUE', 'AREA', 'ARMOR', 'result', 'OnSceneOver', 'Vacuum', 'NORMAL', 'MOVESPEED', 'GetPeachoneToLevel7', 'rays', 'stats_isBestRaw', 'TimeStopConfig', 'isTeleportOnCull', 'Shatter', 'configs', 'surname', 'openButton', 'LevelUpScene', 'MakeTexture_Any', 'PincersPool', 'FindARosary', 'power', 'hidden', 'randoIcon', 'stats_DPS', 'canExplode', 'rewardTitle', 'STIGRANGATTI', 'thumb', 'ShowAchievements', 'MIGNO_3_5SWARM', 'char', 'ResumeFrom_itemFound', 'setCollideWorldBounds', 'hpPerMinute', 'outline', 'MovementTween', 'minAngleRotDeg', '2568356BpCuow', 'generateFrameNames', 'Math', 'fwEmitter', 'glowTween', 'DEVIL1', 'sMist3', 'full', 'charCFF', 'light', 'FindRandomazzoT06', 'ExploGH', 'AchiAd_Text', 'TrueSpeed', 'Pick_itemLevelUps', 'set', 'FadeOutTimer', 'QuitFromPauseMenu', 'getBounds', 'duration', 'UI_charFoundScene', 'MagicMissile', '_0x2fe497', 'multiatlas', 'currentXPfactor', 'LANCET', 'MERMA2_4', 'evolvesFrom', 'GetMagicMissileToLevel7', 'LittleHit', 'UI_highlightR', 'sineSpeed', 'RedBackground', 'runSpeed', 'SaveUnlocks', 'DebugText', 'res_Rosary', 'bgtile', 'scaleAfterBounceMod', 'SKELANGUE', 'BOSS_XLFLOWER', 'FireEnemyBulletAt', 'ActiveBulletCount', 'native', 'T04_AWAKE', 'RearrangeIcons', 'showWarning', 'GiveMainArcana', 'Image', 'RefreshSize', 'touchText', 'TOWER', 'OnFireTimer', 'isPatrolling', 'RANDOMSY', 'PlayBatSwarm', 'ScrollCursor', 'addTilesetImage', 'children', 'SaveHeal', '25008190GOmooe', 'requiresMax', 'existing', 'CalculateWeightsWithExclusions', 'cameras', 'ReachLV100WithRamba', 'addEvent', 'XpRequiredToLevelUp', 'LevelWeaponUp', 'Button', 'XLDRAGON2_FLAG', 'HARPYV', 'call', 'LIZARD1_2', 'wake', 'damage', 'centerX', 'tween6', '_0x2fe496', 'complete', 'OnTeleportOnCull', 'BGDarkOverlay', 'moveTweenIndex', 'MUDMAN2', 'WEAPON', 'CalculateAndSetContainerSize', 'TurnOnVacuum', 'defineProperty', 'moreZ', 'CAT2', 'IsTimeStopped', 'DROWNER', 'Survive20MinutesWithCross', 'SelectedArcana', 'frameName', 'maxPowerUpWeapons', 'ONE', 'targetTint', 'keepMoving', 'value', 'SKELEWING_INO', 'sineCooldown', 'AddLateWeapon', 'globalScale', 'mapKey', 'SizeUp', 'LevelUpFactory', 'OnHit', 'hasBackup', 'GetWeaponLevel', 'cffName', 'myTick', 'Hit', 'frame', 'HitboxTimer', 'FixY', 'CompletedHurries', 'setOwner', 'translations', 'MenuBackground', 'shootOne', 'onEveryLevelUp', 'colorValue', 'ZDamageNumber', 'GetCurrent', 'ipcRenderer', 'Scale', 'cards', 'removeAll', 'onPlayerOverlapsEnemy', 'price', 'hyper', 'GetRandomWeightedCoin', 'AccumulatedCoinPrize', 'isUnlocked', 'BULLET_Z', 'updateTrail2', 'AddCoins', 'alertTween', 'T11_PEARLS', 'OptionsContainer', 'SelectAt', 'SelectedStage', 'OnSkip', 'onMenuOver', 'Magnet', 'totalCoins', 'BOSS_XLCOCKATRICE', 'destructibleChanceMax', 'OnSineTween', 'INVULNERABLE', 'slow', 'pluginFilter', 'OnSelfDestruct', 'SpawnInRandomLocationH', 'SoundsEnabled', 'Display', 'tickerEvent', 'CheckFirstInput', 'clear', 'RemoveSnapshot', 'Credits_FromMainMenu', 'PlayEraseEnemies', 'AccumulatedWeaponPrizes', 'rerolls', 'UpperFreeMask', 'hitsWalls', 'SILF', 'receivingDamage', 'restoreTint', 'OnRecycle', 'spawnAngle', 'debug_CharShowcase', 'myIconBG', 'StartCounter', 'UI_new_itemFoundScene', 'SetInvulForMilliSecondsNonCumulative', 'Sound', 'ApplyInitialVelocity', 'Survive15MinutesWithSong', 'BackFromCollection', '5lbiLHB', 'KillsIcon', 'BGM_GreenAcres', 'ProgressBox', 'addKey', 'OptionsFromMainMenu', 'MARIA', 'Group', 'SKELETON2', 'ROSARY', 'makeBlitters', 'prize', 'GetTargetPoint', 'OnConfirmClicked', 'coins_WeightedStore', 'BulletPool1', 'MyScale', 'mapPath', 'originPos', 'rightOffset', 'BLUR', 'NineSlice', 'hasRelicMap', 'removeCollider', 'hasHit', 'height', 'WeaponSprites', 'SetContents', 'right', 'MEDUSA2_AGGRO', 'createGravityWell', 'RecoverHp', 'XLCHIMERA', 'halfHeight', 'GiveDraftArcana', 'pizzaDelay', 'OnClick', '_0x2fe49b', 'Columns', 'test', 'filter', 'RerollButton', 'current', 'QuitText', 'GetPentagramToLevel7', 'targetZone', 'PLUSMINUS', 'ResumeFromMainArcana', 'UI_treasureScene', 'damageZone', 'alphaTween', 'Rectangle', 'push', 'delay', 'makeNewSaveFiles', 'VersionButton', 'setOrigin', 'healAmount', 'setBlendMode', 'SINKING', 'Fire', 'UI_arcanaMainScene', 'wiggleTween', 'CART2', 'growth', 'DebugScene', 'BOSS_XLDETH', 'growTween', 'BESUGO', 'GetPlusMinus', 'scaleTween', 'HiddenWeapons', 'NOSTRO', 'PlayerPxSpeed', 'imageTween2', 'Contains', 'healDelay', 'first', 'sineArea', 'GetRunetracerToLevel7', 'BOSS_XLTRITON', 'blitter', 'BGM_Forest', 'every', 'MoonBeat', '_baseEnemyHealthMultiplier', 'ReachLV100WithMortaccio', '_coinRT', 'tilingTileset', 'lang_characterData', 'BOSS_MUD', 'getLang', 'GetGarlicToLevel7', 'StartFireworks', 'PDuration', 'ForceResize', 'summon', 'DARK', 'Explode', 'TowerTop', 'Create', 'cardPadding', 'MakePrize', 'PENTA', 'hyperTips', 'PizzaLocations', 'localiseObject', 'MakePickup', 'loadNewSaves', 'enemiesDefeated', 'INDEX', 'Survive20Minutes', 'omniScene', 'startRotate', 'DeathTween', 'Gem', '_characterType', 'DULL0', 'SHADERED', 'LossSFX', 'REDUCEPHYSICS_box', 'STATS_TREASURE_2', 'explodeTimer', 'LIGHTNING', 'PENTAGRAM', 'IOLO', 'despawnTween', 'CollectionButton', 'maxSpeed', 'inputDelay', 'EnterDraftArcana', 'UI_grid', 'rainbow', 'Defeat3000Buers', 'StripEnd', 'defaultName', 'IMP_SWARM', 'ghosts', 'SFX_text', 'freshlySpawned', 'blackTween', 'AXE', 'MakeLevelOne', 'QSCounterDelay', 'MOLISANO_FAGIOLO', 'SetSurvivedSeconds', 'GoRight', 'SpecialWeapons', 'MovementTweens', 'BGM_rate', 'Vector2', 'FindMilkyWayMap', 'Coffin', 'NewSave', 'BOSS_ARMOR1', 'ApplyPlayerFacingVelocity', 'maxTreasureY', 'BackFromAchievements', 'imageBG', 'GetTaken', 'pointerdown', 'BackFrom_Credits', 'spacebar', 'runeStrips2', 'SetDepth', 'DULL1', 'faceRight', '_baseEnemySpeed', 'ReachLV99WithLama', 'GetCurrentCoins', 'T17_PAINTING', 'bgm', 'DisabledButton', 'ReachLV99WithImelda', 'ScaleTween', 'CreditsButton', 'isButtonDown', 'GetWeapon', 'getElement', '_0x2fe499', 'StartReels', '_characterToUnlock', 'ClickOut', 'Wind', 'Point', 'langDropDown', 'unshift', 'stage', 'frameNameUnlock', 'langData', 'CursorIcon', 'label', 'GetLevelUpitems', 'PlayMedusaSwarm', 'addEventListener', 'updateTick', 'T14_JEWELS', 'BAT_SWARM', 'Eraseitems', 'Piano', 'Hurry_Toggle', 'myCoins', 'bombDeceleration', 'VersionText', 'removeDebugTextOnMobile', 'moveSpeed', 'Shoot', 'make', 'COINBAG2', 'showcase', 'COIN', 'PreviousXpRequiredToLevelUp', 'NEO', 'Die', 'scaleMul', 'Medusa', 'image', 'damageKB', 'StageCompletionLog', 'startTimers', '124176ZWoVQr', 'GoUp', 'SKELETON_SWARM', 'BGM_box', 'levelReached', 'angleTime', 'BOSS_HARPY', 'escKey', 'stopUpdate', 'RefundButton', 'volume', 'tickerCounter', 'faces', 'particlesManager', 'FLASH_toggle', 'TakeSnapshot', 'BackButton', 'Pfx_CoinFront_Manager', 'WAREHOUSE', 'area', 'AchiAd_BG', 'MaxGems', 'StopRibbons', 'GetBossyPosition', 'overlap', 'slowMultiplier', 'positions', 'onMagnetOverlapsPickup', 'specialBG', 'AngleFromVelocityRadians', 'anims', 'hitBoxDelay', 'arcanaToUnlock', 'EXDASH', 'Flush', 'hasLostTreasure', 'arcanaType', 'HighlightButton', 'myHyper', 'collapse', 'Spline', 'selected', 'PATROL_SKELEWING_BIG', 'FISHMAN_1', 'hyperToUnlock', 'downY', 'AimForRandomeEnemyInRect', '_currentDirection', 'sStars2', 'BANISH', 'walkFrameRate', 'lancetPool', 'bounces', 'plusMinusIndex', 'explodeEvent', 'BATSWARM', 'rightEvent', 'BOSS_WEREWOLF', 'CardsBackground', 'Nuke', 'progressHeight', 'faceLeft', 'GetHolyWaterToLevel4', 'Song', 'HideTween', 'RefundText', 'scaleY', 'wallsColliders', 'stringify', 'AchiButton', 'open', 'AddTitleBackground', 'targetPoints', 'achievementTips', 'EVOLUTION', 'Circle', 'SILF2', 'MOLISANO_COLONNA', 'GoLeft', 'SaveBought', 'drawFrame', 'QS_SFX', 'copy', 'maxCharges', 'containmentRect_Bullets', 'isGrounded', 'POPPEA', 'timeDown', 'Pfx_Coin_Manager', 'groundFxAlpha', 'OkButton', '_lang', 'lineStyle', 'level', 'HasRerolls', 'Survive10Minutes', 'FIT', 'ApplyGameResolution', 'BOSS_MIGNO2_5', 'See60items', 'save_vel_x', 'find', 'QScoinsCounterTween', 'JELLY_SWARM', 'playEvents', 'recurringEvent', 'pointer1', 'blitterBG', 'MinY', 'setTexture', 'JoystickVisible', 'HideQuitButton', 'totalTime', 'then', 'MusicVolume', 'LATODILATO', 'PositionTween', 'once', 'isRelic', 'OnDeathEnd', 'leftPincer', 'ResumeFromTimeStop', 'currentBGMObj', 'SwarmCheck', 'pxUnit', 'cache', 'PixelScale', 'iconObject', 'RemoveHiddenWeapon', 'detune', 'ZOMBIE', 'setX', 'RestoreBackupText', 'AVATAR', 'stats_getDPS', 'StartFromCharSelection', 'source', 'fillRect', 'myButton1', 'cardWidth', 'FollowConfig_Reel_Standard1', 'OnDeathAnimationComplete', 'sMount2', 'isFresh', 'ShowPickupsButton', 'Eat5PotRoast', 'Boughtcharacters', 'remove', 'Spin', 'PickupCount', 'update', '_baseGoldMultiplier', 'hasSpawnedGuards', 'count', 'setScrollFactor', 'myOverlay', 'text', 'findIndex', 'dayNight', 'beginPath', 'exWeapons', 'StopSound', 'DrownerSummoned', 'error', 'prizeEnum', 'Game', 'INDEXY', 'activated', 'Save', 'checkDown', '_sound', 'SpinSeal', 'CATE', 'canSeeReviveButton', 'EvolveGarlic', 'shatter', 'EvolveCross', 'OptionsButton', 'walked', 'BOSS_XLGOLEM2', 'moveTween', 'relicToUnlock', 'imageScale', 'Remove', 'Reveal', 'DegToRad', 'XLDRAGON2', 'LOOP', 'AttachTreasure', 'dataType', 'critChance', 'Pfx_Coin_Manager2', 'obtainedGold', 'timeMods', 'ResumeFromTreasureScene', 'Distance', 'gameRight', 'PlaySwarm', 'PlayStalker', 'pool', 'SwapToLevelUpScene', 'screenSprite', 'SpawnCartInRandomLocation', 'AdjustPosition', 'UnlockedPowerUpRanks', 'FLOWER_WALL', 'MoonFinisher', 'ResumeFromDebug', 'graphics_Good', 'YOLO', 'CAT3', 'StartPrizes', 'enableInput', 'MakeRibbons', 'target', 'AchievementsFromMainMenu', 'runeStrips', 'passThroughWalls', '_0x2fe49c', 'getSaveDataPath', 'GetHolyBookToLevel4', 'PILE3', 'blockFire', 'disablePanelsInput', 'SKELENIN2', '_spawnOneOutOfSight', 'BULLET_W', 'ResolutionButton', 'FireOneBullet', 'myType', 'ClickIn', 'TextureNames', 'rectInner', 'Highlighted', 'repeatInterval', 'myPrice', 'EvolveKnife', 'SKELESTREAM', 'RunEnemies', 'PostGameScene', 'setBounce', 'ExitLevelUpScene', 'LoadUnlocks', 'blendMode', 'WeaponsPanel', 'loadJsonBackup', 'BGMan', 'scufflePool', 'debug_SpawnEnemies', 'banish', 'ARCA', 'cardOffset', '\x20\x0a\x09\x09\x09\x0a\x09\x09\x09\x09Bullets:\x20', 'shootStarAt', 'sHills', 'MAX_SAFE_INTEGER', 'ShowDamageAt', 'killedAmount', 'upY', '_0x2fe49a', 'bgHeight', 'minimumMultiplier', 'fillStyle', 'clearTint', 'dontSpawnIfAbove', 'NEGATIVE_INFINITY', 'offsetY', 'size', 'Banish', 'RELIC', 'style', 'hasSkipped', 'POLTER_ROULETTE', 'mistery', 'COFFIN', 'stopByKey', 'whiteDot', 'SpawnDestructibleOutOfSight', 'OnExitScene', 'getChildren', 'SarabandeWeapon', 'OnButtonClicked', 'arcAngle', 'setBoundsRectangle', 'SKELEWING', 'MILK', 'backFlipTween', 'exLevels', 'sineF', 'OptionsText', 'isTakingSnapshot', 'hasOwnProperty', 'ShowRecoveryAt', 'bosses', '_0x2fe49e', 'EnterPause', 'SKELEPANTHER', 'AddSpriteFollower', 'leftStick', 'bonusCoinsIcon', 'HasSkips', 'debug_CharCoffin', 'get', 'raysTween', 'isDead', 'tilePositionY', 'GEM', 'isEvolution', 'createHash', 'TimeStopTimer', 'setInteractive', 'OnHasHitWall', 'PickWeapon', 'Lang', 'sPeaks', 'SkipText', 'Selected_character', 'fadeOutTweeen', 'CancelText', 'Scene', 'angle', 'minimum', 'AchiAd_Sub', 'PILE_ASSAULT', 'correctScrollableContainerPosition', 'BOSS_XLCHIMERA', 'RadToDeg', 'DAMAGE_toggle', 'CAVALLO', 'spriteName', 'ECTO1', 'DrownerWarning', 'OnCancelCallback', 'BGM_new_rate', 'BONE', 'background2', 'IsInitialised', 'Player', 'CyclePrizes', 'BGM_Library', 'buttons', 'OnEnterAnimation', 'ScrollBy', 'EnterDebug', 'ScreenRectangle', 'onFocus', 'CollectionFromMainMenu', 'copyPosition', 'TreasureQueue', 'GOLEM1', 'getTilesWithin', 'getHistoryIndex', 'splice', 'playReveal', 'AddInfoPanel', 'RerollRemaining', 'replace', 'audio', 'length', 'DETH', 'FLASH_text', 'frameWalk', 'inner', 'Between', 'stats_inflictedDamage', 'SceneContainer', 'MakeExplosion', 'ValidateSkipsAndRerolls', 'arcanaPools', 'entryTween', 'pick', 'GetPositionForEnemyOutOfSight', 'spritte', 'achieved', 'ribbons2', 'onBlur', 'InitGame', 'ShootStars', 'CAT5', 'destructiblesPools', 'indexInWeapon', 'screenYcoordToPositionScrollableContainer', 'boundf', 'PickupGroup', 'onRight', 'isRare', 'setAngle', 'StartingSpawns', 'fillScale', 'unlocksAt', 'MEDUSA2', 'cardHeight', 'BGM_GameOver', 'GUNS', 'CheckMinute', 'AddHeader', 'SurvivedSeconds', 'CurrentFoundRelic', 'chance', 'isShowingStats', 'options', 'LAMA', 'Guns2', 'ReachLV99WithPoppea', 'SaveCoins', 'sprite1', 'PILE4_SCALED', 'SKELEWING_ZONE', 'Arcanas', 'GetPermanentEnemiesNumber', 'removeFromDisplayList', 'deathKB', '_spawnOneInRandomLocationVertical', 'howMany', 'isStatic', 'setDraggable', 'getMaxTextObjectSize', 'Add', 'critChancesArray', 'PRISM', 'FoundWeaponQueue', 'BanishButton', 'BOSS_MEDUSA1', 'onMenuClick', 'MakeRibbonsLevel3', '_spawnOneInRandomLocationHorizontal', 'T16_SLASH', 'uiTexture', '427fXgrSN', 'done', 'trail', 'treasure', 'CleanUp', 'actualFps', 'alphaMod', 'FindAStoneMask', 'Assign_item', 'MinAmountOfPowerUps', 'HasBanish', 'IsSlow', 'RecalculateLoot', 'restart', 'XLMEDUSA', 'SpawnAt', 'PullExistingRemainingWeapon', 'objects', 'isStartingGameMode', 'MakeCoinsEmitter', 'sound', 'RerollText', 'Treasure2', 'DYNAMIC_BODY', 'GetRandomWeightedWeapon', 'setActive', 'ECTO_SWARM', 'groundSeal', 'fillCircleShape', 'penetrating', 'MainUI', 'chickens', 'SetupTreasureLevel1', 'FIRE', 'HideReels', 'tileSprite', 'DURATION', 'Res2', 'BoughtPowerups', 'pad1', 'lineTo', 'WEREWOLF', 'BlitterBounce', 'curse', 'OnStart', 'CheckButtonPad', 'AreaRectangles', 'distance', 'skips', 'AltKey', 'add', 'sForest', 'Enable_itemPanelsInput', 'PORTA', 'CANTERVILLO', 'MUDMAN1', 'langNameList', 'leftEvent', 'UI_relicFoundScene', 'BGMask', 'langAchievementData', 'sign', 'DisablePanelsInput', 'PlayMedusaWall', '_set', 'isDown', 'reel', 'RPixelScale', 'list', 'bounds', 'damageZoneDefaultRadius', 'SelectedMazzo', 'RestoreAchievementUnlocks', 'angleHistory', 'makeAngelVFX', 'setVisible', 'ResumeFromRelicFound', 'MERMA1_3', 'perc', 'ticks', 'explosionDamage', 'GATTI_SCRATCH', 'description', 'isPlaying', 'myWeaponIcon', 'Draw', 'moreY', 'StartCharScene', 'SetForNearestEnemy', 'MARIANNA', 'appo', 'HighlightedPanel', 'GetLightningRingToLevel4', 'BOSS_XLARMOR2', 'floor', 'emitterOffset', 'setWordWrapWidth', 'Coin', 'setText', 'PSpeed', 'ExplodeAt', 'isAltDown', 'game', 'DisableButtons', 'PATROL_SKELEWING', 'PUSH', 'Events', 'rightPincer', 'damageNumberPool', 'flipY', 'StartRibbons2', 'setTimeScale', 'invul', 'myBuy', 'digest', 'OnBanish', 'Color', 'MoveCounter', 'T07_IRON_BLUE', 'upX', 'STEP4', 'atlas', 'EnemyHealthMultiplier', '4776JdLjZK', 'lastFiringInterval', 'THOUSAND', 'Regenerate', 'SingleWarning', 'fpsText', 'Background', 'renderer', 'OmniScene', 'DeSpawn', 'flowerSprite', 'unlocked', 'BOSS_ECTO', 'GetLevelUpPowerups', 'summonDelay', 'sort', 'ceil', 'Treasure1', 'pools', 'EnterLevelUp', 'myLevelsChecks', 'Break', 'PlayJellyfish', 'follower', 'FireOneLancet', 'regen', 'VESPERS', 'PowerUpFromMainMenu', 'OptionsMiniButton', 'BOSS_PANTHER', 'main', 'RELIC_MAP', 'targetAngles', 'DisableInput', 'WHIP', 'PentagramSFX', 'FIXED', 'STEP1', 'setManualValue', 'spawnQuantity', 'FixedDirection', 'MakeButton', 'SkipAnimation', 'ODDEEO', 'cooldown', 'scaleGroundTweeen', 'StandardCritical', 'MakeCustomLootTable', 'world', 'percentage', 'ClearTimeStop', 'rightButtonDown', 'debug_NextMinute', 'toFixed', 'destructibleFreq', 'GoBackwards', 'mySprites', 'DRAGON_SWARM', 'sine', 'closest', 'MakeTreasure', 'DisableOptions', 'EvolveSongOfMana', 'UI_levelUpScene', 'onerror', 'ReviveText', 'rexShatterImage', 'MIGNO3_5', 'Deselect', 'currentGameObject', 'random', 'SwapToCharFoundScene', 'startFollow', 'FadeMusic', 'STALKER', 'UpdateOptionLang', 'damageZone2', 'gemsPool', 'ChestFront', 'enableDoneButton', 'SetInvulForMilliSeconds', 'Holywater', 'LITTLEHEART', 'weapons', 'zoom', 'PowerupText', 'randomMinutes', 'collider', 'ANTONIO', 'canHeal', 'Value', 'objectsHit', 'SetWeaponType', 'Shot', 'ADD', 'removeListener', 'trueWeapon', 'color', 'cameraFilter', 'onCloseDropDown', 'PlaySkullSwarm', 'sFog', 'BULLET_1', 'Mazzo_Box', 'display', 'evoSprites', 'isSpecialOnly', 'pfxEmitter', 'pincerRespawnDelayR', 'GetStatDisplayTextValue', 'GetStopDelays', 'setData', 'MoonDamage', 'alert', 'setLangCode', 'FindCoffinStage2', 'OnDismissDrowner', 'FILLER', 'Rows', 'EvolveLightning', 'RelicQueue', 'PlayDragonStream', 'SKELETON', 'sprite2', 'circleArea', 'heightAlpha', 'bossPools', 'RemovedWeapons', 'Approach', 'Hurry_BoxCallback', 'ROCHEREXP', 'RotateAroundDistance', 'openText', 'downX', 'ColorSprite', 'PfxEmitter2', 'StartCoinsEmitters', 'dot', 'levelUpOptions', 'LittleHeart', 'destroy', 'log', 'ApplyMenuResolution', 'sfxIndex', 'CLOVER', 'PlayerUI', 'wKey', 'Input', 'sleep', 'tips', 'speed', 'LifetimeHeal', 'setStrokeStyle', 'setTint', 'spawnType', 'width', 'pincerRespawnDelayL', 'stored', 'STEP2', 'AddCoinsNoRun', 'soundArray', 'PfxEmitter_Pickups', 'plsNoHurt', 'ribbons', 'addAt', 'unlockedRank', 'toLocaleString', 'CurrentTreasureTypes', 'JOYSTICK_toggle', 'BONEZONE', 'RandomText', 'XLDRAGON1_FLAG', 'ARCANA', 'OkText', 'next', 'critMul', 'pizzaIntervalInMilliSeconds', 'ZInGameUI', 'stageName', 'ReachLV99WithKroci', 'maxPositions', 'EnableOptionButtons', 'FreezeSnapshot', 'Random', 'location', 'startingSpawns', 'ESC', 'GameOverScene', 'PlayCircle', 'SkipRemaining', 'WITCH2', 'each', 'Earn5000CoinsInASingleRun', 'UnlockedWeapons', 'StartRibbons', 'Pfx_CoinFront', 'send', 'myLevelsBG', 'MaxDestructibles', 'setPos', 'VAMPIRICA', 'disableInput', 'INPUT_cursors', 'finalScaleGroundTween', 'left', 'canScroll', '__esModule', 'setFrame', 'sliderMaxX', 'round', 'GHOST_SWARM', 'GetPickup', '_spawnOneInOuterRect', 'MUMMY', '_defaultSpeed', 'MakeChanceArray', 'SKELETON3', 'achievements', 'mkdirSync', 'CurrentFound_item', 'getPointAt', 'ActiveArcanas', 'Survive5MinutesWithKnife', 'ASSUNTA', 'play', 'STREAMERSAFE_text', 'ApplyBoughtPowerup', 'secondSet', 'SelectionHighlight', 'langCodeList', 'VOID', 'counterRing', 'FollowConfig_Reel_Standard2', 'TweenAngles', 'patrolDuration', 'TriggerCharScene', 'ROAST', 'DestroyUIGrid', 'GreenButton', 'RotateTween', 'GoDown', 'BackwardTween', 'maxHp', 'cff', 'LIZARD2_3', '\x20yy:', 'langWeaponData', 'HandleInput', 'maxTreasureLuck', 'trailAlpha', 'DramaSprite', 'Whip', 'GENERIC_SWARM', 'SKELENIN_ZONE', 'bonusBounces', 'FindCoffinStage3', 'default', 'dayCycleDuration', 'toStringTag', 'safeXY', 'accel', 'ARMOR_6', 'PickupsWithArrows', 'OnUndieComplete', 'DAMAGE_text', 'fixedPrizes', 'AssignData', 'flipTween', 'MapPanel', 'scrollTopY', 'Update', 'BOSS_COUNT2', 'Whistle', 'SaveOptions', 'MOLISANO_SECCO', 'GIOVANNA', 'graphics_Bad', 'PEPPINO', 'SpawnEnemiesInOuterRect', 'updateEnemyPools', 'isPowerUp', 'legacyBGM', 'WeaponIcons', 'AccelTween', 'POLTER', 'RosaryDamage', 'maxBounceAreaMod', 'Defeat5000Enemies', 'CASTLE', 'impactSprite', 'OnDestroyed', 'setScaleY', 'SHOWCASE', 'SelectGameObject', 'BitmapText', 'BottomRight', 'FireExplosionWeapon', 'ToggleScrolling', 'GetRandomArcanaName', 'blockInput', 'hasAttachedTreasure', 'LaunchUIOverlay', 'destroyedAmount', 'BGM_Mana', 'Geom', 'isCullable', 'FindAVacuum', 'tween', 'resume', 'MAXHEALTH', 'BOSS_XLDRAGON2', 'FadeOut', 'fillCircle', 'GetRadius', 'AddCursor', 'setVelocity', 'makeSparks', 'hasLights', 'indexOf', 'PullEvolution', 'Survive20MinutesWithCurse', 'debugText', 'idleFrameCount', '_0x2fe498', 'AsyncLoad', 'BGM_ignoreModsForNewSoundtrack', 'recoveredHP', 'BackText', 'isOpen', 'hitFrameName', 'armor', 'BounceTimer', 'isWeapon', 'Collecteditems', 'OnRandomClicked', 'SFX_box', 'BUER', 'openLangDropDown', 'XLTRITON', 'MAGIC_MISSILE', 'GREENACRES', 'physics', 'MakeUIGrid', 'goToPlayer', 'CurrentBGM', 'hasP', 'checksum', 'powerupType', 'RND', '\x20\x0a\x0a\x09\x09\x09\x09', 'Invalid\x20UI\x20slot:\x20', 'onCaneOverlapsEnemy', 'runeSpline', 'spawn_itemAt', 'clearPositions', 'COINBAGMAX', 'sliderMinX', 'Defeat100KEnemies', 'LoadCollection', 'gridScene', 'CollectedWeapons', 'Have6DifferentWeapons', 'enabled', 'grav', 'shields', 'setDirty', 'MEDUSA_SWARM', 'EXISTING_ANY', 'EffectiveSpawnFrequency', 'rarity', 'floatTween', 'AngleTween', 'LATODISOPRO', 'SelectedHyper', 'bounceAreaMod', 'onWorldBounds', 'MakeGem', 'panelHeight', 'AddExplosions', 'setBackgroundColor', 'Alert', 'RIGHT', 'BackFromCharSelectionScene', 'pickups_container', 'texture', 'Enter_itemFound', 'reverse', 'debugEnemies', 'BOSS_XLGOLEM2_29', 'highlight', 'container', 'ExpireTimer', 'PEPPE', 'gameLeft', 'GetSfx', 'VORTEX', 'bouncePositions', 'bounce', 'SetNesting', 'PizzaCircles', 'ResolutionText', 'innerWidth', 'CURSE', 'Sprite', 'rings', 'toString', 'Line', 'gravity', 'XLDRAGON1', 'powerup_container', 'reduce', 'MoveToNextScene', 'PlayerLevelText', 'OnTickerEvent', 'setKey', 'KNIFE', 'IMELDA', 'FlashScreen', 'GUNS3', 'REVIVAL', 'BuildStats', 'pickedupAmount', 'ActivateDurationSineBonus', 'bubbles', 'infoPanel', 'enterKey', 'LevelUp', 'JELLY_WALL', 'isKilled', 'targetZone2', 'ARMORSPEAR_6', 'Hide', '_0x2fe49d', 'exportGameData', 'UpdateMusicVolume', 'RemoveWeapon', 'GetDamaged', 'CROSS', 'fireDelay', 'PAmount', 'GROWTH', 'onBulletOverlapsDestuctible', 'XLGOLEM2', 'PlayerOptions', 'CoinsIcon', 'T18_ILLUSIONS', 'SpawnInRandomLocationV', 'previousXPfactor', 'CollisionLayers', 'load', 'bullet', 'guards', 'BOSS_XLMUMMY', 'hpBarBG', 'regenTimer', 'blackBg', 'ResumeButton', 'AssignStage', 'LayerUp', 'CurrentTreasureLevel', 'MakeRectangleMask', 'title', 'moreX', 'highlightCursor', 'platform', 'flowerNames', 'firingTimer', 'resultIndex', 'preload', 'physicsType', 'pickedWeapons', 'spaceKey', 'GetSpecialWeapon', 'SpeedTween', 'See70items', 'XLMUMMY', 'ReachLV10', 'UI_selected', 'prefix', 'lastArea', 'dismissed', 'MAGNET', 'MakePrizePairFromAvailablePowerUps', 'EnterMainArcana', 'UI_mainMenu', 'onBulletOverlapsWall', 'CheatCodeUsed', 'res_Debuffs', 'PArea', 'customAngle', 'initialVelocity', 'EnablePanelsInput', 'writeFileSync', 'onLeft', 'PlaySound', 'recoveredCalculated', 'CurrentFixedTreasures', 'PUGNALA', 'previousArea', 'Unlock2Hypers', 'sMount1', 'strokePath', 'AddHeal', 'CollectionWeaponScene', 'BAT6', 'points', 'DRAGONSTREAM', 'T01_AQUARIUS', 'AssignWeapon', 'Pick_item', 'PlayerCoinsText', 'debug_Treasure', '_characterName', 'StartFromMainMenu', 'HORIZONTAL', 'apply', 'playGhosts', 'SceneManager', 'RELIC_TEAR', 'F11', 'weaponToUnlock', 'emitParticleAt', 'OnCancelPressed', 'enterPause', 'walkingFrames', 'trail_y', 'EnableOptions', 'historyIndex', 'gamepad', 'stopFollow', 'circle', 'langCode', 'setEmitZone', 'Delay', 'Location', '_speed', 'QScoinsEmitterTimer', 'prizeIcons', 'Pfx_CoinFront_Manager2', 'weapon', 'sMist1', 'canvas', 'BulletGroup', 'BRAZIER', 'removeEvent', 'ChanceForExistingPowerUp', 'myName', 'AimForNearestEnemy', 'PreloadScene', 'TurnTowards', 'StopCamera', 'getAll', 'GetRandomWeightedWeaponOrPowerup', 'PowerupButton', 'enemies', 'EvolveGuns', 'OnFirstInput', 'CalculateEnemySpeed', 'flipX', 'updateTrail', 'PAESANO', 'isReadyToStart', 'cIndex', 'divider', 'owner', 'myCheckbox', 'EvolveAxe', 'QuitButton', 'SetupTreasureLevel2', 'MakeStagePickup', 'MakeDestructible', 'moveTo', 'CancelButton', 'EraseEnemies', 'FindAClover', 'Brakes', 'icons_container_defaultY', '\x20w:', 'QSEvent', 'timeOffset', 'callback', 'ShowScrollbar', 'PATROL_ARMOR_6', 'AssignPlayer', 'AchievementText', 'coins_accumulatedWeight', 'NUMPAD_SUBTRACT', 'Survive15MinutesInMolise', 'randomIndex', 'setBounds', 'CoinsText', 'Spawn', 'intervalDependsOnDuration', 'CART', 'GARLIC', 'AddBackParticles', 'SoundsVolume', 'minTreasureY', 'QSSeekTrack', 'Assign_character', 'PATROL_XLARMOR_SWORD', 'shuffle', 'TurnToStart', 'isPointWithinCollisionLayer', 'index', 'DayColor', 'dropDownMenu', 'UpdatePlayerLevel', 'existsSync', 'Accumulated_itemPrizes', 'tween2', 'defaultXPfactor', 'mods', 'TurnToSelection', 'setPosition', 'damageDelay', 'AddWeaponIcon', 'detunes', 'WarningSprite', 'Show', 'DefeatBossPlant', 'StagePickups', 'CartLocations', 'Open', 'PullRemainingPowerUp', 'SelfDestruct', 'Destructibles', 'ToggleHighlight', 'Lid', 'CritMul', 'f11key', 'langPowerupData', 'Treasure3', 'opened', 'TriggerFire', 'SFXARRAY', 'ERASE_ENEMIES', 'medusaElapsed', 'onCatOverlapsPlayer', 'BGM_text', 'sFlash', 'BAT5', 'OnPickupCallback', 'DefeatBossTower', 'DULL2', 'invulTime', 'yOffset', 'ReachLV5', 'LATOEVEST', 'rexUI', 'versionText', 'hpBarHeight', 'events', 'MARIASOFIA', 'textureName', '_events', 'ResumeFromFreeze', 'SpawnPickupParticlesAt', 'EvolveRunetracer', 'permaTween', 'secondMoveTween', 'BOSS_XLDROWNER', 'sendSync', 'ExitButton', 'exploTween', 'STATS_TREASURE_3', 'LIGHT', 'myDesc', 'amount', 'StopMusic', 'ReachLV20InMadForest', 'HARPY', 'nameTextObject', 'Cursor', 'guardRadius', 'Pfx_Coin2', 'Unlock3Hypers', 'Coins', 'Fireloop', 'ParseLevelUpInfo', 'Pfx_CoinFront2', 'BOSS_XLLEDA', 'AddBlackFader', '\x0a\x09\x09\x09\x09Enemies:\x20', 'MOLISANO_GROSSO', 'MEDUSA2_FAST', 'SetTarget', 'ExploGH2', 'LootManager', 'isBroken', 'setDepth', 'Chest', 'input', 'TILED', 'alertSprite', 'resetBonuses', 'OwO', 'angles', 'EnemySpanwersLocations', 'InitData', 'LUCK', 'GENNARO', 'playerUI_levelUp', 'isShowingAchievements', 'ReviveButton', 'destructibleType', 'maxAngles', 'SKELETONE', 'UnlockedArcanas', 'isPlayerBelow', 'pfxEmitter2', 'PizzaTimer', 'MIGHT', 'CharQueue', 'FIREBALL', 'BackFromStageSelectionScene', 'arcanaTreasure', 'isLink', 'CheckPizzas', 'UI_creditsScene', 'SMITH', 'lang_itemData', 'originX', 'XLARMOR2', 'DestructibleLocations', 'EvolveSantaWater', 'BRAZIER2', 'closeLangDropDown', '9995922bHVuyJ', 'pixelWidth', 'RemoveFromStore', 'onMenuOut', 'UpdateBlitter', 'MOLISANO_BASE', 'HasPowerupsInStore', 'HPxLevel', 'trueHeight', 'charges', 'Defeat3000Milk', 'RotateVectorByDegrees', 'T09_DIVINE', 'HOLY_MISSILE', 'stageEventManager', 'Hyper_Toggle', 'entries', 'maxAngleRotDeg', 'HEAVENSWORD', 'MainScene', 'bonusCoinsAmount', 'WeaponFactory', 'res_Freeze', 'velocityFromRotation', 'PASQUALINA', 'layerContainers', 'BanishRemaining', 'T00_KILLER', '_empty', 'bulletAllowance', 'GERMANA', 'blackParticles', 'BOSS_XLARMOR1', 'sprites', 'setAlpha', 'ChooseTarget', 'JOYSTICK_box', '_lastVelocity', 'startingWeapon', 'PowerUpIcons', 'onEmitcustomAngle', 'TREASURE', 'webpackChunkVampireSurvivors', 'inputDelayPad', 'hpBarOffset', 'Utils', 'DEVIL3', 'cfgIndex', 'StartPosition', 'UniteBirds', 'setScale', 'dumpJoyStickState', 'ShowTween', 'join', 'SIRE', 'hasWitchTear', 'AddBackground', 'dropDownButton', 'Bounce', 'Angel', 'onHPRecoveryCallback', 'ShowSeal', 'SpawnDestructibleInRandomLocation', 'SelfDestructTimer', 'outer', 'T21_BLOODY', 'CRISTINA', 'OnDeath', 'header', 'DefeatBossLibrary', '_coinSprites', 'stats_lifetime', 'ECTO2', 'createTextObject', 'xx:', 'center', 'CollectionText', 'UI_arcanaDraftScene', 'Weapons', 'rectangle', 'FormatTime', 'OnBulletOverlapsBullet', 'ShowDPSStats', 'rayDuration', 'GetPositionOutOfSight', 'isGoingRight', 'fwEmitter2', 'MakeTextureNamesFromPrizes', 'TriggerArcana', 'arcanaHolder', 'frequency', 'weight', 'critIndex', 'EvolveWhip', 'keyboard', 'AsyncSave', 'keys', 'DestructibleTimer', 'tiledPositions', 'GroundWarning', 'OnBounce', 'revivals', 'PullExisting', 'GHOSTSWARM', 'enemyType', 'XLGOLEM4', 'UpdateCoins', '\x20\x0a\x0a\x09\x09\x09\x09Pickups:\x20', 'sineMight', 'RedWarning', 'save_vel_y', 'between', 'base', 'foundData', 'myInteractable', 'firetime', 'SPEED', 'Unlock3Hypers_Correct', 'OnLevelUpSkipped', 'EnemySpeed', 'imageTween', 'bgWidth', 'LAUREL', 'particles', 'MEDUSA1_FAST', 'CurrentAmountOfPanels', 'UI_highlightL', 'cursors', 'POWERUP', 'powerType', 'ResumeFromDraftArcana', 'flagName', 'shadowTween', 'GetValidUnlockedHypers', 'PINEYE', 'stagger', 'CharMarkup', 'isInitialized', 'LoadOptions', 'powerUpToUnlock', 'explosionRadius', 'SpaceKey', 'BlitterOneBusy', 'CoinsBG', 'OnPowerUpBought', 'UpdateKills', 'MOLISE', 'textures', 'removeKey', 'ResumeFromLevelUp', 'XLGOLEM3', 'spawned', 'isDespawning', 'previousDistance', 'PlaySkullPilePile', 'BOSS_BUER', 'angleUnit', 'BGFader', 'hitSprite', 'MakeReels', 'PickRandomLevelUps', 'KeyCodes', 'DayNightHue', 'shape1', 'leftOffset', 'OnSelectionChange', 'parent', 'StartButton', 'displayHeight', 'PlayFlash', 'despawnTimer', 'Rosary', 'SKELENIN1', 'ALT', 'OnPanelClicked', 'Rope', 'ChangeBGMRate', 'setChar', 'Apply', 'pop', 'LIBRARY', 'FindAnOrologion', 'deltaTime', 'sineDuration', 'bulletType', 'HELLFIRE', 'PowerUpScene', 'end', 'HideSeal', 'mask', 'LifetimeSurvived', 'AimRandom', 'onEmitcustomTint', 'myIcon', 'ClearData', 'setFixedSize', 'MUD', 'MOLISANO_VECCHIO', 'enable', 'OnCardClicked', 'MulSpeed', '\x20y:', 'APPDATA', 'onExpireAlphaTween', 'OnIntroEnded', 'DAMAGE_box', 'CAT1', 'arc', 'setTintFill', 'resetPoints', 'timeScale', 'interval', 'name', 'maxKnockback', 'T05_CRASH', 'pizzaEvents', 'LootTable', 'createCombo', 'BEAM', 'MakeUIGridBanish', 'OnLifetimeTween', 'musicLibrary', 'CharSprite', 'RunTimeHue', 'GATTI', 'Stage', 'OnCancelBanish', 'JOYSTICK_text', 'SetSize', 'HasAlreadyHitObject', 'On_itemButtonClicked', 'lastShotTimer', 'dataKey', 'WeightedStore', 'GetRemainingWeaponsAndPowerUps', 'XLBAT', 'timerEvent', 'position', 'stop', 'MOLISANO_ROSSO', 'Container', 'GHOST', 'rotate_point', 'json', 'PlaySkeleStream', 'ringSPrite', 'Stop', 'trailUpdate', 'MOLISANO_ANFORA', 'PauseScene', 'luck', 'onExpireTimer', 'HasRandomazzoEnabled', 'ReachLV60InDairyPlant', 'lasRadiusIndex', 'vacuumTween', 'items', 'langStageData', 'SpawnArcanaHolder', 'debug_destructibles', 'abs', 'achievementsPopup', 'BanishText', 'AddAllRings', 'RELIC_RANDOMAZZO', 'emitParticle', 'STREAMERSAFE_toggle', 'GoldMultiplier', 'MEDUSA1', 'instances', 'PANINI', 'halfWidth', 'prizeTypes', 'delayBasedOnDuration', 'scaleX', 'completedStages', 'AddAllMajorArcanas', 'FLASH_box', '_core', 'Actions', 'StageSelectionScene', 'top', 'BOSS_XLMEDUSA', 'SetupTreasureLevel3', 'PlayPileAssault', 'shapes', 'REDUCEPHYSICS_text', 'ChangeFrame', 'cols', 'RefreshPanels', 'SHOOTING_STAR', 'WorldBoxCollider', 'getDetune', 'task', 'AddChildren', 'SurvivedSecondsText', 'OnPlayerQuit', 'exploding', 'CollectionAchievementsScene', 'EraseRandomEnemy', 'PfxEmitterExplosionManager', 'enablePanelsInput', 'setSpeed', 'POLTER_SWARM', 'ExitOptions', 'MakeUIGrid_Options', 'parseInt', 'removeInteractive', 'RANDOM', 'enemyIndex', 'SaveGameResults', 'launch', 'wasDown', 'dKey', 'PostGameFromGameOver', 'contains', 'Mazzo_Toggle', 'SwapTo_itemFoundScene', 'PILE2', 'pointer', 'DUMMY_LIGHTSOURCE', 'LoadNewSaveFiles', 'withinBounds', 'Hurry_Box', 'explosionCircle', 'CharSelectionScene', 'BGM_Library_Legacy', 'CheckOnAllWeapons', 'GOLD', 'BOSS_GALLO', 'Keyboard', 'valueTextObject', 'spotlight', 'MakeMasks', 'Carrello', 'wrap', 'exitTween', 'DOMMARIO', 'onOpenDropDown', 'visible', 'panel', 'AngleFromTargetRadians', 'DestroyedCount', 'containmentRect_Screen', 'parse', 'debugSprites', 'DefeatBossMadForest', 'Scrollbar', 'destructibleChance', 'isGLTexture', 'BOSS_MERMAN', 'StartTreasureScene', 'innerHeight', 'JELLYFISH2_SWARM', 'DEFAULT', 'BOSS_SKULL2', 'frameNames', 'oncontextmenu', 'altKey', 'charactersprite', 'previousGameObject', 'hitVFX', 'shieldInvulTime', 'Destroy20Candles', 'SelectionHighlightBG', 'down', 'targets', 'magnet', 'XLSKELETON', 'dataMaxHp', 'displayWidth', 'myEvolve', 'glTexture', 'SetValue', 'onBulletOverlapsEnemy', 'myNextLevel', 'max', 'debugTime', 'forEach', 'BGM_Gatti', 'DisableBack', 'summonTween', 'MakeTexture_PowerUps', 'reload', 'padStart', 'maps', 'ShowPickups', 'EnableInput', 'Init', 'accumulatedWeight', 'IMP', 'maxTrueWeapons', 'DEATH', 'stageType', 'MakeUIGrid_ScrollView', 'T19_FIRE', 'EnemyGroup', 'prizes', 'currentVolume', 'BORA', 'hasThorns', 'hasSecondSet', 'snapshot', 'connected', 'CreditsText', 'substring', 'lancet', 'Survive5MinutesWithDiamond', 'hasSpawned', 'PanelBackground', 'CANDLE', 'setFlipY', 'landingLocation', 'SKELETON4', 'BOSS_PILE3', 'SKULL2_SWARM', 'RegrowRight', 'playPizzaEvents', 'removeFromUpdateList', 'NONE', 'DIAMOND', 'BGM_Plant', 'saveTexture', 'ReadPlayerOptions', 'MakeTexture_ExistingWeapons', 'setIntensity', 'addEvolvedWeapon', 'EnemySpeedMultiplier', 'aKey', 'radius', 'FireExplosion', 'CoinIcon', 'VERTICAL', 'SpawnEnemiesTiled', 'env', 'ToggleHyperInUIGrid', 'maximum', 'PPower', 'ToggleCursorsVisibility', 'isFullScreen', 'MoonStarter', 'TimeStop', 'RunCoins', 'LerpColor', 'OnGetDamaged', 'fwEmitters', 'repeat', 'CurrentFoundChar', 'UnlockAchievement', 'Res3', 'furthest', 'myHurry', 'ProjectileSpeed', 'OnHasHitAnObject', 'CONCETTA', 'T10_BEGINNING', 'ToggleFullScreen', 'Roast', 'SpawnTimer', 'COINBAG1', '_itemType', 'T20_SINKING', 'OnDoneClicked', 'startingAngle', 'SwapToRelicFoundScene', 'UI_resolutionScene', 'plugins', 'FlashingVFXEnabled', 'Disappear', 'countActive', 'create', 'PizzaSprite', 'Assign_itemData', 'Squared', 'ScrollBar', 'MOLISANO_BELLO', 'ring', 'spianami', 'updateFreq', 'sDarkness', 'joyStick', 'graphics2', 'confirmationPanel', 'FOREST', 'BackFromGameOver'];
     a0_0x12be = function () {
         return _0x41c640;
     };
